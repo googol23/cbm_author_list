@@ -1,0 +1,101 @@
+﻿pk,mnemonic,city,country,status,join,leave,name,representative
+1,AMU,Aligarh,India,FULL,2007-09-26,,"Department of Physics, Aligarh Muslim University",Nazeer Ahmad
+2,UAustin,Austin,USA,EXT,2025-02-18,,"Department of Physics, The University of Texas at Austin",
+3,THU,Beijing,China,FULL,2008-10-15,,"Department of Engineering Physics, Tsinghua University",Yi Wang
+4,BU,Benha,Egypt,EXT,2016-04-28,,Benha University,
+5,UBergen,Bergen,Norway,FormFULL,2004-02-13,2012-03-29,"Department of Physics and Technology, University of Bergen",
+6,ZIB,Berlin,Germany,FULL,2015-04-23,,Zuse Institute Berlin,Florian Schintke
+7,IOPB,Bhubaneswar,India,FULL,2006-09-21,,Institute of Physics,Pradip Kumar Sahu
+8,NISER,Bhubaneswar,India,FULL,2018-03-22,,National Institute of Science Education and Research,Bedangadas Mohanty
+9,RUB,Bochum,Germany,FULL,2023-09-27,,"Institut für Experimentalphysik I, Ruhr-Universität Bochum",James Ritman
+10,UComenius,Bratislava,Slovakia,FormEXT,2012-10-15,2023-12-01,Comenius University in Bratislava,
+11,IFIN-HH,Bucharest,Romania,FULL,2004-02-13,,Horia Hulubei National Institute of Physics and Nuclear Engineering,Mariana Petriş
+12,ISSBucharest,Bucharest,Romania,EXT,2012-12-08,,Institute of Space Science,
+13,UBucharest,Bucharest,Romania,FULL,2008-02-27,,"Atomic and Nuclear Physics Department, University of Bucharest",Alexandru Jipa
+14,ELTE,Budapest,Hungary,FULL,2004-02-13,,Eötvös Loránd University,Máté Csanád
+15,WignerRCP,Budapest,Hungary,FULL,2004-02-13,,"Institute for Particle and Nuclear Physics, HUN-REN Wigner RCP",György Wolf
+16,ECTP,Cairo,Egypt,ASSO,2016-04-14,,Egyptian Center for Theoretical Physics at Nile University,Abdel Nasser Tawfik
+17,UPanjab,Chandigarh,India,FULL,2006-09-21,,"Department of Physics, Panjab University",Lokesh Kumar
+18,UChongqing,Chongqing,China,FULL,2017-09-27,,Chongqing University,Liang-ming Pan
+19,USilesia,Chorzów,Poland,ASSO,2004-02-13,,"Institute of Physics, University of Silesia",Seweryn Kowalski
+20,LIP,Coimbra,Portugal,FormFULL,2004-02-13,2010-09-30,Laboratório de Instrumentação e Física Experimental de Partículas,
+21,CMU,Constanta,Romania,FormEXT,2016-10-05,2023-12-01,Constanta Maritime University,
+22,FAIR,Darmstadt,Germany,FULL,2012-03-29,,Facility for Antiproton and Ion Research in Europe GmbH,Jürgen Eschke
+23,GSI,Darmstadt,Germany,FULL,2004-02-13,,GSI Helmholtzzentrum für Schwerionenforschung GmbH,Christian Joachim Schmidt
+24,IKP-TUD,Darmstadt,Germany,FULL,2012-09-27,,"Institut für Kernphysik, Technische Universität Darmstadt",Tetyana Galatyuk
+25,HZDR,Dresden,Germany,FormFULL,2004-02-13,2023-11-25,"Institut für Strahlenphysik, Helmholtz-Zentrum Dresden-Rossendorf",
+26,TUDresden,Dresden,Germany,EXT,2013-12-11,,"Institute of Nuclear and Particle Physics, Technische Universität Dresden",
+27,JINR-LIT,Dubna,Russia,FormFULL,2004-02-13,2023-04-04,"Laboratory of Information Technologies, Joint Institute for Nuclear Research",
+28,JINR-LPP,Dubna,Russia,FormFULL,2004-02-13,2012-03-29,"Laboratory of Particle Physics, Joint Institute for Nuclear Research",
+29,JINR-VBLHEP,Dubna,Russia,FormFULL,2004-02-13,2023-04-04,"Veksler and Baldin Laboratory of High Energy Physics, Joint Institute for Nuclear Research",
+30,HSEsslingen,Esslingen,Germany,FormPART,2012-09-16,2013-03-31,"Faculty of Natural Sciences, Esslingen University of Applied Sciences",
+31,FIAS,Frankfurt,Germany,FULL,2009-10-07,,"Frankfurt Institute for Advanced Studies, Goethe-Universität Frankfurt",Volker Lindenstruth
+32,HFHF,Frankfurt,Germany,EXT,2022-11-23,,Helmholtz Research Academy Hesse for FAIR,
+33,IKF-UFra,Frankfurt,Germany,FULL,2004-02-13,,"Institut für Kernphysik, Goethe-Universität Frankfurt",Joachim Stroth
+34,IRI-UFra,Frankfurt,Germany,FormFULL,2009-10-07,2024-10-30,"Institute for Computer Science, Goethe-Universität Frankfurt",
+35,SMIT,Gangtok,India,FormPART,2012-10-05,2022-03-23,Sikkim Manipal Institute of Technology,
+36,PNPI,Gatchina,Russia,FormFULL,2004-02-13,2023-04-04,"Petersburg Nuclear Physics Institute named by B.P.Konstantinov of National Research Centre ""Kurchatov Institute""",
+37,CERN,Geneva,Switzerland,EXT,2022-04-19,,European Organization for Nuclear Research,
+38,UGiessen,Gießen,Germany,FULL,2010-11-29,,Justus-Liebig-Universität Gießen,Claudia Höhne
+39,UGauhati,Guwahati,India,FULL,2008-10-15,,"Nuclear and Radiation Physics Research Laboratory, Department of Physics, Gauhati University",Buddhadeb Bhattacharjee
+40,USTC,Hefei,China,FULL,2005-12-17,,"Department of Modern Physics, University of Science & Technology of China",Yongjie Sun
+41,KIP,Heidelberg,Germany,FormFULL,2004-02-13,2011-04-07,"Kirchhoff-Institut für Physik, Universität Heidelberg",
+42,PI-UHd,Heidelberg,Germany,FULL,2004-02-13,,"Physikalisches Institut, Universität Heidelberg",Norbert Herrmann
+43,ZITI-UHd,Heidelberg,Germany,FULL,2004-02-13,,"Institut für Technische Informatik, Universität Heidelberg",Peter Fischer
+44,UHiroshima,Hiroshima,Japan,ASSO,2023-09-27,,"Physics Program, Graduate School of Advanced Science and Engineering, Hiroshima University",Yorito Yamaguchi
+45,IIT-I,Indore,India,FULL,2014-04-10,,Indian Institute of Technology Indore,Raghunath Sahoo
+46,URajasthan,Jaipur,India,FormFULL,2007-09-26,2017-04-25,"Physics Department, University of Rajasthan",
+47,UJammu,Jammu,India,FULL,2007-09-26,,"Department of Physics, University of Jammu",Anju Bhasin
+48,IKP-FZJ,Jülich,Germany,EXT,2023-10-05,,"Institut für Kernphysik, Forschungszentrum Jülich",
+49,TUKaiserslautern,Kaiserslautern,Germany,FormFULL,2004-02-13,2007-09-26,Technische Universität Kaiserslauten,
+50,KIT,Karlsruhe,Germany,FULL,2014-09-11,,Karlsruhe Institute of Technology,Jürgen Becker
+51,IIT-KGP,Kharagpur,India,FULL,2006-09-21,,Indian Institute of Technology Kharagpur,Ajay Kumar Singh
+52,FHKoeln,Köln,Germany,FormPART,2012-09-16,2014-12-11,"Institute for Communication Technology, Cologne University of Applied Sciences",
+53,Bose,Kolkata,India,FULL,2012-03-29,,"Department of Physics, Bose Institute",Supriya Das
+54,Saha,Kolkata,India,FormFULL,2006-09-21,2012-03-29," High Energy Physics Division, Saha Institute of Nuclear Physics",
+55,UCalcutta,Kolkata,India,FULL,2007-09-26,,"Department of Physics and Department of Electronic Science, University of Calcutta",Abhijit Bhattacharyya
+56,VECC,Kolkata,India,FULL,2006-03-03,,Variable Energy Cyclotron Centre,Anand Kumar Dubey
+57,AGH,Kraków,Poland,FULL,2007-09-26,,AGH University of Science and Technology,Robert Szczygieł
+58,UJagiellonian,Kraków,Poland,FULL,2004-02-13,,"Marian Smoluchowski Institute of Physics, Jagiellonian University",Paweł Staszel
+59,KINR,Kyiv,Ukraine,FULL,2008-10-15,,"High Energy Physics Department, Kiev Institute for Nuclear Research",Valery Pugatch
+60,TSNU-Kyiv,Kyiv,Ukraine,FULL,2004-02-13,,"Department of Nuclear Physics, Taras Shevchenko National University of Kyiv",Igor Kadenko
+61,IMP,Lanzhou,China,ASSO,2019-10-01,,"Institute of Modern Physics, Chinese Academy of Sciences",Ya-Peng Zhang
+62,UMainz,Mainz,Germany,FormASSO,2021-09-30,2024-05-01,"Institut für Physik, Johannes Gutenberg-Universität Mainz",
+63,UMarburg,Marburg,Germany,FormFULL,2004-02-13,2005-12-17,"Fachbereich Physik, Universität Marburg",
+64,INR,Moscow,Russia,FormFULL,2004-02-13,2023-04-04,Institute for Nuclear Research,
+65,ITEP,Moscow,Russia,FormFULL,2004-02-13,2023-04-04,"Institute for Theoretical and Experimental Physics named by A.I. Alikhanov of National Research Centre ""Kurchatov Institute""",
+66,MEPhI,Moscow,Russia,FormFULL,2005-03-11,2023-04-04,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),
+67,NRC-KI,Moscow,Russia,FormFULL,2004-02-13,2023-04-04,"National Research Centre ""Kurchatov Institute""",
+68,SINP-MSU,Moscow,Russia,FormFULL,2004-02-13,2023-04-04,"Skobeltsyn Institute of Nuclear Phyiscs, Lomonosov Moscow State University",
+69,UMuenster,Münster,Germany,FULL,2004-02-13,,"Institut für Kernphysik, Universität Münster",Anton Andronic
+70,IIT-B,Mumbai,India,ASSO,2016-04-14,,Indian Institute of Technology Bombay,Sadhana Dash
+71,TUM,Munich,Germany,ASSO,2019-04-04,,"TUM School of Natural Sciences, Department of Physics, Technical University of Munich",Ante Bilandzic
+72,UCyprus,Nikosia,Cyprus,FormFULL,2004-02-13,2009-03-11,Cyprus University,
+73,UObninsk,Obninsk,Russia,FormFULL,2004-02-13,2015-09-17,National Research Nuclear University,
+74,UPS-IJCLab,Orsay,France,EXT,2023-05-19,,"IJCLab, Université Paris-Saclay, CNRS/IN2P3",
+75,CTU,Prague,Czech Republic,FULL,2004-02-13,,Czech Technical University in Prague,Petr Chaloupka
+76,IHEP,Protvino,Russia,FormFULL,2004-02-13,2023-04-04,"Institute of High Energy Physics named after A.A. Logunov of National Research Center ""Kurchatov Institute""",
+77,UPune,Pune,India,EXT,2021-09-24,,"Department of Technology, Savitribai Phule Pune University",
+78,PNU,Pusan,Korea,FULL,2004-02-13,,Pusan National University,In-Kwon Yoo
+79,NPI-CAS,Řež,Czech Republic,FULL,2004-02-13,,Nuclear Physics Institute of the Czech Academy of Sciences,Andrej Kugler
+80,KACST,Riyadh,Saudi Arabia,FormEXT,2012-12-15,2023-12-01,King Abdulaziz City for Science and Technology,
+81,USC,Santiago de la Compostela,Spain,FormFULL,2004-02-13,2005-12-17,Royal University of Santiago de Compostela,
+82,UKorea,Seoul,Korea,FormFULL,2004-02-13,2012-03-29,"Department of Physics, Korea University",
+83,NBU,Siliguri,India,ASSO,2016-04-14,,"Department of Physics, Faculty of Science, University of North Bengal",Amitabha Mukhopadhyay
+84,USplit,Split,Croatia,FormASSO,2007-03-01,2019-04-04,University of Split,
+85,UKashmir,Srinagar,India,FULL,2007-09-26,,"Department of Physics, University of Kashmir",M. Farooq Mir
+86,Ioffe,St. Petersburg,Russia,FormASSO,2011-04-07,2019-04-04,"Ioffe Institute, Russian Academy of Sciences",
+87,KRI,St. Petersburg,Russia,FormASSO,2004-02-13,2023-04-04,"Khlopin Radium Institute, Joint-Stock Company - Entity of Science and Innovations JSC of Rosatom",
+88,SPbPU,St. Petersburg,Russia,FormASSO,2004-02-13,2023-04-04,St. Petersburg Polytechnic University,
+89,IPHC,Strasbourg,France,ASSO,2004-02-13,,"Université de Strasbourg, CNRS, IPHC UMR 7178",Marc Winter
+90,KEK,Tsukuba,Japan,ASSO,2019-04-04,,High Energy Accelerator Research Organization,Kyoichiro Ozawa
+91,TCHoU,Tsukuba,Japan,ASSO,2021-09-29,,"Tomonaga Center for the History of the Universe, University of Tsukuba",ShinIchi Esumi
+92,UTuebingen,Tübingen,Germany,FULL,2011-04-07,,"Physikalisches Institut, Eberhard Karls Universität Tübingen",Hans Rudolf Schmidt
+93,BHU,Varanasi,India,FULL,2006-09-21,,"Department of Physics, Banaras Hindu University",Bhartendu Kumar Singh
+94,IF-WUT,Warsaw,Poland,FULL,2020-04-30,,"Faculty of Physics, Warsaw University of Technology",Hanna Paulina Zbroszczyk
+95,ISE-WUT,Warsaw,Poland,FULL,2013-04-11,,"Institute of Electronic Systems, Warsaw University of Technology",Ryszard Romaniuk
+96,UWarsaw,Warsaw,Poland,FULL,2004-02-13,,"Faculty of Physics, University of Warsaw",Krzysztof Piasecki
+97,CCNU,Wuhan,China,FULL,2005-03-11,,"College of Physical Science and Technology, Central China Normal University",Xiaofeng Luo
+98,UWuppertal,Wuppertal,Germany,FULL,2009-10-07,,"Fakultät für Mathematik und Naturwissenschaften, Bergische Universität Wuppertal",Karl-Heinz Kampert
+99,CTGU,Yichang,China,FULL,2015-04-23,,"College of Science, China Three Gorges University",Sheng-Qin Feng
+100,RBI,Zagreb,Croatia,FormFULL,2004-02-13,2013-11-07,Ruđer Bošković Institute,

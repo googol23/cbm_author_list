@@ -1,0 +1,384 @@
+\author[1]{K.~Kasi\'{n}ski}
+\author[1]{R.~K{\l}eczek}
+\author[1]{P.~Otfinowski}
+\author[1]{P.~Semeniuk}
+\author[1]{R.~Szczygie{\l}}
+\author[1]{W.~Zubrzycka}
+\affiliation[1]{AGH University of Science and Technology (AGH), Krak\'{o}w, Poland}
+\author[2]{V.A.~B\^{a}sceanu}
+\author[2]{M.~C\~{a}lin}
+\author[2]{D.-A.~Dear\u{a}}
+\author[2]{A.~Jipa}
+\author[2]{I.~Lazanu}
+\author[2]{O.~Ristea}
+\affiliation[2]{Atomic and Nuclear Physics Department, University of Bucharest, Bucharest, Romania}
+\author[3]{Liang-ming Pan}
+\author[3]{Qiqi Wu}
+\author[3]{Wenxiong Zhou}
+\affiliation[3]{Chongqing University, Chongqing, China}
+\author[4]{Yige Huang}
+\author[4]{Feng Liu}
+\author[4]{Xiaofeng Luo}
+\author[4]{Yaxian Mao}
+\author[4]{Shusu Shi}
+\author[4]{Zhongbao Yin}
+\author[4]{Xiaoming Zhang}
+\author[4]{Daicui Zhou}
+\affiliation[4]{College of Physical Science and Technology, Central China Normal University (CCNU), Wuhan, China}
+\author[5]{Sheng-Qin Feng}
+\author[5]{Shuang Li}
+\author[5]{Ke-Jun Wu}
+\author[5]{Sheng Zheng}
+\affiliation[5]{College of Science, China Three Gorges University (CTGU), Yichang, China}
+\author[6]{P.~Chaloupka}
+\author[6]{R.~Dvo\v{r}\'{a}k}
+\author[6]{H.~Hesounov\'{a}}
+\author[6]{O.~Hofman}
+\author[6]{V.~Petr\'{a}\v{c}ek}
+\affiliation[6]{Czech Technical University in Prague (CTU), Prague, Czech Republic}
+\author[7]{Dong Han}
+\author[7]{Yuanjing Li}
+\author[7]{Kai Sun}
+\author[7]{Yi Wang}
+\author[7]{Xianglei Zhu}
+\affiliation[7]{Department of Engineering Physics, Tsinghua University, Beijing, China}
+\author[8]{Wen Li}
+\author[8]{Yongjie Sun}
+\author[8]{Zhengyang Sun}
+\author[8]{Kaiyang Wang}
+\author[8]{Junfeng Yang}
+\author[8]{Ming Yao}
+\affiliation[8]{Department of Modern Physics, University of Science \& Technology of China (USTC), Hefei, China}
+\author[9]{O.~Bezshyyko}
+\author[9]{L.~Golinka-Bezshyyko}
+\author[9]{I.~Kadenko}
+\author[9]{V.~Plujko}
+\affiliation[9]{Department of Nuclear Physics, Taras Shevchenko National University of Kyiv, Kyiv, Ukraine}
+\author[10]{A.~Bhattacharyya}
+\author[10]{A.~Chakrabarti}
+\author[10]{G.~Gangopadhyay}
+\affiliation[10]{Department of Physics and Department of Electronic Science, University of Calcutta, Kolkata, India}
+\author[11]{N.~Ahmad}
+\author[11]{N.~Alam}
+\author[11]{M.D.~Azmi}
+\author[11]{M.M.~Khan}
+\author[11]{A.K.~Sharma}
+\affiliation[11]{Department of Physics, Aligarh Muslim University, Aligarh, India}
+\author[12]{Ajay Kumar}
+\author[12]{S.R.~Nayak}
+\author[12]{B.K.~Singh}
+\affiliation[12]{Department of Physics, Banaras Hindu University (BHU), Varanasi, India}
+\author[13]{S.~Biswas}
+\author[13]{R.~Das}
+\author[13]{S.~Das}
+\author[13]{S.K.~Ghosh}
+\author[13]{S.~Gope}
+\author[13]{S.~Mandal}
+\author[13]{S.K.~Prasad}
+\author[13]{S.~Raha}
+\author[13]{R.~Ray}
+\author[13]{A.~Sen}
+\author[13]{Anjali Sharma}
+\affiliation[13]{Department of Physics, Bose Institute, Kolkata, India}
+\author[14]{L.~Kumar}
+\affiliation[14]{Department of Physics, Panjab University, Chandigarh, India}
+\author[15]{A.~Bhasin}
+\author[15]{A.~Gupta}
+\author[15]{S.~Mahajan}
+\author[15]{S.S.~Sambyal}
+\affiliation[15]{Department of Physics, University of Jammu, Jammu, India}
+\author[16]{S.A.~Bhat}
+\author[16]{T.A.~Bhat}
+\author[16]{W.A.~Bhat}
+\author[16]{M.F.~Mir}
+\affiliation[16]{Department of Physics, University of Kashmir, Srinagar, India}
+\author[17]{M.~Csan\'{a}d}
+\affiliation[17]{Eötvös Lor\'{a}nd University (ELTE), Budapest, Hungary}
+\author[18]{E.~Clerkin}
+\author[18]{J.~Eschke}
+\author[18]{P.~Gasik}
+\author[18]{O.~Keller}
+\author[18]{K.~Sch\"{u}nemann}
+\author[18]{A.~Senger}
+\author[18]{P.~Senger}
+\author[18]{D.~Smith}
+\affiliation[18]{Facility for Antiproton and Ion Research in Europe GmbH (FAIR), Darmstadt, Germany}
+\author[19]{T.~Matulewicz}
+\author[19]{K.~Piasecki}
+\affiliation[19]{Faculty of Physics, University of Warsaw, Warsaw, Poland}
+\author[20]{J.~Pluta}
+\author[20]{D.~Wielanek}
+\author[20]{H.P.~Zbroszczyk}
+\affiliation[20]{Faculty of Physics, Warsaw University of Technology, Warsaw, Poland}
+\author[21]{G.~Boccarella}
+\author[21]{A.A.~Deshmukh}
+\author[21]{J.~F\"{o}rtsch}
+\author[21]{K.-H.~Kampert}
+\author[21]{Sukyung Kim}
+\author[21]{S.~Neuhaus}
+\author[21]{C.~Pauly}
+\author[21]{J.~Pe\~{n}a Rodr\'{\i}guez}
+\author[21]{D.~Pfeifer}
+\author[21]{T.~Povar}
+\author[21]{P.~Subramani}
+\author[21]{Ruijia Yang}
+\affiliation[21]{Fakultät für Mathematik und Naturwissenschaften, Bergische Universität Wuppertal, Wuppertal, Germany}
+\author[22]{A.~Belousov}
+\author[22]{N.~Bluhme}
+\author[22]{A.~Daribayeva}
+\author[22]{J.~de Cuveland}
+\author[22]{D.~Hutter}
+\author[22]{I.~Kisel}
+\author[22]{G.~Kozlov}
+\author[22]{R.~Lakos}
+\author[22]{V.~Lindenstruth}
+\author[22]{A.~Mithran}
+\author[22]{A.~Redelbach}
+\author[22]{O.~Tyagi}
+\author[22]{F.~Weiglhofer}
+\author[22]{G.~Zischka}
+\affiliation[22]{Frankfurt Institute for Advanced Studies, Goethe-Universität Frankfurt (FIAS), Frankfurt, Germany}
+\author[23]{M.~Al-Turany}
+\author[23]{M.~Bajdel}
+\author[23]{D.~Bertini}
+\author[23]{O.~Bertini}
+\author[23]{Subhasis Chattopadhyay}
+\author[23]{L.M.~Collazo S\'{a}nchez}
+\author[23]{P.~Dahm}
+\author[23]{H.~Deppe}
+\author[23]{I.~Deppner}
+\author[23]{M.~Deveaux}
+\author[23]{A.~Dubla}
+\author[23]{I.~Elizarov}
+\author[23]{D.~Emschermann}
+\author[23]{H.~Flemming}
+\author[23]{P.~Foka}
+\author[23]{U.~Frankenfeld}
+\author[23]{V.~Friese}
+\author[23]{J.~Fr\"{u}hauf}
+\author[23]{S.~Gorbunov}
+\author[23]{D.~Grzonka}
+\author[23]{D.~Guti\'{e}rrez Men\'{e}ndez}
+\author[23]{J.M.~Heuser}
+\author[23]{R.~Holzmann}
+\author[23]{K.~Ismail}
+\author[23]{R.M.~Kapell}
+\author[23]{R.~Karabowicz}
+\author[23]{I.~Keshelashvili}
+\author[23]{M.~Ki\v{s}}
+\author[23]{K.~Koch}
+\author[23]{P.~Koczo\'{n}}
+\author[23]{D.~Kresan}
+\author[23]{J.~Lehnert}
+\author[23]{F.J.~Linz}
+\author[23]{S.~L\"{o}chner}
+\author[23]{P.-A.~Loizeau}
+\author[23]{O.~Lubynets}
+\author[23]{A.~Lymanets}
+\author[23]{A.M.~Marin Garcia}
+\author[23]{J.~Markert}
+\author[23]{J.~Messchendorp}
+\author[23]{D.~Miskowiec}
+\author[23]{W.F.J.~M\"{u}ller}
+\author[23]{F.~Nerling}
+\author[23]{F.~Nickels}
+\author[23]{\"{O}.~Penek}
+\author[23]{J.~Pietraszko}
+\author[23]{D.A.~Ram\'{\i}rez Zaldivar}
+\author[23]{D.~Rodr\'{\i}guez Garces}
+\author[23]{A.~Rodr\'{\i}guez Rodr\'{\i}guez}
+\author[23]{S.~Roy}
+\author[23]{A.~Rustamov}
+\author[23]{K.~Santos Marrero}
+\author[23]{C.J.~Schmidt}
+\author[23]{I.~Selyuzhenkov}
+\author[23]{Anju Sharma}
+\author[23]{M.~Shiroya}
+\author[23]{C.~Simons}
+\author[23]{C.~Sturm}
+\author[23]{O.~Suddia}
+\author[23]{J.~Taylor}
+\author[23]{M.~Teklishyn}
+\author[23]{J.~Thaufelder}
+\author[23]{A.~Toia}
+\author[23]{M.~Traxler}
+\author[23]{F.~Uhlig}
+\author[23]{I.~Vassiliev}
+\author[23]{O.~Vasylyev}
+\author[23]{R.~Visinka}
+\author[23]{A.~Wilms}
+\author[23]{Xin Zhang}
+\author[23]{S.~Zharko}
+\author[23]{Yingjie Zhou}
+\author[23]{P.~Zumbruch}
+\affiliation[23]{GSI Helmholtzzentrum für Schwerionenforschung GmbH (GSI), Darmstadt, Germany}
+\author[24]{S.~Chernyshenko}
+\author[24]{V.~Dobishuk}
+\author[24]{O.~Kovalchuk}
+\author[24]{O.~Kshyvanskyi}
+\author[24]{V.~Kyva}
+\author[24]{M.~Pugach}
+\author[24]{V.~Pugatch}
+\affiliation[24]{High Energy Physics Department, Kiev Institute for Nuclear Research (KINR), Kyiv, Ukraine}
+\author[25]{A.~Bercuci}
+\author[25]{M.~Petri\c{s}}
+\author[25]{M.~Petrovici}
+\author[25]{L.~Radulescu}
+\author[25]{C.~Schiaua}
+\affiliation[25]{Horia Hulubei National Institute of Physics and Nuclear Engineering (IFIN-HH), Bucharest, Romania}
+\author[26]{A.~Roy}
+\author[26]{R.~Sahoo}
+\author[26]{S.~Samal}
+\affiliation[26]{Indian Institute of Technology Indore, Indore, India}
+\author[27]{A.K.~Singh}
+\affiliation[27]{Indian Institute of Technology Kharagpur, Kharagpur, India}
+\author[28]{F.~Goldenbaum}
+\author[28]{R.~Kliemt}
+\author[28]{D.~Okropiridze}
+\author[28]{N.~Podgornov}
+\author[28]{J.~Ritman}
+\author[28]{T.~Sefzick}
+\author[28]{T.~Stockmanns}
+\author[28]{P.~Wintz}
+\author[28]{Huagen Xu}
+\affiliation[28]{Institut für Experimentalphysik I, Ruhr-Universität Bochum, Bochum, Germany}
+\author[29]{J.~Andary}
+\author[29]{H.~Appelsh\"{a}user}
+\author[29]{B.~Arnoldi-Meadows}
+\author[29]{B.~Artur}
+\author[29]{C.~Blume}
+\author[29]{H.~Cherif}
+\author[29]{H.~Darwish}
+\author[29]{I.~Fr\"{o}hlich}
+\author[29]{S.~Gl\"{a}{\ss}el}
+\author[29]{B.~Gutsche}
+\author[29]{M.~Koziel}
+\author[29]{Ajit Kumar}
+\author[29]{M.~Lorenz}
+\author[29]{F.A.~Matejcek}
+\author[29]{J.~Michel}
+\author[29]{C.~M\"{u}ntz}
+\author[29]{M.~Nabroth}
+\author[29]{F.~Roether}
+\author[29]{D.~Schledt}
+\author[29]{O.~Singh}
+\author[29]{D.~Spicker}
+\author[29]{J.~Stroth}
+\author[29]{E.D.~Taka}
+\affiliation[29]{Institut für Kernphysik, Goethe-Universität Frankfurt, Frankfurt, Germany}
+\author[30]{T.~Galatyuk}
+\author[30]{V.~Kedych}
+\author[30]{W.~Kr\"{u}ger}
+\author[30]{A.~Rost}
+\author[30]{F.-J.~Seck}
+\affiliation[30]{Institut für Kernphysik, Technische Universität Darmstadt, Darmstadt, Germany}
+\author[31]{A.~Andronic}
+\author[31]{R.~Berendes}
+\author[31]{D.~Bonaventura}
+\author[31]{L.J.~Faber}
+\author[31]{F.~Fidorra}
+\author[31]{N.~Heine}
+\author[31]{P.~K\"{a}hler}
+\author[31]{Ch.~Klein-B\"{o}sing}
+\author[31]{M.~Kohn}
+\author[31]{A.~Meyer-Ahrens}
+\author[31]{D.~Moreira de Godoy Willems}
+\author[31]{P.~Munkes}
+\author[31]{A.~Puntke}
+\author[31]{L.~Wahmes}
+\author[31]{J.P.~Wessels}
+\affiliation[31]{Institut für Kernphysik, Universität Münster, Münster, Germany}
+\author[32]{P.~Fischer}
+\affiliation[32]{Institut für Technische Informatik, Universität Heidelberg, Heidelberg, Germany}
+\author[33]{F.~Hoffmann}
+\author[33]{T.~Janson}
+\affiliation[33]{Institute for Computer Science, Goethe-Universität Frankfurt, Frankfurt, Germany}
+\author[34]{Gy.~Wolf}
+\affiliation[34]{Institute for Particle and Nuclear Physics, HUN-REN Wigner RCP, Budapest, Hungary}
+\author[35]{M.~Kruszewski}
+\author[35]{B.~Kubiak}
+\author[35]{K.~Po\'{z}niak}
+\author[35]{R.~Romaniuk}
+\author[35]{A.~Twarowska}
+\author[35]{M.~Wojtkowski}
+\author[35]{A.~Wy\.{z}ykowski}
+\author[35]{W.~Zabo{\l}otny}
+\affiliation[35]{Institute of Electronic Systems, Warsaw University of Technology, Warsaw, Poland}
+\author[36]{B.~Mallick}
+\author[36]{P.K.~Sahu}
+\author[36]{S.K.~Sahu}
+\affiliation[36]{Institute of Physics, Bhubaneswar, India}
+\author[37]{L.J.~Ahrens}
+\author[37]{M.~Becker}
+\author[37]{M.~Beyer}
+\author[37]{J.~Diehl}
+\author[37]{M.~D\"{u}rr}
+\author[37]{C.~Feier-Riesen}
+\author[37]{C.~H\"{o}hne}
+\author[37]{S.~Peter}
+\author[37]{S.P.~Reiter}
+\author[37]{K.~Scharmann}
+\author[37]{S.N.~Thau}
+\affiliation[37]{Justus-Liebig-Universität Gie{\ss}en, Gie{\ss}en, Germany}
+\author[38]{M.~Balzer}
+\author[38]{J.~Becker}
+\author[38]{T.~Blank}
+\author[38]{M.~Caselle}
+\author[38]{V.~Sidorenko}
+\author[38]{F.~Simon}
+\author[38]{E.~Trifonova}
+\author[38]{K.L.~Unger}
+\affiliation[38]{Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany}
+\author[39]{J.~Brzychczyk}
+\author[39]{D.~Gil}
+\author[39]{R.~Lalik}
+\author[39]{P.~Lasko}
+\author[39]{Z.~Majka}
+\author[39]{R.~P{\l}aneta}
+\author[39]{P.~Salabura}
+\author[39]{B.~Sob\'{o}l}
+\author[39]{P.~Staszel}
+\author[39]{L.~Tr\k{e}bacz}
+\author[39]{A.~Wieloch}
+\affiliation[39]{Marian Smoluchowski Institute of Physics, Jagiellonian University, Krak\'{o}w, Poland}
+\author[40]{V.K.S.~Kashyap}
+\author[40]{B.~Mohanty}
+\author[40]{R.~Singh}
+\affiliation[40]{National Institute of Science Education and Research (NISER), Bhubaneswar, India}
+\author[41]{J.~Kollarczyk}
+\author[41]{A.~Kugler}
+\author[41]{A.~Op\'{\i}chal}
+\affiliation[41]{Nuclear Physics Institute of the Czech Academy of Sciences, \v{R}e\v{z}, Czech Republic}
+\author[42]{B.~Bhattacharjee}
+\affiliation[42]{Nuclear and Radiation Physics Research Laboratory, Department of Physics, Gauhati University, Guwahati, India}
+\author[43]{H.R.~Schmidt}
+\author[43]{G.S.~Subramanya}
+\author[43]{E.~Volkova}
+\affiliation[43]{Physikalisches Institut, Eberhard Karls Universität Tübingen, Tübingen, Germany}
+\author[44]{Junyi Han}
+\author[44]{N.~Herrmann}
+\author[44]{Yixuan Jin}
+\author[44]{Yue Hang Leung}
+\author[44]{E.~Rubio}
+\author[44]{Y.~S\"{o}hngen}
+\author[44]{P.~Weidenkaff}
+\affiliation[44]{Physikalisches Institut, Universität Heidelberg, Heidelberg, Germany}
+\author[45]{In-Kwon Yoo}
+\affiliation[45]{Pusan National University (PNU), Pusan, Korea}
+\author[46]{A.~Agarwal}
+\author[46]{Z.~Ahammed}
+\author[46]{A.~Bandyopadhyay}
+\author[46]{P.P.~Bhaduri}
+\author[46]{N.K.~Bhowmik}
+\author[46]{Souvik Chattopadhyay}
+\author[46]{A.K.~Dubey}
+\author[46]{C.~Ghosh}
+\author[46]{E.~Nandy}
+\author[46]{J.~Saini}
+\author[46]{P.K.~Sharma}
+\author[46]{V.~Singhal}
+\affiliation[46]{Variable Energy Cyclotron Centre (VECC), Kolkata, India}
+\author[47]{N.~Greve}
+\author[47]{A.~Reinefeld}
+\author[47]{F.~Schintke}
+\affiliation[47]{Zuse Institute Berlin (ZIB), Berlin, Germany}

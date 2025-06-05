@@ -1,0 +1,1215 @@
+﻿pk,givenname,familyname,initials,title,degree,study,status,join,leave,prim_affil,other_affil,roles,email,country
+2,Noor,Alam,N.,Mr,A.Prof,,FULL,2024-09-11,,|AMU|,,,skalam.ph@amu.ac.in,India
+3,Mohd. Danish,Azmi,M.D.,Mr,A.Prof,,FULL,2007-10-05,,|AMU|,,,danish.hep@gmail.com,India
+4,Muhammad,Irfan,M.,Mr,Prof,,FULL,2007-10-01,2019-03-25,|AMU|,|AMU|,,hep_amu@rediffmail.com,India
+5,Hushnud,Jahan,H.,Ms,Dr,,FULL,2013-05-15,2019-03-25,|AMU|,|AMU|,,hushnud.jahan@gmail.com,India
+7,Abhishek Kumar,Sharma,A.K.,Mr,M.Sci,Phd,FULL,2022-11-04,,|AMU|,,,abhishekhep@gmail.com,India
+8,Jianping,Cheng,,Mr,Prof,,FULL,2008-10-28,2017-07-07,|THU|,|THU|,,chengjp@mail.tsinghua.edu.cn,China
+9,Zhi,Deng,,Mr,Prof,,FULL,2008-10-28,2023-11-13,|THU|,|THU|,,dengz@mail.tsinghua.edu.cn,China
+10,Baohong,Guo,,Mr,,Ma,ASSO,2015-03-05,2016-09-11,|THU|,|THU|,,,China
+11,Dong,Han,,Ms,Prof,,FULL,2014-12-18,,|THU|,,,handong@mail.tsinghua.edu.cn,China
+12,Xinjie,Huang,,Mr,Dr,,FULL,2013-08-14,2019-03-07,|THU|,|THU|,,tan116@126.com,China
+13,Jin,Li,,Mr,Prof,,FULL,2008-10-28,2014-12-18,|THU|,|THU|,,lij@ihep.ac.cn,China
+14,Yuanjing,Li,,Mr,Prof,,FULL,2008-10-28,,|THU|,,,gwxlyj@mail.tsinghua.edu.cn,China
+15,Yulan,Li,,Mr,Prof,,FULL,2008-10-28,2014-12-18,|THU|,|THU|,,yulanli@mail.tsinghua.edu.cn,China
+16,Pengfei,Lyu,,Mr,Dr,,FULL,2014-12-18,2019-09-09,|THU|,|THU|,,lvpf10@163.com,China
+17,Kai,Sun,,Mr,,Phd,FULL,2023-03-16,,|THU|,,,sun-k21@mails.tsinghua.edu.cn,China
+18,Botan,Wang,,Mr,Dr,,FULL,2019-03-07,2023-11-13,|THU|,|THU|,,wbt19@mails.tsinghua.edu.cn,China
+19,Yi,Wang,,Mr,Prof,,FULL,2008-10-28,,|THU|,,|CB|,yiwang@mail.tsinghua.edu.cn,China
+20,Qian,Yue,,Mr,,,FULL,2008-10-28,2013-08-14,|THU|,|THU|,,yueq@mail.tsinghua.edu.cn,China
+21,Qiunan,Zhang,,Ms,Dr,,FULL,2018-04-27,2023-03-16,|THU|,|THU|PI-UHd|,,zhangqn17@mails.tsinghua.edu.cn,China
+22,Xianglei,Zhu,,Mr,Prof,,FULL,2008-10-28,,|THU|,,,zhux@tsinghua.edu.cn,China
+23,Dieter,Röhrich,D.,Mr,Prof,,FULL,2004-02-13,2012-03-29,|UBergen|,|UBergen|,,dieter.rohrich@ift.uib.no,Norway
+24,Knut Steffen,Solvåg,K.S.,Mr,,,FULL,2007-02-07,2009-03-04,|UBergen|,|UBergen|,,Knut.solvag@student.uib.no,Norway
+25,Kjetil,Ullaland,K.,Mr,Dr,,FULL,2004-02-13,2012-03-29,|UBergen|,|UBergen|,,Kjetil.Ullaland@ift.uib.no,Norway
+26,Jannik,Graf von Schlieffen,J.,Mr,,,ASSO,2025-01-29,,|ZIB|,,,von.schlieffen@zib.de,Germany
+27,Nico,Greve,N.,Mr,M.Sci,Phd,FULL,2023-12-13,,|ZIB|,,,greve@zib.de,Germany
+28,Benjamin,Kaiser,B.,Mr,,,ASSO,2023-12-13,2024-12-31,|ZIB|,|ZIB|,,kaiser@zib.de,Germany
+29,Alexander,Reinefeld,A.,Mr,Prof,,FULL,2014-11-20,,|ZIB|,,,ar@zib.de,Germany
+30,Farouk,Salem,F.,Mr,,,FULL,2016-12-14,2023-01-01,|ZIB|,|ZIB|,,salem@zib.de,Germany
+31,Florian,Schintke,F.,Mr,Dr,,FULL,2015-03-05,,|ZIB|,,|CB|,schintke@zib.de,Germany
+32,Thorsten,Schütt,T.,Mr,Dr,,FULL,2016-12-14,2020-03-31,|ZIB|,|ZIB|,,schuett@zib.de,Germany
+34,Biswajit,Mallick,B.,Mr,Dr,,FULL,2019-02-25,,|IOPB|,,,bmallick@iopb.res.in,India
+35,Mriganka Mouli,Mondal,M.M.,Mr,Dr,,FULL,2016-10-05,2017-12-20,|IOPB|,|IOPB|,,m.mriganka@gmail.com,India
+36,Nihar Ranjan,Panda,N.R.,Mr,Dr,,FULL,2013-05-15,2017-12-20,|IOPB|,|IOPB|,,niharphy@iopb.res.in,India
+37,Pradip Kumar,Sahu,P.K.,Mr,Prof,,FULL,2006-09-27,,|IOPB|,,|CB|,pradipsahu.iopb@gmail.com,India
+38,Sanjib Kumar,Sahu,S.K.,Mr,Eng,,FULL,2015-12-12,,|IOPB|,,,ssahu.iopb@gmail.com,India
+39,Abhik,Jash,A.,Mr,Dr,,FULL,2018-05-15,2019-10-24,|NISER|,|NISER|,,abhik.jash@niser.ac.in,India
+40,Varchaswi K.S.,Kashyap,V.K.S.,Mr,Dr,,FULL,2018-03-22,,|NISER|,,,vkashyap@niser.ac.in,India
+41,Bedangadas,Mohanty,B.,Mr,Prof,,FULL,2006-01-21,,|NISER|,|VECC|,|CB|,bedanga@niser.ac.in,India
+42,Diptanil,Roy,D.,Mr,,Ma,FULL,2019-02-20,2019-10-24,|NISER|,|NISER|,,diptanil.roy@niser.ac.in,India
+43,Subhasis,Samanta,S.,Mr,Dr,,FULL,2013-04-03,2020-01-13,|NISER|,|NISER|Bose|,,subhasis@niser.ac.in,India
+44,Ranbir,Singh,R.,Mr,Dr,,FULL,2018-03-22,,|NISER|,,,ranbir.singh@niser.ac.in,India
+45,Frank,Goldenbaum,F.,Mr,Prof,,FULL,2023-10-05,,|RUB|,|UWuppertal|IKP-FZJ|,,f.goldenbaum@fz-juelich.de,Germany
+46,Ralf,Kliemt,R.,Mr,Dr,,FULL,2024-05-16,,|RUB|,|GSI|,,Ralf.Kliemt@ruhr-uni-bochum.de,Germany
+47,Dachi,Okropiridze,D.,Mr,M.Sci,Phd,FULL,2023-01-31,,|RUB|,|IKP-FZJ|GSI|,,dachiokropiridze@gmail.com,Germany
+48,Nikolai,Podgornov,N.,Mr,,Phd,FULL,2024-08-27,,|RUB|,|IKP-FZJ|,,n.podgornov@fz-juelich.de,Germany
+49,James,Ritman,J.,Mr,Prof,,FULL,2023-09-27,,|RUB|,|GSI|IKP-FZJ|,|CB|,j.ritman@gsi.de,Germany
+50,Thomas,Sefzick,T.,Mr,Dr,,FULL,2023-11-14,,|RUB|,|GSI|IKP-FZJ|,,t.sefzick@fz-juelich.de,Germany
+51,Tobias,Stockmanns,T.,Mr,Dr,,FULL,2023-10-05,,|RUB|,|IKP-FZJ|,,t.stockmanns@gsi.de,Germany
+52,Peter,Wintz,P.,Mr,Dr,,FULL,2023-11-14,,|RUB|,|IKP-FZJ|,,p.wintz@fz-juelich.de,Germany
+53,Huagen,Xu,,Mr,Dr,,FULL,2023-10-05,,|RUB|,|GSI|IKP-FZJ|,,h.xu@fz-juelich.de,Germany
+54,Cristina,Aiftimiei,C.,Ms,,,FULL,2004-02-13,2007-02-06,|IFIN-HH|,|IFIN-HH|,,caifti@tandem.nipne.ro,Romania
+55,Cristian,Andrei,C.,Mr,Dr,,FULL,2007-03-12,2017-12-13,|IFIN-HH|,|IFIN-HH|,,acristian@niham.nipne.ro,Romania
+56,Daniel,Bartoş,D.,Mr,Eng,,FULL,2012-01-06,2017-12-13,|IFIN-HH|,|IFIN-HH|,,bartos@nipne.ro,Romania
+57,Ionela,Berceanu,I.,Ms,Dr,,FULL,2007-02-06,2017-12-13,|IFIN-HH|,|IFIN-HH|,,i_ber@nipne.ro,Romania
+58,Alexandru,Bercuci,A.,Mr,Dr,,FULL,2014-07-01,,|IFIN-HH|,,|PL-dep|,abercuci@niham.nipne.ro,Romania
+59,Gheorghe,Caragheorgheopol,G.,Mr,Eng,,FULL,2005-03-07,2017-12-13,|IFIN-HH|,|IFIN-HH|,,cara@nipne.ro,Romania
+60,Vasile,Cătănescu,V.,Mr,Dr,,FULL,2004-02-13,2017-12-13,|IFIN-HH|,|IFIN-HH|,,catanesc@nipne.ro,Romania
+61,Florin,Constantin,F.,Mr,Dr,,FULL,2011-04-21,2017-12-13,|IFIN-HH|,|IFIN-HH|,,fconst@nipne.ro,Romania
+63,Andrei,Herghelegiu,A.,Mr,Dr,,FULL,2007-03-12,2017-12-13,|IFIN-HH|,|IFIN-HH|,,aherghe@niham.nipne.ro,Romania
+64,Constantin,Măgureanu,C.,Mr,,,FULL,2005-03-07,2009-02-24,|IFIN-HH|,|IFIN-HH|,,cmag@ifin.nipne.ro,Romania
+65,Dorin,Moisă,D.,Mr,,,FULL,2004-02-13,2008-01-23,|IFIN-HH|,|IFIN-HH|,,moisa@ifin.nipne.ro,Romania
+66,Mariana,Petriş,M.,Ms,Dr,,FULL,2004-02-13,,|IFIN-HH|,,|CB|RB|,mpetris@nipne.ro,Romania
+67,Alexandrina,Petrovici,A.,Ms,Prof,,FULL,2004-02-13,2017-12-13,|IFIN-HH|,|IFIN-HH|,,spetro@nipne.ro,Romania
+68,Mihai,Petrovici,M.,Mr,Prof,,FULL,2003-08-25,2025-01-06,|IFIN-HH|,|IFIN-HH|,,mpetro@nipne.ro,Romania
+69,Amalia,Pop,A.,Ms,Dr,,FULL,2005-03-07,2017-12-13,|IFIN-HH|,|IFIN-HH|,,a_pop@nipne.ro,Romania
+70,Laura,Radulescu,L.,Ms,Dr,,FULL,2014-05-16,,|IFIN-HH|,,,lradulescu@nipne.ro,Romania
+71,Adriana,Raduta,A.,Ms,,,FULL,2004-02-13,2007-02-06,|IFIN-HH|,|IFIN-HH|,,araduta@ifin.nipne.ro,Romania
+72,Adriana,Rujoi-Nan,A.,Ms,M.Sci,,ASSO,2022-01-19,2023-11-20,|IFIN-HH|,|IFIN-HH|,,anan@niham.nipne.ro,Romania
+73,Claudiu,Schiaua,C.,Mr,M.Sci,,FULL,2009-02-25,,|IFIN-HH|,,,schiaua@nipne.ro,Romania
+74,Victor,Simion,V.,Mr,Dr,,FULL,2005-03-07,2009-02-24,|IFIN-HH|,|IFIN-HH|,,vsimion@ifin.nipne.ro,Romania
+75,Gabriel,Stoicea,G.,Mr,,,FULL,2004-02-13,2007-02-06,|IFIN-HH|,|IFIN-HH|,,stoicea@ifin.nipne.ro,Romania
+76,Mădălina-Gabriela,Târzilă,M.-G.,Ms,M.Sci,Phd,FULL,2012-01-06,2017-12-13,|IFIN-HH|,|IFIN-HH|,,tarzila.madalina@gmail.com,Romania
+77,Danut,Argintaru,D.,Mr,Dr,,ASSO,2010-07-26,,|UBucharest|,|CMU|,,danut.argintaru@gmail.com,Romania
+78,Valerica,Baban,V.,Ms,Dr,,FULL,2010-07-26,2021-09-24,|UBucharest|,|UBucharest|CMU|,,valerica.baban@gmail.com,Romania
+80,Calin,Beşliu,C.,Mr,Prof,,ASSO,2008-03-25,,|UBucharest|,,,calin.besliu@yahoo.com,Romania
+81,Marius,Cãlin,M.,Mr,Dr,,FULL,2008-03-25,,|UBucharest|,,,marius.calin@unibuc.ro,Romania
+82,Vania,Covlea,V.,Mr,Dr,,FULL,2009-03-16,2014-11-25,|UBucharest|,|UBucharest|,,,Romania
+83,Diana-Andreea,Deară,D.-A.,Ms,,Phd,FULL,2023-10-18,,|UBucharest|,,,dianadeara@yahoo.com,Romania
+84,Tiberiu,Eşanu,T.,Mr,Dr,,ASSO,2008-03-25,,|UBucharest|,,,tiberiu.esanu@unibuc.ro,Romania
+85,Alexandru,Jipa,A.,Mr,Prof,,FULL,2008-03-25,,|UBucharest|,,|CB|,alexandru.jipa@unibuc.ro,Romania
+86,Ionel,Lazanu,I.,Mr,Prof,,FULL,2008-03-25,,|UBucharest|,,,ionellazanu@gmail.com,Romania
+87,Cătălin,Ristea,C.,Mr,Dr,,ASSO,2012-02-09,,|UBucharest|,,,catalin.ristea@unibuc.ro,Romania
+88,Oana,Ristea,O.,Ms,Dr,,FULL,2012-02-09,,|UBucharest|,,,oana.ristea@unibuc.ro,Romania
+89,Adrian,Scurtu,A.,Mr,Dr,,FULL,2009-03-03,2014-11-25,|UBucharest|,|UBucharest|,,adrian.scurtu@gmail.com,Romania
+90,Nicolae George,Ţuţuraş,N.G.,Mr,Dr,,ASSO,2014-11-25,,|UBucharest|,,,nicolae_gtuturas@yahoo.com,Romania
+91,Balázs,Bozsogi,B.,Mr,,,FULL,2010-03-30,2013-04-23,|ELTE|,|ELTE|,,bbazsy@inf.elte.hu,Hungary
+92,Máté,Csanád,M.,Mr,Prof,,FULL,2008-01-30,,|ELTE|,,|CB|,csanad@elte.hu,Hungary
+93,Ferenc,Deák,F.,Mr,Prof,,FULL,2005-01-03,2008-01-29,|ELTE|,|ELTE|,,deak@ludens.elte.hu,Hungary
+94,Ágnes,Fülöp,Á.,Ms,,,FULL,2010-03-30,2014-11-23,|ELTE|,|ELTE|,,fulop@ludens.elte.hu,Hungary
+95,Rudolf,Izsak,R.,Mr,,,FULL,2005-01-03,2009-03-03,|ELTE|,|ELTE|,,irudolf@elte.hu,Hungary
+96,Ádám,Kiss,A.,Mr,Prof,,FULL,2005-01-03,2014-11-23,|ELTE|,|ELTE|,,kissadam@ludens.elte.hu,Hungary
+97,Alex,Olar,A.,Mr,,,FULL,2016-10-10,2020-01-14,|ELTE|,|ELTE|,,olaralex@caesar.elte.hu,Hungary
+98,Attila,Szabó,A.,Mr,,Ba,FULL,2014-11-23,2015-12-01,|ELTE|,|ELTE|,,szacsi3@gmail.com,Hungary
+99,Gábor,Balassa,G.,Mr,Dr,,FULL,2019-11-05,2023-11-21,|WignerRCP|,|WignerRCP|,,balassa.gabor@wigner.mta.hu,Hungary
+100,László,Boldizsár,L.,Mr,,,FULL,2006-01-21,2012-06-06,|WignerRCP|,|WignerRCP|,,leslie@rmki.kfki.hu,Hungary
+101,Ervin,Denes,E.,Mr,,,FULL,2004-02-13,2012-06-06,|WignerRCP|,|WignerRCP|,,Ervin.Denes@cern.ch,Hungary
+102,Zoltan,Fodor,Z.,Mr,Dr,,FULL,2004-02-13,2012-06-06,|WignerRCP|,|WignerRCP|,,fodor@rmki.kfki.hu,Hungary
+103,Endre,Futo,E.,Mr,,,FULL,2006-01-21,2012-06-06,|WignerRCP|,|WignerRCP|,,endre@rmki.kfki.hu,Hungary
+105,Tivadar,Kiss,T.,Mr,,,FULL,2004-02-13,2019-03-01,|WignerRCP|,|WignerRCP|,,tivadar@rmki.kfki.hu,Hungary
+106,András,László,A.,Mr,,,FULL,2006-01-21,2012-06-06,|WignerRCP|,|WignerRCP|,,laszloa@rmki.kfki.hu,Hungary
+107,Csaba,Soos,Cs.,Mr,,,FULL,2004-02-13,2010-04-03,|WignerRCP|,|WignerRCP|,,Csaba.Soos@cern.ch,Hungary
+108,Tamás,Tölyhi,T.,Mr,,,FULL,2006-01-21,2019-03-01,|WignerRCP|,|WignerRCP|,,ttamas@rmki.kfki.hu,Hungary
+109,Dezső,Varga,D.,Mr,Dr,,FULL,2014-11-20,2019-03-01,|WignerRCP|,|WignerRCP|,,varga.dezso@wigner.mta.hu,Hungary
+110,Gyorgy,Vesztergombi,Gy.,Mr,Prof,,FULL,2004-02-13,2012-06-06,|WignerRCP|,|WignerRCP|,,,Hungary
+111,György,Wolf,Gy.,Mr,Dr.habil,,FULL,2012-06-06,,|WignerRCP|,,|CB|RB|,wolf.gyorgy@wigner.hun-ren.hu,Hungary
+112,Abdel Magied Abdel Aal,Diab,A.M.A.A.,Mr,B.Sci,Ma,FULL,2016-04-28,2023-12-01,|ECTP|,|ECTP|,,a.diab@eng.mti.edu.eg,Egypt
+113,Abou El Dahab,Eiman,A.E.D.,Mr,Prof,,FULL,2016-04-28,2023-12-01,|ECTP|,|ECTP|,,eaboeldahab@gmail.com,Egypt
+114,Muhammad,Maher,M.,Mr,Prof,,FULL,2019-03-08,,|ECTP|,,,m.maher@science.helwan.edu.eg,Egypt
+115,Mahmoud Hanafy,Nassar,M.H.,Mr,M.Sci,Phd,FULL,2016-04-28,,|ECTP|,|BU|,,MAHMOUD.NASAR@fsc.bu.edu.eg,Egypt
+116,Abdel Nasser,Tawfik,A.N.,Mr,Prof,,FULL,2016-04-28,,|ECTP|,,|CB|,a.tawfik@eng.mti.edu.eg,Egypt
+117,Madan Mohan,Aggarwal,M.M.,Mr,Prof,,ASSO,2006-05-12,,|UPanjab|,,,aggarwal@pu.ac.in,India
+118,Ashok Kumar,Bhati,A.K.,Mr,Dr,,ASSO,2006-10-04,,|UPanjab|,,,akbhati@pu.ac.in,India
+119,Manjit,Kaur,M.,Ms,Prof,,ASSO,2006-05-12,,|UPanjab|,,,manjit@pu.ac.in,India
+120,Lokesh,Kumar,L.,Mr,A.Prof,,FULL,2015-12-17,,|UPanjab|,,|CB|,lokesh.pu@gmail.com,India
+121,Natasha,Sharma,N.,Ms,Dr,,ASSO,2019-03-14,,|UPanjab|,,,natasha.sharma@cern.ch,India
+122,Liang-ming,Pan,,Mr,Prof,,FULL,2017-09-27,,|UChongqing|,,|CB|,cneng@cqu.edu.cn,China
+123,Qiqi,Wu,,Ms,M.Tech,,FULL,2017-10-09,,|UChongqing|,,,wuqiqi577@cqu.edu.cn,China
+124,Wenxiong,Zhou,,Mr,A.Prof,,FULL,2017-05-03,,|UChongqing|,|GSI|,,zhouwenxiong@cqu.edu.cn,China
+125,Arkadiusz,Bubak,A.,Mr,Dr.habil,,FULL,2004-02-13,2019-03-14,|USilesia|,|USilesia|,,arkadiusz.bubak@us.edu.pl,Poland
+126,Andrzej,Grzeszczuk,A.,Mr,,,FULL,2004-01-06,2015-12-11,|USilesia|,|USilesia|,,andrzej.grzeszczuk@us.edu.pl,Poland
+127,Emil,Kaptur,E.,Mr,M.Sci,Phd,FULL,2012-02-06,2019-03-14,|USilesia|,|USilesia|,,emil.Kaptur@gmail.com,Poland
+129,Maciej,Krauze,M.,Mr,Dr,,FULL,2004-02-13,2012-01-20,|USilesia|,|USilesia|,,meszik@nuph.us.edu.pl,Poland
+130,Szymon,Puławski,S.,Mr,Dr.habil,,FULL,2019-03-14,,|USilesia|,,,szymon.pulawski@us.edu.pl,Poland
+131,Katarzyna,Schmidt,K.,Ms,Dr,,FULL,2013-01-04,,|USilesia|,,,katarzyna.schmidt@us.edu.pl,Poland
+132,Elżbieta,Stephan,E.,Ms,Dr.habil,,FULL,2004-01-06,2014-07-04,|USilesia|,|USilesia|,,elzbieta.stephan@us.edu.pl,Poland
+133,Wiktor,Zipper,W.,Mr,Prof,,FULL,2004-01-06,2015-12-11,|USilesia|,|USilesia|,,wiktor.zipper@us.edu.pl,Poland
+134,Rui,Ferreira Marques,R.,Mr,,,FULL,2004-02-13,2010-09-30,|LIP|,|LIP|,,rui@lipc.fis.uc.pt,Portugal
+135,Paulo,Fonte,P.,Mr,Dr,,FULL,2002-11-15,2010-09-30,|LIP|,|LIP|,,fonte@lipc.fis.uc.pt,Portugal
+136,Alessio,Mangiarotti,A.,Mr,Dr,,FULL,2004-02-13,2010-09-30,|LIP|,|LIP|PI-UHd|,,alessio@lipc.fis.uc.pt,Portugal
+137,Eoin,Clerkin,E.,Mr,Dr,,FULL,2020-05-04,,|FAIR|,,,e.clerkin@gsi.de,Germany
+138,Jürgen,Eschke,J.,Mr,Dr,,FULL,2004-02-13,,|FAIR|,|GSI|,|CB|CB-sec|RC|,j.eschke@gsi.de,Germany
+139,Piotr,Gasik,P.,Mr,Dr,,FULL,2019-09-24,,|FAIR|,|GSI|,|TC|,p.gasik@gsi.de,Germany
+140,Pradeep,Ghosh,P.,Mr,Dr,,FULL,2011-12-01,2017-12-12,|FAIR|,|FAIR|IKF-UFra|GSI|,,pr.ghosh@gsi.de,Germany
+141,Oliver,Keller,O.,Mr,Dr,,FULL,2021-09-01,,|FAIR|,,,o.keller@gsi.de,Germany
+142,Evgeny,Lavrik,E.,Mr,Dr,,ASSO,2012-09-17,2023-05-14,|FAIR|,|FAIR|UTuebingen|,,patternoia@gmail.com,Germany
+143,Kerstin,Schünemann,K.,Ms,,,FULL,2019-12-03,,|FAIR|,|GSI|,,k.schuenemann@gsi.de,Germany
+144,Anna,Senger,A.,Ms,Dr,,FULL,2004-04-08,,|FAIR|,|GSI|,,A.Senger@gsi.de,Germany
+145,Peter,Senger,P.,Mr,Prof,,FULL,2004-02-13,,|FAIR|,|IKF-UFra|GSI|,|PL|,P.Senger@gsi.de,Germany
+146,Dominik,Smith,D.,Mr,Dr,,FULL,2020-07-01,,|FAIR|,,,d.smith@gsi.de,Germany
+147,Alhussain,Abuhoza,A.,Mr,Dr,,FULL,2012-12-17,2016-09-20,|GSI|,|GSI|KACST|IKF-UFra|,,aabuhoza@kacst.edu.sa,Germany
+148,Jörn,Adamczewski-Musch,J.,Mr,Dr,,FULL,2004-01-15,2013-11-26,|GSI|,|GSI|,,J.Adamczewski@gsi.de,Germany
+149,Mohamed,Ahmed,M.,Mr,,,EXT,2024-08-05,2024-11-02,|GSI|,|GSI|USilesia|,,mahmed@us.edu.pl,Germany
+150,Valentina,Akishina,V.,Ms,Dr,,ASSO,2011-12-13,,|GSI|,|IKF-UFra|JINR-LIT|,,v.akishina@gsi.de,Germany
+151,Hassan,Al-Turany,H.,Mr,,,STAFF,2022-02-25,2023-09-01,|GSI|,|GSI|,,,Germany
+152,Mohammad,Al-Turany,M.,Mr,Dr,,FULL,2004-02-13,,|GSI|,|CERN|,,m.al-turany@gsi.de,Germany
+153,Ralf,Averbeck,R.,Mr,Dr,,ASSO,2013-04-16,,|GSI|,,,r.averbeck@gsi.de,Germany
+154,Eugen,Badura,E.,Mr,Dr,,FULL,2003-01-16,2016-11-07,|GSI|,|GSI|,,e.badura@gsi.de,Germany
+155,Marcel,Bajdel,M.,Mr,Dr,,ASSO,2018-09-13,2024-04-30,|GSI|,|GSI|IKF-UFra|UWarsaw|,,m.bajdel@gsi.de,Germany
+157,Elèni,Berdermann,E.,Ms,Dr,,FULL,2004-02-13,2013-12-10,|GSI|,|GSI|,,,Germany
+158,Denis,Bertini,D.,Mr,Dr,,FULL,2004-02-13,,|GSI|,,,D.Bertini@gsi.de,Germany
+159,Olga,Bertini,O.,Ms,Dr,,FULL,2013-09-01,,|GSI|,,,O.Bertini@gsi.de,Germany
+161,Vitalii,Blinov,V.,Mr,,Phd,FULL,2015-05-01,2017-04-30,|GSI|,|GSI|,,,Germany
+162,Holger,Brand,H.,Mr,Dr,,STAFF,2019-08-14,2023-05-14,|GSI|,|GSI|,,h.brand@gsi.de,Germany
+163,Peter,Braun-Munzinger,P.,Mr,Prof,,FULL,2004-02-13,2012-02-22,|GSI|,|GSI|,,p.braun-munzinger@gsi.de,Germany
+164,Sudeep,Chatterji,S.,Mr,Dr,,FULL,2008-10-23,2015-02-23,|GSI|,|GSI|,,sudeep.chatterji@diamond.ac.uk,Germany
+165,Subhasis,Chattopadhyay,S.,Mr,Prof,,FULL,2006-01-21,,|GSI|,|VECC|,|RB|,sub.chattopadhyay@gmail.com,Germany
+166,Mircea Iuliu,Ciobanu,M.I.,Mr,Dr,,ASSO,2004-10-04,,|GSI|,|ISSBucharest|,,M.Ciobanu@gsi.de,Germany
+167,Lady Maryann,Collazo Sánchez,L.M.,Ms,B.Sci,Phd,FULL,2022-10-20,,|GSI|,|IKF-UFra|,,L.M.CollazoSanchez@gsi.de,Germany
+168,Patrick,Dahm,P.,Mr,Eng,,FULL,2019-12-02,,|GSI|,,|PE|,p.dahm@gsi.de,Germany
+169,Saptarshi,Datta,S.,Mr,,Ba,ASSO,2024-07-04,,|GSI|,|NISER|,,saptarshi.datta@niser.ac.in,Germany
+170,Harald,Deppe,H.,Mr,Dr,,FULL,2004-11-11,,|GSI|,,,H.Deppe@gsi.de,Germany
+171,Ingo,Deppner,I.,Mr,Dr,,FULL,2007-05-09,,|GSI|,|PI-UHd|,|PL|,i.deppner@gsi.de,Germany
+172,Michael,Deveaux,M.,Mr,Dr.habil,,FULL,2004-02-13,,|GSI|,|IKF-UFra|IPHC|,,M.Deveaux@gsi.de,Germany
+173,Merve,Doǧan,M.,Ms,Dr,,ASSO,2017-10-06,2023-10-21,|GSI|,|GSI|,,,Germany
+174,Alberto Miguel,Dominguez Salguero,A.M.,Mr,,,STAFF,2022-03-18,,|GSI|,,,a.dominguezsalguero@gsi.de,Germany
+175,Andrea,Dubla,A.,Mr,Dr,,FULL,2020-03-23,,|GSI|,,,a.dubla@gsi.de,Germany
+176,Ilya,Elizarov,I.,Mr,Eng,,FULL,2021-10-05,,|GSI|,,,i.elizarov@gsi.de,Germany
+177,David,Emschermann,D.,Mr,Dr,,FULL,2009-10-13,,|GSI|,|UMuenster|,|DC|OC-dep|,D.Emschermann@gsi.de,Germany
+178,Hans,Essel,H.,Mr,Dr,,FULL,2002-11-15,2010-12-01,|GSI|,|GSI|,,,Germany
+179,Holger,Flemming,H.,Mr,Dr,,FULL,2002-11-15,,|GSI|,,,h.flemming@gsi.de,Germany
+180,Panagiota,Foka,P.,Ms,Dr,,FULL,2016-09-20,,|GSI|,,,p.foka@gsi.de,Germany
+182,Volker,Friese,V.,Mr,Dr,,FULL,2003-01-10,,|GSI|,,|CC|SPL|,v.friese@gsi.de,Germany
+183,Jochen,Frühauf,J.,Mr,Eng,,FULL,2009-01-21,,|GSI|,,,j.fruehauf@gsi.de,Germany
+184,Xin,Gao,,Ms,Dr,,FULL,2018-04-13,2020-12-31,|GSI|,|GSI|,,gaoxin@siom.ac.cn,Germany
+185,Chilo,Garabatos,C.,Mr,Dr,,FULL,2004-02-13,2012-02-22,|GSI|,|GSI|,,C.Garabatos@gsi.de,Germany
+186,Horst,Göringer,H.,Mr,Dr,,STAFF,2012-10-11,2015-09-01,|GSI|,|GSI|,,,Germany
+187,Diego,González-Díaz,D.,Mr,Dr,,FULL,2004-02-13,2012-01-11,|GSI|,|GSI|USC|,,,Germany
+188,Sergey,Gorbunov,S.,Mr,Dr,,FULL,2005-02-03,,|GSI|,|FIAS|KIP|,|SPL|,Se.Gorbunov@gsi.de,Germany
+189,Dieter,Grzonka,D.,Mr,Dr,,FULL,2023-10-05,,|GSI|,|RUB|IKP-FZJ|,,d.grzonka@gsi.de,Germany
+190,David,Gutiérrez Menéndez,D.,Mr,Dipl,Phd,FULL,2024-07-29,,|GSI|,|IKF-UFra|,,D.GutierrezMenendez@gsi.de,Germany
+191,Jörg,Hehner,J.,Mr,,,FULL,2011-07-22,2021-11-01,|GSI|,|GSI|,,J.Hehner@gsi.de,Germany
+192,Johann M.,Heuser,J.M.,Mr,Dr,,FULL,2005-01-27,,|GSI|,,|PTC|,J.Heuser@gsi.de,Germany
+193,Klaus,Hildenbrand,K.,Mr,Dr,,STAFF,2012-09-16,2019-02-20,|GSI|,|GSI|PI-UHd|,,k.hildenbrand@t-online.de,Germany
+194,Jan,Hoffmann,J.,Mr,,,STAFF,2014-02-15,2023-05-14,|GSI|,|GSI|,,J.Hoffmann@gsi.de,Germany
+195,Romain,Holzmann,R.,Mr,Dr,,FULL,2003-01-10,2024-03-15,|GSI|,|GSI|,,r.holzmann@gsi.de,Germany
+196,Khaled,Ismail,K.,Mr,Eng,,FULL,2022-04-11,2024-07-31,|GSI|,|GSI|,,k.ismail@gsi.de,Germany
+197,Marian,Ivanov,M.,Mr,Dr,,ASSO,2013-04-16,,|GSI|,,,marian.ivanov@cern.ch,Germany
+198,Clara Estela,Jimenes Tejero,C.E.,Ms,,,FULL,2004-02-13,2006-01-01,|GSI|,|GSI|,,,Germany
+199,Matus,Kalisky,M.,Mr,Dr,,FULL,2004-02-13,2008-03-25,|GSI|,|GSI|,,,Germany
+200,Ralf Michael,Kapell,R.M.,Mr,Eng,,FULL,2018-02-09,,|GSI|,,,r.kapell@gsi.de,Germany
+201,Radoslaw,Karabowicz,R.,Mr,Dr,,FULL,2004-02-13,,|GSI|,|UJagiellonian|,,R.Karabowicz@gsi.de,Germany
+202,Jakob Peter,Karg,J.P.,Mr,,,STAFF,2018-05-08,2019-11-08,|GSI|,|GSI|,,,Germany
+203,Irakli,Keshelashvili,I.,Mr,Dr,,FULL,2021-10-05,,|GSI|,,,i.keshelashvili@gsi.de,Germany
+204,Young-Jin,Kim,,Mr,Dr,,FULL,2004-02-13,2009-03-17,|GSI|,|GSI|,,,Germany
+205,Mladen,Kiš,M.,Mr,Dr,,FULL,2004-02-13,,|GSI|,|RBI|,|CAC|SO|,M.Kis@gsi.de,Germany
+206,Dennis,Klein,D.,Mr,B.Sci,,ASSO,2018-03-27,,|GSI|,,,d.klein@gsi.de,Germany
+207,Volker,Kleipa,V.,Mr,Eng,,FULL,2009-01-22,2016-09-16,|GSI|,|GSI|,,V.Kleipa@gsi.de,Germany
+208,Karsten,Koch,K.,Mr,Dr,,FULL,2004-01-08,,|GSI|,,,K.Koch@gsi.de,Germany
+209,Piotr,Koczoń,P.,Mr,Dr,,FULL,2003-01-10,,|GSI|,,,p.koczon@gsi.de,Germany
+210,Wolfgang,Koenig,W.,Mr,Dr,,FULL,2004-02-13,2016-06-16,|GSI|,|GSI|,,,Germany
+211,Burkhard W.,Kolb,B.W.,Mr,Dr,,FULL,2004-01-06,2015-10-01,|GSI|,|GSI|,,b.kolb@gsi.de,Germany
+213,Dmytro,Kresan,D.,Mr,Dr,,FULL,2004-08-31,,|GSI|,|UGiessen|TSNU-Kyiv|,,d.kresan@gsi.de,Germany
+214,Matthias,Kretz,M.,Mr,Dr,,ASSO,2010-03-22,,|GSI|,|FIAS|,,m.kretz@gsi.de,Germany
+215,Goran,Kružić,G.,Mr,,,FULL,2004-02-13,2006-01-01,|GSI|,|GSI|,,,Germany
+216,Peter,Kuhl,P.,Mr,Eng,,FULL,2018-09-03,2021-08-31,|GSI|,|GSI|,,,Germany
+217,Igor,Kulakov,I.,Mr,M.Sci,Phd,FULL,2009-09-22,2015-03-17,|FIAS|,|GSI|,,,Germany
+218,Jochen,Kunkel,J.,Mr,Eng,,FULL,2012-03-01,2015-07-14,|GSI|,|GSI|,,,Germany
+219,Andrey,Lebedev,A.,Mr,Dr,,FULL,2006-06-22,2022-03-04,|GSI|,|GSI|JINR-LIT|IKF-UFra|,,,Germany
+220,Semen,Lebedev,S.,Mr,Dr,,STAFF,2005-04-22,,|GSI|,|UGiessen|JINR-LIT|,,S.Lebedev@gsi.de,Germany
+221,Jörg,Lehnert,J.,Mr,Dr,,FULL,2014-02-01,,|GSI|,,,j.lehnert@gsi.de,Germany
+222,Yvonne,Leifels,Y.,Ms,Dr,,FULL,2004-02-13,2019-10-18,|GSI|,|GSI|,,y.leifels@gsi.de,Germany
+223,Sergey,Linev,S.,Mr,Dr,,FULL,2004-01-06,2013-11-26,|GSI|,|GSI|,,S.Linev@gsi.de,Germany
+224,Frederic Julian,Linz,F.J.,Mr,Dr,,FULL,2021-09-06,,|GSI|,|IKP-TUD|,|PB|,f.linz@gsi.de,Germany
+225,Christian,Lippmann,C.,Mr,Dr,,FULL,2004-02-13,2008-03-25,|GSI|,|GSI|,,C.Lippmann@gsi.de,Germany
+226,Sven,Löchner,S.,Mr,Dr,,FULL,2007-02-21,,|GSI|,,,S.Loechner@gsi.de,Germany
+227,Pierre-Alain,Loizeau,P.-A.,Mr,Dr,,FULL,2009-03-05,,|GSI|,|FAIR|PI-UHd|,|SPL|,p.-a.loizeau@gsi.de,Germany
+228,Oleksii,Lubynets,O.,Mr,Dr,,FULL,2018-11-07,,|GSI|,|IKF-UFra|TSNU-Kyiv|,,o.lubynets@gsi.de,Germany
+229,Anton,Lymanets,A.,Mr,Dr,,FULL,2006-03-07,2024-07-08,|GSI|,|GSI|KINR|UTuebingen|IKF-UFra|TSNU-Kyiv|,,A.Lymanets@gsi.de,Germany
+230,Bipul Kumar,Mahato,B.K.,Mr,,,FULL,2009-08-01,2010-08-01,|GSI|,|GSI|,,,Germany
+231,Lucky,Makhathini,L.,Mr,,,STAFF,2019-09-19,2019-11-30,|GSI|,|GSI|,,,Germany
+232,Peter,Malzacher,P.,Mr,Dr,,STAFF,2012-10-11,2019-11-08,|GSI|,|GSI|,,,Germany
+234,Ana Maria,Marin Garcia,A.M.,Ms,Dr,,FULL,2013-04-16,,|GSI|,,,A.Marin@gsi.de,Germany
+235,Jochen,Markert,J.,Mr,Dr,,FULL,2013-04-30,,|GSI|,|IKF-UFra|,,J.Markert@gsi.de,Germany
+236,Silvia,Masciocchi,S.,Ms,Dr,,ASSO,2013-04-16,,|GSI|,|PI-UHd|,,S.Masciocchi@gsi.de,Germany
+237,Johan,Messchendorp,J.,Mr,Dr,,FULL,2023-10-05,,|GSI|,,|PB|,j.messchendorp@gsi.de,Germany
+238,Dariusz,Miskowiec,D.,Mr,Dr,,FULL,2013-04-16,,|GSI|,,,d.miskowiec@gsi.de,Germany
+239,Martin,Mitkov,M.,Mr,,,ASSO,2016-08-31,2018-05-15,|GSI|,|GSI|,,,Germany
+240,Thomas,Morhardt,T.,Mr,,,FULL,2014-05-12,2021-11-01,|GSI|,|GSI|,,t.morhardt@gsi.de,Germany
+241,Walter F.J.,Müller,W.F.J.,Mr,Dr,,FULL,2004-02-13,,|GSI|,|FAIR|,,W.F.J.Mueller@gsi.de,Germany
+242,Frank,Nerling,F.,Mr,A.Prof,,FULL,2023-03-03,,|GSI|,|IKF-UFra|HFHF|,|PB|,F.Nerling@gsi.de,Germany
+244,Frederike,Nickels,F.,Ms,Eng,,FULL,2018-11-07,,|GSI|,,,f.nickels@gsi.de,Germany
+245,Wolfgang,Niebur,W.,Mr,Eng,,FULL,2004-11-12,2020-01-02,|GSI|,|GSI|,,,Germany
+246,Ömer,Penek,Ö.,Mr,Dr,,FULL,2023-11-14,2024-03-11,|GSI|,|GSI|,,o.penek@gsi.de,Germany
+247,Jerzy,Pietraszko,J.,Mr,Dr,,FULL,2004-05-05,,|GSI|,,|PL|TB|,J.Pietraszko@gsi.de,Germany
+249,Dairon,Rodríguez Garces,D.,Mr,,Phd,FULL,2021-06-02,,|GSI|,|IKF-UFra|,,d.rodriguezGarces@gsi.de,Germany
+250,Adrian,Rodríguez Rodríguez,A.,Mr,Dr,,FULL,2015-05-05,,|GSI|,|IKF-UFra|,,a.rodriguezrodriguez@gsi.de,Germany
+251,Shreya,Roy,S.,Ms,Dr,,FULL,2018-01-19,,|GSI|,|Bose|,,s.roy@gsi.de,Germany
+252,Anar,Rustamov,A.,Mr,Dr,,FULL,2020-07-13,,|GSI|,,|PB|,A.Rustamov@gsi.de,Germany
+253,Alexey,Rybalchenko,A.,Mr,M.Sci,,ASSO,2018-03-27,2024-03-18,|GSI|,|GSI|,,o.rybalchenko@gsi.de,Germany
+254,Jorge,Sánchez Rosado,J.,Mr,Eng,,FULL,2012-07-05,2015-07-14,|GSI|,|GSI|,,,Germany
+255,Christian Joachim,Schmidt,C.J.,Mr,Dr,,FULL,2007-01-25,,|GSI|,,|CB|EC|MB|PL|,C.J.Schmidt@gsi.de,Germany
+256,Andreas,Schüttauf,A.,Mr,Dr,,FULL,2004-02-13,2008-10-25,|GSI|,|GSI|,,,Germany
+257,Kilian,Schwarz,K.,Mr,Dr,,FULL,2004-02-13,2006-01-13,|GSI|,|GSI|,,k.schwarz@gsi.de,Germany
+258,Kai Oliver,Schweda,K.O.,Mr,Dr,,ASSO,2005-09-20,,|GSI|,|PI-UHd|,,kschweda@physi.uni-heidelberg.de,Germany
+259,Sélim,Seddiki,S.,Mr,Dr,,FULL,2008-01-17,2016-09-20,|GSI|,|GSI|IKF-UFra|,,,Germany
+260,Ilya,Selyuzhenkov,I.,Mr,A.Prof,,FULL,2013-04-16,,|GSI|,|MEPhI|,,i.selyuzhenkov@gsi.de,Germany
+261,Anju,Sharma,A.,Ms,,Phd,FULL,2023-01-09,,|GSI|,|AMU|,,anjus7407@gmail.com,Germany
+262,Mehulkumar,Shiroya,M.,Mr,M.Sci,Phd,FULL,2020-01-28,,|GSI|,|IKF-UFra|,,m.shiroya@gsi.de,Germany
+263,Reinhard,Simon,R.,Mr,Dr,,FULL,2004-02-13,2008-03-25,|GSI|,|GSI|,,,Germany
+264,Carmen,Simons,C.,Ms,Eng,,FULL,2010-04-28,,|GSI|,,,C.Simons@gsi.de,Germany
+265,Minni,Singla,M.,Ms,Dr,,FULL,2010-06-14,2016-09-20,|GSI|,|GSI|IKF-UFra|,,,Germany
+266,Iurii,Sorokin,I.,Mr,Dr,,FULL,2009-02-06,2015-03-12,|GSI|,|GSI|KINR|IKF-UFra|,,sorokin@kinr.kiev.ua,Germany
+267,Daniel,Soyk,D.,Mr,Eng,,FULL,2011-05-11,2018-03-01,|GSI|,|GSI|,,,Germany
+268,Christian,Sturm,C.,Mr,Dr,,FULL,2004-02-27,,|GSI|,,|OC|PL|,c.sturm@gsi.de,Germany
+269,Oleksandre,Suddia,O.,Mr,Eng,,FULL,2023-05-22,,|GSI|,,,o.suddia@gsi.de,Germany
+270,Jenny,Taylor,J.,Ms,Dr,,FULL,2023-11-14,,|GSI|,,,j.taylor@gsi.de,Germany
+271,Maksym,Teklishyn,M.,Mr,Dr,,FULL,2014-11-25,,|GSI|,|KINR|FAIR|,,m.teklishyn@gsi.de,Germany
+272,Jens,Thaufelder,J.,Mr,Eng,,FULL,2021-03-01,,|GSI|,,|PE|,J.Thaufelder@gsi.de,Germany
+273,Alberica,Toia,A.,Ms,Prof,,FULL,2013-11-18,,|GSI|,|IKF-UFra|HFHF|,|PB|,a.toia@gsi.de,Germany
+274,Olav,Torheim,O.,Mr,Dr,,FULL,2009-03-04,2012-06-30,|GSI|,|GSI|UBergen|,,,Germany
+275,Michael,Träger,M.,Mr,,,FULL,2015-03-12,2021-11-01,|GSI|,|GSI|,,M.Traeger@gsi.de,Germany
+276,Costa,Tran,C.,Mr,M.Sci,Ma,ASSO,2025-02-24,,|GSI|,,,c.tran@gsi.de,Germany
+277,Michael,Traxler,M.,Mr,Dr,,FULL,2014-02-15,,|GSI|,,,m.traxler@gsi.de,Germany
+278,Florian,Uhlig,F.,Mr,Dr,,FULL,2004-02-13,,|GSI|,,|SPL|,f.uhlig@gsi.de,Germany
+279,Felix,Ulrich-Pur,F.,Mr,Dr,,ASSO,2022-06-08,,|GSI|,,,f.ulrich-pur@gsi.de,Germany
+280,Iouri,Vassiliev,I.,Mr,Dr,,FULL,2004-10-13,,|GSI|,,|PB|,I.Vassiliev@gsi.de,Germany
+281,Oleg,Vasylyev,O.,Mr,Eng,,FULL,2015-09-10,,|GSI|,,,Ol.Vasylyev@gsi.de,Germany
+282,Robert,Visinka,R.,Mr,,,FULL,2014-05-12,,|GSI|,,,r.visinka@gsi.de,Germany
+283,Christian,Wendisch,C.,Mr,Dr,,FULL,2009-02-25,2018-03-01,|GSI|,|GSI|HZDR|,,c.wendisch@gsi.de,Germany
+284,Benedikt,Wiegert,B.,Mr,,,ASSO,2019-08-14,2021-04-01,|GSI|,|GSI|,,,Germany
+285,Andrea,Wilms,A.,Ms,Dr,,FULL,2016-05-10,2024-07-03,|GSI|,|GSI|,,A.Wilms@gsi.de,Germany
+286,Nicolas,Winckler,N.,Mr,Dr,,FULL,2014-07-21,2016-10-05,|GSI|,|GSI|,,,Germany
+287,Yongcong,Xu,,Mr,,Phd,ASSO,2024-08-02,,|GSI|,|CCNU|,,xyc@gsi.de,Germany
+288,Xin,Zhang,,Mr,B.Sci,Phd,FULL,2024-06-20,,|GSI|,|IMP|,,zhangxin2020@impcas.ac.cn,Germany
+289,Sergei,Zharko,S.,Mr,Dr,,FULL,2021-11-04,,|GSI|,,,s.zharko@gsi.de,Germany
+290,Yingjie,Zhou,,Ms,Dr,,FULL,2023-05-09,,|GSI|,|CCNU|,,z.yingjie@gsi.de,Germany
+292,Peter,Zumbruch,P.,Mr,Dr,,FULL,2004-03-03,,|GSI|,,,P.Zumbruch@gsi.de,Germany
+293,Maksym,Zyzak,M.,Mr,Dr,,FULL,2009-09-22,2019-09-01,|GSI|,|GSI|FIAS|KIP|,,maksym.zyzak@cern.ch,Germany
+294,Tetyana,Galatyuk,T.,Ms,Prof,,FULL,2004-07-22,,|IKP-TUD|,|GSI|HFHF|IKF-UFra|,|CB|SP|,T.Galatyuk@gsi.de,Germany
+295,Vadym,Kedych,V.,Mr,M.Sci,Phd,FULL,2021-02-19,,|IKP-TUD|,,,v.kedych@gsi.de,Germany
+296,Wilhelm,Krüger,W.,Mr,M.Sci,Phd,FULL,2021-02-19,,|IKP-TUD|,,,w.krueger@gsi.de,Germany
+297,Adrian,Rost,A.,Mr,Dr,,FULL,2013-04-26,,|IKP-TUD|,|GSI|FAIR|,,a.rost@gsi.de,Germany
+298,Florian-Johannes,Seck,F.-J.,Mr,M.Sci,Phd,FULL,2013-11-08,,|IKP-TUD|,,,F.Seck@gsi.de,Germany
+299,Frank,Dohrmann,F.,Mr,Dr,,FULL,2004-02-13,2008-09-09,|HZDR|,|HZDR|,,f.dohrmann@rz-rossendorf.de,Germany
+300,Jörn,Dreyer,J.,Mr,Dr,,FULL,2007-11-22,2017-12-01,|HZDR|,|HZDR|,,j.dreyer@hzdr.de,Germany
+301,Xingming,Fan,,Mr,Dr,,FULL,2014-08-29,,|HZDR|,|TUDresden|,,xingming.fan@hzdr.de,Germany
+302,Eckart,Grosse,E.,Mr,Prof,,FULL,2004-02-13,2012-05-25,|HZDR|,|HZDR|,,e.grosse@rz-rossendorf.de,Germany
+303,Klaus,Heidel,K.,Mr,,,FULL,2006-01-21,2014-11-28,|HZDR|,|HZDR|,,K.Heidel@hzdr.de,Germany
+304,Jochen,Hutsch,J.,Mr,,,FULL,2009-02-25,2013-11-01,|HZDR|,|HZDR|,,J.Hutsch@hzdr.de,Germany
+305,Roland,Kotte,R.,Mr,Dr,,FULL,2006-01-21,2020-12-31,|HZDR|,|HZDR|,,R.Kotte@hzdr.de,Germany
+306,Alejandro,Laso García,A.,Mr,Dr,,FULL,2010-10-19,2017-12-01,|HZDR|,|HZDR|TUDresden|,,a.garcla@hzdr.de,Germany
+307,Lothar,Naumann,L.,Mr,Dr,,ASSO,2004-10-27,2023-11-24,|HZDR|,|HZDR|,,L.Naumann@hzdr.de,Germany
+308,Daniel,Stach,D.,Mr,Eng,,FULL,2017-02-09,2023-11-25,|HZDR|,|HZDR|,,d.stach@hzdr.de,Germany
+310,Timur,Ablyazimov,T.,Mr,,Phd,FULL,2013-08-09,2019-03-01,|JINR-LIT|,|JINR-LIT|GSI|,,abl@jinr.ru,Russia
+311,Pavel,Akishin,P.,Mr,Dr.habil,,FULL,2004-10-13,2023-04-04,|JINR-LIT|,|JINR-LIT|,,akishin@jinr.ru,Russia
+312,Elena,Akishina,E.,Ms,Dr,,FULL,2004-10-13,2023-04-04,|JINR-LIT|,|JINR-LIT|,,aep@jinr.ru,Russia
+313,Tatiyana,Akishina,T.,Ms,Dr,,FULL,2007-02-06,2016-10-10,|JINR-LIT|,|JINR-LIT|,,tanaki@gmail.com,Russia
+314,Evgeny,Alexandrov,E.,Mr,,Phd,FULL,2013-08-09,2023-04-04,|JINR-LIT|,|JINR-LIT|,,aleksand@jinr.ru,Russia
+315,Igor,Alexandrov,I.,Mr,Dr,,FULL,2013-08-09,2023-04-04,|JINR-LIT|,|JINR-LIT|,,alexand@jinr.ru,Russia
+316,Sergey,Baginyan,S.,Mr,Dr,,FULL,2004-04-27,2013-08-09,|JINR-LIT|,|JINR-LIT|,,baginyan@jinr.ru,Russia
+317,Sergey,Belogurov,S.,Mr,Dr,,FULL,2006-01-21,2023-04-04,|JINR-LIT|,|JINR-LIT|MEPhI|ITEP|,,belogurov@jinr.ru,Russia
+318,Dmitry,Belyakov,D.,Mr,,,ASSO,2014-11-25,2023-04-04,|JINR-LIT|,|JINR-LIT|,,dmitry@jinr.ru,Russia
+320,Irina,Filozova,I.,Ms,,Phd,ASSO,2013-08-09,2023-04-04,|JINR-LIT|,|JINR-LIT|,,fia@jinr.ru,Russia
+321,Valery,Ivanov,V.,Mr,Dr,,ASSO,2004-10-13,2023-04-04,|JINR-LIT|,|JINR-LIT|,,vivanov@jinr.ru,Russia
+322,Victor,Ivanov,V.,Mr,Prof,,FULL,2004-01-20,2023-04-04,|JINR-LIT|,|JINR-LIT|MEPhI|,,ivanov@jinr.ru,Russia
+323,Alexandr Vital'evich,Kryanev,A.V.,Mr,Prof,,FULL,2015-04-22,2023-04-04,|JINR-LIT|,|JINR-LIT|MEPhI|,,avkryanev@mephi.ru,Russia
+324,Elena,Litvinenko,E.,Ms,Dr,,FULL,2004-01-13,2013-08-09,|JINR-LIT|,|JINR-LIT|,,litvin@nf.jinr.ru,Russia
+325,Elena,Oshkina,E.,Ms,,,ASSO,2016-10-10,2017-12-20,|JINR-LIT|,|JINR-LIT|,,oshkina95@gmail.com,Russia
+326,Gennady,Ososkov,G.,Mr,Prof,,FULL,2004-10-13,2016-10-10,|JINR-LIT|,|JINR-LIT|,,ososkov@jinr.ru,Russia
+327,Anatoly,Raportirenko,A.,Mr,,,STAFF,2004-10-13,2023-04-04,|JINR-LIT|,|JINR-LIT|,,ram@sunct1.jinr.ru,Russia
+328,Yuri,Russov,Yu.,Mr,,Phd,ASSO,2019-03-04,2021-09-21,|JINR-LIT|,|JINR-LIT|,,u.rv@mail.ru,Russia
+329,Vitaliy,Shchetinin,V.,Mr,,Phd,ASSO,2015-06-10,2017-12-20,|JINR-LIT|,|JINR-LIT|ITEP|,,sch_vitaliy@mail.ru,Russia
+330,Petr,Zrelov,P.,Mr,Dr,,ASSO,2004-10-13,2023-04-04,|JINR-LIT|,|JINR-LIT|,,zrelov@jinr.ru,Russia
+331,Vasilii,Lucenko,V.,Mr,,,FULL,2004-04-27,2012-01-10,|JINR-LPP|,|JINR-LPP|,,lucenko@msx.ru,Russia
+332,Tatiana,Andreeva,T.,Ms,,,ASSO,2018-06-13,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,andreeva72@yandex.ru,Russia
+333,Yuri,Anisimov,Yu.,Mr,,,ASSO,2007-02-08,2019-02-27,|JINR-VBLHEP|,|JINR-VBLHEP|,,anisimov@lhe.jinr.ru,Russia
+334,Sergey,Avdeev,S.,Mr,Dr,,ASSO,2010-02-19,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,avdeyev@nusun.jinr.ru,Russia
+335,Mircea,Baznat,M.,Mr,Dr,,ASSO,2014-04-04,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,baznat@theor.jinr.ru,Russia
+336,Gennady,Berezin,G.,Mr,Eng,,STAFF,2015-11-04,2016-12-07,|JINR-VBLHEP|,|JINR-VBLHEP|,,berezin@sunhe.jinr.ru,Russia
+337,Alexander,Bychkov,A.,Mr,,,FULL,2012-02-06,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,bychkov@jinr.ru,Russia
+338,Victor,Chepurnov,V.,Mr,,,STAFF,2004-02-23,2019-02-27,|JINR-VBLHEP|,|JINR-VBLHEP|,,chepurnov@jinr.ru,Russia
+339,Sergey,Chernenko,S.,Mr,,,FULL,2004-02-23,2014-12-08,|JINR-VBLHEP|,|JINR-VBLHEP|,,chernenko@jinr.ru,Russia
+340,Krasimir,Davkov,K.,Mr,Dr,,FULL,2007-01-26,2014-12-08,|JINR-VBLHEP|,|JINR-VBLHEP|JINR-LPP|,,krasimir@sunse.jinr.ru,Russia
+341,Vilizar,Davkov,V.,Mr,,,FULL,2007-01-26,2014-12-08,|JINR-VBLHEP|,|JINR-VBLHEP|JINR-LPP|,,vilizar@sunse.jinr.ru,Russia
+342,Dmitri,Dementiev,D.,Mr,,Phd,FULL,2013-07-18,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,d.dementev@gmail.com,Russia
+343,Stanislav,Dubnichka,S.,Mr,Prof,,ASSO,2012-02-06,2019-02-27,|JINR-VBLHEP|,|JINR-VBLHEP|,,Stanislav.Dubnicka@savba.sk,Russia
+344,Zuzana,Dubnichkova,Z.,Ms,Prof,,ASSO,2012-02-06,2019-02-27,|JINR-VBLHEP|,|JINR-VBLHEP|,,dubnickova@fmph.uniba.sk,Russia
+345,Vladimir V.,Elsha,V.V.,Mr,,,FULL,2015-03-12,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,elsha@jinr.ru,Russia
+346,Oleg,Fateev,O.,Mr,Dr,,FULL,2004-02-23,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,fateev@jinr.ru,Russia
+348,Konstantin,Gudima,K.,Mr,Dr,,FULL,2014-04-04,2018-03-31,|JINR-VBLHEP|,|JINR-VBLHEP|,,,Russia
+349,Yuri,Gusakov,Yu.,Mr,,,FULL,2004-04-27,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|JINR-LPP|,,Iourii.Goussakov@cern.ch,Russia
+350,Alexander,Ierusalimov,A.,Mr,,,ASSO,2004-02-23,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,jerus@jinr.ru,Russia
+351,Ernst-Michael,Ilgenfritz,E.-M.,Mr,Prof,,FULL,2012-02-06,2015-12-14,|JINR-VBLHEP|,|JINR-VBLHEP|,,Michael.Ilgenfritz@lhep.jinr.ru,Russia
+352,Victor,Karnaukhov,V.,Mr,Prof,,FULL,2010-02-17,2016-04-16,|JINR-VBLHEP|,|JINR-VBLHEP|,,,Russia
+353,Georgy,Kekelidze,G.,Mr,Dr,,FULL,2004-04-27,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|JINR-LPP|,,kgd@sunse.jinr.ru,Russia
+354,Andrey,Khvorostukhin,A.,Mr,Dr,,ASSO,2014-04-04,2019-02-27,|JINR-VBLHEP|,|JINR-VBLHEP|,,hvorost@theor.jinr.ru,Russia
+355,Vahan,Kirakosyan,V.,Mr,Dr,,ASSO,2010-02-17,2019-02-27,|JINR-VBLHEP|,|JINR-VBLHEP|,,vahan@jinr.ru,Russia
+356,Anatoly,Kolozhvari,A.,Mr,Eng,,FULL,2018-06-09,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,kolojvar@hiex.phys.spbu.ru,Russia
+357,Vadim,Komarov,V.,Mr,,,STAFF,2016-10-15,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,funny-world@mail.ru,Russia
+358,Viktor,Kramarenko,V.,Mr,Dr,,ASSO,2014-12-08,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,Viktor.Kramarenko@cern.ch,Russia
+359,Alexei,Kurilkin,A.,Mr,Dr,,FULL,2014-12-08,2016-09-26,|JINR-VBLHEP|,|JINR-VBLHEP|,,akurilkin@jinr.ru,Russia
+360,Pavel,Kurilkin,P.,Mr,Dr,,FULL,2014-03-30,2019-02-27,|JINR-VBLHEP|,|JINR-VBLHEP|,,pkurilkin@jinr.ru,Russia
+361,Sergey,Kuznetsov,S.,Mr,,,FULL,2014-12-08,2019-02-27,|JINR-VBLHEP|,|JINR-VBLHEP|,,kuznetsov@lhe.jinr.ru,Russia
+362,Vladimir,Ladygin,V.,Mr,Prof,,FULL,2004-10-13,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,vladygin@jinr.ru,Russia
+363,Nadezhda,Ladygina,N.,Ms,Dr,,ASSO,2016-10-15,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,nladygina@jinr.ru,Russia
+364,Alexander,Malakhov,A.,Mr,Prof,,FULL,2004-02-23,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,malakhov@jinr.ru,Russia
+365,Joseph,Manjavidze,J.,Mr,Dr.habil,,FULL,2009-02-02,2013-07-12,|JINR-VBLHEP|,|JINR-VBLHEP|,,joseph@jinr.ru,Russia
+366,Evgeny,Matyushevskiy,E.,Mr,,,FULL,2004-02-23,2011-09-24,|JINR-VBLHEP|,|JINR-VBLHEP|,,,Russia
+367,Vladimir,Mialkovski,V.,Mr,Dr,,FULL,2006-01-21,2016-09-26,|JINR-VBLHEP|,|JINR-VBLHEP|JINR-LPP|,,Vladimir.Mialkovski@cern.ch,Russia
+368,Yuri,Murin,Yu.,Mr,Dr,,FULL,2004-02-13,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|JINR-LPP|KRI|,,murin@jinr.ru,Russia
+369,Stanislav,Parzhitskiy,S.,Mr,,,FULL,2012-01-23,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|JINR-LPP|,,holykirka@jinr.ru,Russia
+370,Dmitri,Peshekhonov,D.,Mr,Dr,,ASSO,2004-04-27,2019-02-27,|JINR-VBLHEP|,|JINR-VBLHEP|JINR-LPP|,,Dmitri.Peshekhonov@cern.ch,Russia
+371,Vladimir,Peshekhonov,V.,Mr,Prof,,FULL,2004-04-27,2016-07-06,|JINR-VBLHEP|,|JINR-VBLHEP|JINR-LPP|,,,Russia
+372,Eugeni,Plekhanov,E.,Mr,,,FULL,2004-02-23,2014-12-08,|JINR-VBLHEP|,|JINR-VBLHEP|,,plekhanov@lhe.jinr.ru,Russia
+373,Valeri,Pozdniakov,V.,Mr,Dr,,FULL,2004-02-23,2012-01-20,|JINR-VBLHEP|,|JINR-VBLHEP|,,valeri.pozdniakov@cern.ch,Russia
+374,Sergey,Rabtsun,S.,Mr,,,FULL,2014-12-08,2015-12-27,|JINR-VBLHEP|,|JINR-VBLHEP|,,Sergey.Rabtsun@sunse.jinr.ru,Russia
+375,Stephan,Razin,S.,Mr,,,FULL,2010-01-25,2016-10-15,|JINR-VBLHEP|,|JINR-VBLHEP|,,razin@jinr.ru,Russia
+376,Sergey,Reznikov,S.,Mr,,,ASSO,2016-10-15,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,reznikov@jinr.ru,Russia
+378,Alexander,Rybakov,A.,Mr,,,ASSO,2016-10-15,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,rybakov@jinr.ru,Russia
+379,Tatiana,Semchukova,T.,Ms,,,ASSO,2018-06-13,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,pushok_tatyana@mail.ru,Russia
+380,Alexey,Shabunov,A.,Mr,,,FULL,2012-02-06,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,shabunov@jinr.ru,Russia
+381,Alexey D.,Sheremetiev,A.D.,Mr,,,FULL,2015-03-12,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,sheremetiev@jinr.ru,Russia
+382,Mikhail,Shitenkow,M.,Mr,Eng,,FULL,2018-06-09,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,shitenkow@gmail.com,Russia
+383,Nikolai,Shumeiko,N.,Mr,Prof,,FULL,2013-07-18,2016-09-26,|JINR-VBLHEP|,|JINR-VBLHEP|,,shum@hep.by,Russia
+384,Ekaterina,Streletskaya,E.,Ms,Eng,,ASSO,2018-06-13,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,estreletskaya@bk.ru,Russia
+385,Nikita,Sukhov,N.,Mr,Eng,,FULL,2019-02-27,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,sukhov@jinr.ru,Russia
+387,Taras,Vasiliev,T.,Mr,,,FULL,2010-01-22,2014-03-30,|JINR-VBLHEP|,|JINR-VBLHEP|,,tavasiliev@jinr.ru,Russia
+388,Aleksey,Voronin,A.,Mr,Eng,,STAFF,2015-11-04,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,voroninal@jinr.ru,Russia
+389,Bekhzod,Yuldashev,B.,Mr,Prof,,ASSO,2014-04-04,2019-02-27,|JINR-VBLHEP|,|JINR-VBLHEP|,,yuldashev@jinr.ru,Russia
+390,Nikolay I.,Zamiatin,N.I.,Mr,Dr,,FULL,2015-03-12,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|,,zamiatin@sunse.jinr.ru,Russia
+391,Yuri,Zanevsky,Yu.,Mr,Prof,,FULL,2004-02-23,2016-02-07,|JINR-VBLHEP|,|JINR-VBLHEP|,,,Russia
+392,Alexander,Zinchenko,A.,Mr,Dr,,FULL,2008-02-23,2023-04-04,|JINR-VBLHEP|,|JINR-VBLHEP|JINR-LPP|,,Alexander.Zinchenko@jinr.ru,Russia
+393,Vladislav,Zryuev,V.,Mr,,,ASSO,2004-02-23,2019-02-27,|JINR-VBLHEP|,|JINR-VBLHEP|,,vlad@jinr.ru,Russia
+394,Matthias,Bach,M.,Mr,Dr,,FULL,2012-04-04,2015-12-03,|FIAS|,|FIAS|,,bach@compeng.uni-frankfurt.de,Germany
+397,Nora,Bluhme,N.,Ms,,Phd,FULL,2021-09-22,,|FIAS|,,,n.bluhme@gsi.de,Germany
+398,Aizat,Daribayeva,A.,Ms,M.Sci,Phd,FULL,2024-12-01,,|FIAS|,,,daribaeva@fias.uni-frankfurt.de,Germany
+399,Jan,de Cuveland,J.,Mr,Dr,,FULL,2009-05-25,,|FIAS|,|KIP|,|CB-dep|CC-dep|PL-dep|SPL|,cuveland@compeng.uni-frankfurt.de,Germany
+400,Dominic,Eschweiler,D.,Mr,Dipl,Phd,FULL,2013-05-07,2015-12-03,|FIAS|,|FIAS|,,eschweiler@fias.uni-frankfurt.de,Germany
+401,Helvi,Hartmann,H.,Ms,,Phd,FULL,2014-03-26,2023-10-30,|FIAS|,|FIAS|,,,Germany
+402,Sebastian,Heinemann,S.,Mr,M.Sci,,ASSO,2023-04-26,2024-01-16,|FIAS|,|FIAS|,,heinemann@compeng.uni-frankfurt.de,Germany
+403,Kilian,Hunold,K.,Mr,M.Sci,,FULL,2021-05-01,2022-03-31,|FIAS|,|FIAS|,,hunold@compeng.uni-frankfurt.de,Germany
+404,Dirk,Hutter,D.,Mr,Dr,,FULL,2011-03-08,,|FIAS|,,|PTC|,hutter@compeng.uni-frankfurt.de,Germany
+405,Elizaveta,Iakovleva,E.,Ms,,Phd,FULL,2014-03-31,2015-12-14,|FIAS|,|FIAS|,,,Germany
+406,Sebastian,Kalcher,S.,Mr,Dr,,FULL,2009-10-07,2014-08-12,|FIAS|,|FIAS|,,kalcher@compeng.uni-frankfurt.de,Germany
+407,Ivan,Kisel,I.,Mr,Prof,,FULL,2003-01-10,,|FIAS|,|HFHF|GSI|KIP|,,i.kisel@compeng.uni-frankfurt.de,Germany
+408,Pavel,Kisel,P.,Mr,Dr,,FULL,2012-02-06,2020-10-15,|FIAS|,|FIAS|GSI|JINR-LIT|IKF-UFra|,,,Germany
+409,Grigory,Kozlov,G.,Mr,Dr,,FULL,2012-02-06,,|FIAS|,|JINR-LIT|,,gkozlov@compeng.uni-frankfurt.de,Germany
+410,Vladyslav,Kucher,V.,Mr,,Phd,FULL,2014-11-24,2016-12-31,|FIAS|,|FIAS|,,kucher@compeng.uni-frankfurt.de,Germany
+411,Robin,Lakos,R.,Mr,M.Sci,Phd,FULL,2022-04-06,,|FIAS|,,,r.lakos@gsi.de,Germany
+412,Volker,Lindenstruth,V.,Mr,Prof,,FULL,2004-01-06,,|FIAS|,|GSI|HFHF|KIP|,|CB|PL|,voli@compeng.de,Germany
+413,Akhil,Mithran,A.,Mr,,Phd,FULL,2023-01-23,,|FIAS|,,,mithran@fias.uni-frankfurt.de,Germany
+414,Andreas,Redelbach,A.,Mr,Dr.habil,,FULL,2018-07-27,,|FIAS|,,,redelbach@compeng.uni-frankfurt.de,Germany
+415,Julian,Reinhardt,J.,Mr,M.Sci,,ASSO,2017-05-03,2018-08-31,|FIAS|,|FIAS|,,jreinhardt@compeng.uni-frankfurt.de,Germany
+416,Saman,Sedighi Rad,S.,Mr,M.Sci,,ASSO,2023-03-20,2023-11-20,|FIAS|,|FIAS|,,sasedigh@stud.uni-frankfurt.de,Germany
+417,Oddharak,Tyagi,O.,Mr,,Phd,FULL,2023-01-23,,|FIAS|,,,otyagi@fias.uni-frankfurt.de,Germany
+418,Volodymyr,Vovchenko,V.,Mr,,Phd,FULL,2014-03-31,2017-12-01,|FIAS|,|FIAS|,,,Germany
+419,Felix,Weiglhofer,F.,Mr,M.Sci,Phd,FULL,2020-07-21,,|FIAS|,,,weiglhofer@fias.uni-frankfurt.de,Germany
+420,Gianna,Zischka,G.,Ms,B.Sci,Ma,FULL,2022-04-06,,|FIAS|,,,gianna.zischka@stud.uni-frankfurt.de,Germany
+421,Samir,Amar-Youcef,S.,Mr,Dr,,FULL,2005-10-07,2016-06-01,|IKF-UFra|,|IKF-UFra|,,,Germany
+422,Werner,Amend,W.,Mr,,,ASSO,2015-06-22,2019-12-03,|IKF-UFra|,|IKF-UFra|,,,Germany
+423,Julio,Andary,J.,Mr,,Phd,FULL,2021-09-24,,|IKF-UFra|,,,andary@physik.uni-frankfurt.de,Germany
+424,Harald,Appelshäuser,H.,Mr,Prof,,FULL,2004-02-13,,|IKF-UFra|,|HFHF|,,appels@ikf.uni-frankfurt.de,Germany
+425,Andreas,Arend,A.,Mr,Dr,,FULL,2011-01-31,2015-04-15,|IKF-UFra|,|IKF-UFra|,,arend@ikf.uni-frankfurt.de,Germany
+426,Benedict,Arnoldi-Meadows,B.,Mr,M.Sci,Phd,FULL,2019-10-16,,|IKF-UFra|,,,b.arnoldi-meadows@gsi.de,Germany
+427,Beatriz,Artur,B.,Ms,M.Sci,Phd,FULL,2023-05-08,,|IKF-UFra|,,,b.artur@gsi.de,Germany
+428,Ole,Artz,O.,Mr,M.Sci,,FULL,2017-04-27,2023-01-31,|IKF-UFra|,|IKF-UFra|,,ole.artz@t-online.de,Germany
+429,Tanita,Balle,T.,Ms,B.Sci,,FULL,2013-08-08,2015-04-08,|IKF-UFra|,|IKF-UFra|,,tballe@ikf.uni-frankfurt.de,Germany
+430,Christoph,Baumann,C.,Mr,Dr,,FULL,2012-04-19,2013-08-08,|IKF-UFra|,|IKF-UFra|,,,Germany
+431,Etienne,Bechtel,E.,Mr,Dr,,FULL,2016-04-04,2021-09-23,|IKF-UFra|,|IKF-UFra|,,ebechtel@ikf.uni-frankfurt.de,Germany
+432,Thomas,Bel,T.,Mr,,Phd,FULL,2011-04-13,2013-08-08,|IKF-UFra|,|IKF-UFra|,,,Germany
+433,Norbert,Bialas,N.,Mr,,Ma,ASSO,2017-03-31,,|IKF-UFra|,,,bialas@ikf.uni-frankfurt.de,Germany
+434,Christoph,Blume,C.,Mr,Prof,,FULL,2012-02-23,,|IKF-UFra|,|GSI|HFHF|,|PL|,blume@ikf.uni-frankfurt.de,Germany
+435,Julian,Book,J.,Mr,Dr,,FULL,2015-02-01,2016-10-25,|IKF-UFra|,|IKF-UFra|,,,Germany
+436,Christopher,Braun,C.,Mr,,Ba,ASSO,2024-09-02,,|IKF-UFra|,,,S5853807@stud.uni-frankfurt.de,Germany
+437,Henner,Büsching,H.,Mr,Prof,,FULL,2013-08-08,2015-12-14,|IKF-UFra|,|IKF-UFra|,,buschin@ikf.uni-frankfurt.de,Germany
+438,Tobias,Bus,T.,Mr,M.Sci,,FULL,2016-04-03,2020-03-31,|IKF-UFra|,|IKF-UFra|,,s5369305@stud.uni-frankfurt.de,Germany
+439,Hamda,Cherif,H.,Mr,,Phd,FULL,2014-12-09,,|IKF-UFra|,|GSI|,,h.cherif@gsi.de,Germany
+440,Carl-Philipp,Croy,C.-P.,Mr,,Ba,ASSO,2020-11-12,2022-06-09,|IKF-UFra|,|IKF-UFra|,,croy@stud.uni-frankfurt.de,Germany
+441,Hasan,Darwish,H.,Mr,M.Sci,Phd,FULL,2020-08-21,,|IKF-UFra|,|IPHC|GSI|,,h.darwish@gsi.de,Germany
+442,Dennis,Doering,D.,Mr,Dr,,FULL,2008-05-20,2016-06-01,|IKF-UFra|,|IKF-UFra|,,doering@physik.uni-frankfurt.de,Germany
+443,Melissa,Domachowski,M.,Ms,M.Sci,,FULL,2010-11-23,2012-11-08,|IKF-UFra|,|IKF-UFra|,,domachow@rz.uni-frankfurt.de,Germany
+444,Murat,Esen,M.,Mr,B.Sci,Ma,FULL,2019-03-19,2023-12-01,|IKF-UFra|,|IKF-UFra|,,mesen@ikf.uni-frankfurt.de,Germany
+445,Ingo,Fröhlich,I.,Mr,Dr,,FULL,2006-01-13,,|IKF-UFra|,|GSI|,,Froehlich@physik.uni-frankfurt.de,Germany
+446,Daniel,Giang,D.,Mr,M.Sci,,FULL,2019-03-19,2022-04-06,|IKF-UFra|,|IKF-UFra|,,,Germany
+448,Erik,Goldenstein,E.,Mr,B.Sci,Ma,ASSO,2024-07-16,,|IKF-UFra|,,,e.goldenstein@gsi.de,Germany
+449,Benedikt,Gutsche,B.,Mr,M.Sci,Phd,FULL,2022-10-18,,|IKF-UFra|,,,b.gutsche@gsi.de,Germany
+450,Ryan,Hannigan,R.,Mr,Dr,,EXT,2025-02-18,,|IKF-UFra|,|UAustin|,,ryan.hannigan@austin.utexas.edu,Germany
+451,Matthias,Hartig,M.,Mr,Dr,,FULL,2006-01-21,2012-04-19,|IKF-UFra|,|IKF-UFra|,,hartig@ikf.uni-frankfurt.de,Germany
+452,Fabian,Hebermehl,F.,Mr,M.Sci,,ASSO,2021-09-06,2023-12-01,|IKF-UFra|,|IKF-UFra|,,Fabian.Hebermehl@gmx.de,Germany
+453,Ernst,Hellbär,E.,Mr,B.Sci,,FULL,2013-01-30,2014-04-17,|IKF-UFra|,|IKF-UFra|,,hellbaer@ikf.uni-frankfurt.de,Germany
+454,Udo,Kebschull,U.,Mr,Prof,,ASSO,2004-10-04,,|IKF-UFra|,|IRI-UFra|HFHF|KIP|,,uk@uni-frankfurt.de,Germany
+455,Philipp,Klaus,P.,Mr,Dr,,FULL,2014-03-24,2021-10-31,|IKF-UFra|,|IKF-UFra|,,klaus@physik.uni-frankfurt.de,Germany
+456,Anna,Kotynia,A.,Ms,,Phd,FULL,2008-12-02,2014-04-14,|IKF-UFra|,|IKF-UFra|GSI|,,,Germany
+457,Michał,Koziel,M.,Mr,Dr,,ASSO,2008-02-12,2024-09-30,|IKF-UFra|,|IKF-UFra|IPHC|,,m.koziel@gsi.de,Germany
+458,Erik,Krebs,E.,Mr,Dr,,FULL,2013-01-31,2017-06-29,|IKF-UFra|,|IKF-UFra|,,,Germany
+459,Gisa,Kretschmar,G.,Ms,,Ma,FULL,2013-08-08,2016-12-31,|IKF-UFra|,|IKF-UFra|,,gisakretzschmar@stud.uni-frankfurt.de,Germany
+460,Ajit,Kumar,A.,Mr,Dr,,FULL,2015-09-24,,|IKF-UFra|,|VECC|,,ajit.kumar@gsi.de,Germany
+461,Marius,Kunold,M.,Mr,M.Sci,,ASSO,2021-09-20,2024-10-30,|IKF-UFra|,|IKF-UFra|,,mariuskunold@stud.uni-frankfurt.de,Germany
+462,Pavel,Larionov,P.,Mr,Dr,,FULL,2012-10-10,2017-07-05,|IKF-UFra|,|IKF-UFra|GSI|,,pavel.larionov@lnf.infn.it,Germany
+463,Benjamin,Linnik,B.,Mr,Dr,,ASSO,2013-08-08,2023-05-08,|IKF-UFra|,|IKF-UFra|,,linnik@th.physik.uni-frankfurt.de,Germany
+465,Hanna,Malygina,H.,Ms,Dr,,FULL,2008-11-04,2018-04-30,|IKF-UFra|,|IKF-UFra|GSI|KINR|,,amelnyk@kinr.kiev.ua,Germany
+467,Franz Alexej,Matejcek,F.A.,Mr,M.Sci,Phd,FULL,2021-09-06,,|IKF-UFra|,,,matejcek@physik.uni-frankfurt.de,Germany
+468,Jan,Michel,J.,Mr,Dr,,FULL,2012-12-10,,|IKF-UFra|,,,michel@physik.uni-frankfurt.de,Germany
+469,Daniela,Mijatovic,D.,Ms,B.Sci,,ASSO,2016-11-02,2020-07-10,|IKF-UFra|,|IKF-UFra|,,,Germany
+470,Borislav,Milanović,B.,Mr,Dr,,FULL,2011-02-24,2015-11-03,|IKF-UFra|,|IKF-UFra|,,,Germany
+471,Christian,Müntz,C.,Mr,Dr,,FULL,2003-01-16,,|IKF-UFra|,,|PL-dep|,c.muentz@physik.uni-frankfurt.de,Germany
+472,Marvin,Nabroth,M.,Mr,M.Sci,Phd,FULL,2023-05-09,,|IKF-UFra|,,,m.nabroth@gsi.de,Germany
+473,Bertram,Neumann,B.,Mr,M.Sci,,FULL,2010-11-24,2013-08-06,|IKF-UFra|,|IKF-UFra|,,beneuman@stud.uni-frankfurt.de,Germany
+474,Sandra,Nyholm,S.,Ms,,,STAFF,2024-02-19,,|IKF-UFra|,,,Nyholm@atom.uni-frankfurt.de,Germany
+475,Manuel,Penschuck,M.,Mr,,Ma,FULL,2014-07-31,2016-01-01,|IKF-UFra|,|IKF-UFra|,,,Germany
+476,Michael,Petri,M.,Mr,,,FULL,2012-10-11,2020-09-01,|IKF-UFra|,|IKF-UFra|,,petri@physik.uni-frankfurt.de,Germany
+477,Jonathan,Pieper,J.,Mr,,Ba,FULL,2013-09-01,2015-12-14,|IKF-UFra|,|IKF-UFra|,,jpieper@ikf.uni-frankfurt.de,Germany
+478,Pascal,Raisig,P.,Mr,Dr,,ASSO,2009-10-13,,|IKF-UFra|,,,praisig-ikf@mailbox.org,Germany
+479,Patrick,Reichelt,P.,Mr,M.Sci,,FULL,2009-09-22,2015-12-14,|IKF-UFra|,|IKF-UFra|,,,Germany
+480,Florian,Roether,F.,Mr,Dipl,Phd,FULL,2013-08-08,,|IKF-UFra|,,,roether@ikf.uni-frankfurt.de,Germany
+481,Lena,Rossel,L.,Ms,M.Sci,,ASSO,2021-03-23,2023-12-01,|IKF-UFra|,|IKF-UFra|,,lena.rossel@stud.uni-frankfurt.de,Germany
+482,David,Schledt,D.,Mr,M.Sci,Phd,FULL,2018-03-06,,|IKF-UFra|,|IRI-UFra|,,schledt@iri.uni-frankfurt.de,Germany
+483,Philipp,Schleker,P.,Mr,M.Sci,Phd,ASSO,2014-07-31,2023-05-08,|IKF-UFra|,|IKF-UFra|,,s1383146@stud.uni-frankfurt.de,Germany
+484,Johannes,Scholten,J.,Mr,B.Sci,,FULL,2014-11-28,2016-11-07,|IKF-UFra|,|IKF-UFra|,,scholten@ikf.uni-frankfurt.de,Germany
+485,Christoph,Schrader,C.,Mr,Dr,,FULL,2007-02-22,2012-11-08,|IKF-UFra|,|IKF-UFra|,,,Germany
+486,Stefan,Schreiber,S.,Mr,,,ASSO,2017-03-30,,|IKF-UFra|,,,schreiber@ikf.uni-frankfurt.de,Germany
+487,Heidi,Schuldes,H.,Ms,Dr,,FULL,2016-11-25,2017-12-05,|IKF-UFra|,|IKF-UFra|,,,Germany
+488,Omveer,Singh,O.,Mr,Dr,,FULL,2017-04-13,,|IKF-UFra|,|GSI|AMU|,,omvir.ch@gmail.com,Germany
+489,Dennis,Spicker,D.,Mr,M.Sci,Phd,FULL,2018-02-06,,|IKF-UFra|,,,dspicker@ikf.uni-frankfurt.de,Germany
+490,Herbert,Ströbele,H.,Mr,Prof,,FULL,2004-02-13,2010-03-15,|IKF-UFra|,|IKF-UFra|,,stroebele@ikf.uni-frankfurt.de,Germany
+491,Stefan,Strohauer,S.,Mr,B.Sci,Ma,FULL,2013-08-08,2016-12-31,|IKF-UFra|,|IKF-UFra|,,strohauer@physik.uni-frankfurt.de,Germany
+492,Joachim,Stroth,J.,Mr,Prof,,FULL,2004-02-13,,|IKF-UFra|,|GSI|HFHF|,|CB|MB|PB|PL|,j.stroth@physik.uni-frankfurt.de,Germany
+493,Eva-dhidho,Taka,E.D.,Ms,,Phd,FULL,2024-10-25,,|IKF-UFra|,,,taka@physik.uni-frankfurt.de,Germany
+494,Milad,Tanha,M.,Mr,Dr,,FULL,2013-08-08,2017-01-19,|IKF-UFra|,|IKF-UFra|,,,Germany
+495,Tobias,Tischler,T.,Mr,Dr,,FULL,2009-12-15,2016-06-01,|IKF-UFra|,|IKF-UFra|,,,Germany
+497,Enxhela,Vardhami,E.,Ms,B.Sci,,ASSO,2021-09-06,2023-03-03,|IKF-UFra|,|IKF-UFra|,,,Germany
+498,Michael,Wiebusch,M.,Mr,M.Sci,Phd,FULL,2013-04-23,2016-12-31,|IKF-UFra|,|IKF-UFra|,,,Germany
+499,Bernhard,Wiedemann,B.,Mr,Dr,,FULL,2009-12-15,2013-08-08,|IKF-UFra|,|IKF-UFra|,,wiedemann@ikf.uni-frankfurt.de,Germany
+500,Samantha,Zuniga,S.,Ms,,Ba,EXT,2025-02-18,,|IKF-UFra|,|UAustin|,,samzuniga@utexas.edu,Germany
+501,Norbert,Abel,N.,Mr,Dr,,FULL,2007-02-05,2012-01-07,|IRI-UFra|,|IRI-UFra|KIP|,,norbert_abel@gmx.net,Germany
+502,Alexander,Adler,A.,Mr,Dr,,FULL,2018-04-18,2023-11-13,|IRI-UFra|,|IRI-UFra|,,aadler@iri.uni-frankfurt.de,Germany
+503,Stefan,Böttger,S.,Mr,Dr,,FULL,2007-02-06,2014-10-15,|IRI-UFra|,|IRI-UFra|KIP|,,boettger@iri.uni-frankfurt.de,Germany
+504,Timo,Breitner,T.,Mr,Dipl,Phd,FULL,2010-03-22,2016-04-28,|IRI-UFra|,|IRI-UFra|KIP|,,breitner@iri.uni-frankfurt.de,Germany
+505,LuYao,Chen,,Ms,,Ba,FULL,2015-12-02,2016-04-28,|IRI-UFra|,|IRI-UFra|,,LuYao@iri.uni-frankfurt.de,Germany
+506,Heiko,Engel,H.,Mr,Dr,,FULL,2011-12-22,2019-10-28,|IRI-UFra|,|IRI-UFra|,,hengel@iri.uni-frankfurt.de,Germany
+507,Cruz de Jesús,García Chávez,C.,Mr,M.Sci,Phd,ASSO,2011-07-04,2023-02-03,|IRI-UFra|,|IRI-UFra|UMuenster|,,garcia@iri.uni-frankfurt.de,Germany
+508,Jáno,Gebelein,J.,Mr,Dr,,ASSO,2008-07-17,2019-10-28,|IRI-UFra|,|IRI-UFra|KIP|,,gebelein@iri.uni-frankfurt.de,Germany
+509,Andrés,Gómez Ramírez,A.,Mr,Dr,,ASSO,2013-10-01,2019-10-28,|IRI-UFra|,|IRI-UFra|,,Andres.Gomez@iri.uni-frankfurt.de,Germany
+510,Felix,Hoffmann,F.,Mr,,Phd,FULL,2023-02-03,2024-10-30,|IRI-UFra|,|IRI-UFra|,,felix.hoffmann@iri.uni-frankfurt.de,Germany
+511,Thomas,Janson,T.,Mr,Dipl,Phd,FULL,2012-09-15,2024-10-30,|IRI-UFra|,|IRI-UFra|,,janson@iri.uni-frankfurt.de,Germany
+512,Camilo,Lara,C.,Mr,Dr,,FULL,2006-01-31,2019-07-03,|IRI-UFra|,|IRI-UFra|KIP|,,lara@iri.uni-frankfurt.de,Germany
+513,Johannes,Lehrbach,J.,Mr,Dipl,,FULL,2012-10-10,2016-04-28,|IRI-UFra|,|IRI-UFra|,,johannes@lehrbach.de,Germany
+514,José Antonio,Lucio Martínez,J.A.,Mr,M.Sci,Phd,FULL,2014-07-21,2019-10-09,|IRI-UFra|,|IRI-UFra|,,LucioMartinez@iri.uni-frankfurt.de,Germany
+515,Sebastian,Manz,S.,Mr,Dr,,FULL,2008-11-05,2016-04-28,|IRI-UFra|,|IRI-UFra|KIP|,,manz@iri.uni-frankfurt.de,Germany
+517,Andrei,Oancea,A.,Mr,Dipl,Phd,ASSO,2012-01-09,2019-10-28,|IRI-UFra|,|IRI-UFra|,,oancea@iri.uni-frankfurt.de,Germany
+518,Christian,Stüllein,C.,Mr,Dipl,Phd,FULL,2014-12-16,2019-07-03,|IRI-UFra|,|IRI-UFra|,,Stuellein@em.uni-frankfurt.de,Germany
+519,Gobinda Chandra,Mishra,G.C.,Mr,Prof,,FULL,2012-10-06,2022-03-23,|SMIT|,|SMIT|,,gcm30032@yahoo.com,India
+520,Victor,Baublis,V.,Mr,Dr,,FULL,2005-06-01,2016-09-26,|PNPI|,|PNPI|,,,Russia
+521,Vladislav,Dobyrn,V.,Mr,,,ASSO,2010-03-24,2023-04-04,|PNPI|,|PNPI|,,dobyrn_vv@pnpi.nrcki.ru,Russia
+522,Victor,Golovtsov,V.,Mr,Dr,,FULL,2004-01-13,2016-09-26,|PNPI|,|PNPI|,,vicgol@pnpi.spb.ru,Russia
+523,Vladimir,Gugnishov,V.,Mr,Eng,,ASSO,2021-09-24,2023-04-04,|PNPI|,|PNPI|,,gugneshov_vv@pnpi.nrcki.ru,Russia
+524,Dmitry,Ivanishchev,D.,Mr,Dr,,FULL,2014-11-24,2023-04-04,|PNPI|,|PNPI|,,ivanishchev@gmail.com,Russia
+525,Vladimir,Ivanov,V.,Mr,Dr,,FULL,2004-01-13,2023-04-04,|PNPI|,|PNPI|MEPhI|,,ivanov_vv@pnpi.nrcki.ru,Russia
+526,Alexei,Khanzadeev,A.,Mr,Prof,,FULL,2004-02-13,2023-04-04,|PNPI|,|PNPI|MEPhI|,,khanzade@pnpi.spb.ru,Russia
+527,Leonid,Kochenda,L.,Mr,Dr,,FULL,2010-03-24,2023-04-04,|PNPI|,|PNPI|MEPhI|,,kochenda_lm@pnpi.nrcki.ru,Russia
+528,Boris,Komkov,B.,Mr,,,ASSO,2007-01-29,2023-04-04,|PNPI|,|PNPI|,,komkov_bg@pnpi.nrcki.ru,Russia
+529,Vladimir,Kozlov,V.,Mr,Dr,,ASSO,2014-11-24,2023-04-04,|PNPI|,|PNPI|,,kozlov_vs@pnpi.nrcki.ru,Russia
+530,Peter,Kravtsov,P.,Mr,Dr,,FULL,2011-05-13,2023-04-04,|PNPI|,|PNPI|MEPhI|,,kravtsov_pa@pnpi.nrcki.ru,Russia
+531,Evgeny,Kryshen,E.,Mr,Dr,,FULL,2004-02-13,2023-04-04,|PNPI|,|PNPI|SPbPU|,,kryshen_em@pnpi.nrcki.ru,Russia
+532,Leonid,Kudin,L.,Mr,,,ASSO,2007-01-29,2023-04-04,|PNPI|,|PNPI|,,kudin_lg@pnpi.nrcki.ru,Russia
+533,Nail,Miftakhov,N.,Mr,,,ASSO,2010-03-24,2021-06-16,|PNPI|,|PNPI|,,miftakhov_nm@pnpi.nrcki.ru,Russia
+534,Vladimir,Nikulin,V.,Mr,Dr,,FULL,2006-10-18,2023-04-04,|PNPI|,|PNPI|,,vladimir.nikulin@cern.ch,Russia
+535,Vladimir,Poliakov,V.,Mr,Dr,,FULL,2010-03-24,2013-08-05,|PNPI|,|PNPI|,,poliakov@pnpi.spb.ru,Russia
+536,Evgeny,Rostchin,E.,Mr,,,FULL,2007-01-29,2023-04-04,|PNPI|,|PNPI|MEPhI|,,roshchin_ev@pnpi.nrcki.ru,Russia
+537,Andrey,Ryabov,A.,Mr,M.Sci,Phd,FULL,2021-09-24,2023-04-04,|PNPI|,|PNPI|,,ryabov_ay@pnpi.nrcki.ru,Russia
+538,Victor,Ryabov,V.,Mr,Dr,,ASSO,2021-09-24,2023-04-04,|PNPI|,|PNPI|,,riabov_vg@pnpi.nrcki.ru,Russia
+539,Yury,Ryabov,Yu.,Mr,Dr,,FULL,2004-01-13,2023-04-04,|PNPI|,|PNPI|,,yuriy.riabov@gmail.com,Russia
+540,Mikhail,Ryzhinskiy,M.,Mr,,,FULL,2004-02-13,2012-02-10,|PNPI|,|PNPI|SPbPU|,,mryzhinskiy@phmf.spbstu.ru,Russia
+542,Olga,Tarassenkova,O.,Ms,,,ASSO,2006-01-21,2023-04-04,|PNPI|,|PNPI|,,tarasenkova_op@pnpi.nrcki.ru,Russia
+543,Dmitry,Tyts,D.,Mr,,,ASSO,2019-10-23,2023-04-04,|PNPI|,|PNPI|,,dtyts@yandex.ru,Russia
+544,Sergei,Volkov,S.,Mr,,,ASSO,2007-01-29,2023-04-04,|PNPI|,|PNPI|,,volkov_ss@pnpi.nrcki.ru,Russia
+545,Evgeny,Vznuzdaev,E.,Mr,,,FULL,2006-01-21,2014-11-21,|PNPI|,|PNPI|,,vea@pnpi.spb.ru,Russia
+546,Marat,Vznuzdaev,M.,Mr,Dr,,ASSO,2011-05-13,2023-04-04,|PNPI|,|PNPI|,,vznuzdaev_me@pnpi.nrcki.ru,Russia
+547,Michael,Zhalov,M.,Mr,Dr,,FULL,2004-01-13,2023-04-04,|PNPI|,|PNPI|,,m.zhalov@gmail.com,Russia
+548,Luca Jonas,Ahrens,L.J.,Mr,,Ma,FULL,2024-07-08,,|UGiessen|,,,luca.jonas.ahrens@physik.uni-giessen.de,Germany
+549,Marten,Becker,M.,Mr,M.Sci,Phd,FULL,2019-10-09,,|UGiessen|,,,Marten.Becker@physik.uni-giessen.de,Germany
+550,Jordan,Bendarouach,J.,Mr,Dr,,FULL,2013-12-11,2020-03-27,|UGiessen|,|UGiessen|GSI|,,jordan.bendarouach@exp2.physik.uni-giessen.de,Germany
+551,Martin,Beyer,M.,Mr,M.Sci,Phd,FULL,2020-09-15,,|UGiessen|,,,martin.beyer@physik.uni-giessen.de,Germany
+552,Oskar,Czajkowski,O.,Mr,B.Sci,,ASSO,2017-12-05,2023-07-31,|UGiessen|,|UGiessen|,,Oskar.Czajkowski@chemie.uni-giessen.de,Germany
+554,Jonathan,Diehl,J.,Mr,M.Sci,,FULL,2023-09-20,,|UGiessen|,,,jonathan.diehl@exp2.physik.uni-giessen.de,Germany
+555,Michael,Dürr,M.,Mr,Prof,,FULL,2012-09-16,,|UGiessen|,|HSEsslingen|,,Michael.Duerr@ap.physik.uni-giessen.de,Germany
+556,Cornelius,Feier-Riesen,C.,Mr,M.Sci,Phd,FULL,2017-12-05,,|UGiessen|,,,Cornelius.Riesen@physik.uni-giessen.de,Germany
+557,Thomas,Geßler,T.,Mr,Dr,,FULL,2018-04-16,2021-08-31,|UGiessen|,|UGiessen|,,Thomas.Gessler@exp2.physik.uni-giessen.de,Germany
+558,Robin,Haas,R.,Mr,M.Sci,,FULL,2019-10-26,2023-07-31,|UGiessen|,|UGiessen|,,Robin.Haas@physik.uni-giessen.de,Germany
+559,Claudia,Höhne,C.,Ms,Prof,,FULL,2004-04-13,,|UGiessen|,|GSI|HFHF|,|CB|CB-chair-dep|PL|,claudia.hoehne@exp2.physik.uni-giessen.de,Germany
+560,Leonard,Koch,L.,Mr,Dr,,FULL,2020-09-15,2021-09-13,|UGiessen|,|UGiessen|,,leonard.koch@exp2.physik.uni-giessen.de,Germany
+561,Elena,Lebedeva,E.,Ms,M.Sci,Phd,ASSO,2009-09-22,2024-09-25,|UGiessen|,|UGiessen|GSI|,,,Germany
+562,Tariq,Mahmoud,T.,Mr,Dr,,FULL,2011-01-10,2017-12-04,|UGiessen|,|UGiessen|,,tariq.mahmoud@exp2.physik.uni-giessen.de,Germany
+563,Nicolas,Masello-Quillfeldt,N.,Mr,,Ba,ASSO,2024-08-15,,|UGiessen|,,,nicolas.masello-quillfeldt@physik.uni-giessen.de,Germany
+564,Jan Hendrik,Otto,J.H.,Mr,Dr,,FULL,2017-12-05,2023-07-31,|UGiessen|,|UGiessen|,,Jan.H.Otto@physik.uni-giessen.de,Germany
+565,Egor,Ovcharenko,E.,Mr,Dr,,FULL,2012-10-15,2019-09-30,|UGiessen|,|UGiessen|JINR-LIT|ITEP|,,evovch@gmail.com,Germany
+566,Sven,Peter,S.,Mr,,Ma,FULL,2025-02-04,,|UGiessen|,,,Sven.Peter@physik.uni-giessen.de,Germany
+567,Gregor,Pitsch,G.,Mr,B.Sci,Ma,FULL,2017-11-08,2018-10-01,|UGiessen|,|UGiessen|,,Gregor.Pitsch@physik.uni-giessen.de,Germany
+568,Simon Patrik,Reiter,S.P.,Mr,Dr,,FULL,2024-03-05,,|UGiessen|,,,simon.reiter@exp2.physik.uni-giessen.de,Germany
+569,Karina,Scharmann,K.,Ms,M.Sci,Phd,FULL,2023-09-20,,|UGiessen|,,,karina.scharmann@physik.uni-giessen.de,Germany
+570,Thomas,Wasem,T.,Mr,Eng,,ASSO,2024-09-25,,|UGiessen|,,,Thomas.Wasem@exp1.physik.uni-giessen.de,Germany
+571,Adrian Amatus,Weber,A.A.,Mr,Dr,,ASSO,2015-04-29,,|UGiessen|,,,adrian.a.weber@exp2.physik.uni-giessen.de,Germany
+572,Falk,Zorn,F.,Mr,B.Sci,Ma,FULL,2019-10-26,2023-07-31,|UGiessen|,|UGiessen|,,Falk.Zorn@physik.uni-giessen.de,Germany
+573,Buddhadeb,Bhattacharjee,B.,Mr,Dr,,FULL,2008-10-31,,|UGauhati|,,|CB|,bb_22@rediffmail.com,India
+574,Barnali,Debnath,B.,Ms,Dr,,FULL,2008-10-31,2017-10-11,|UGauhati|,|UGauhati|,,,India
+575,Kalyan,Dey,K.,Mr,Dr,,FULL,2010-11-24,2017-12-01,|UGauhati|,|UGauhati|,,kalyn.dey@gmail.com,India
+576,Nur,Hussain,N.,Mr,Dr,,ASSO,2021-09-11,,|UGauhati|,,,nur.hussain@cern.ch,India
+577,Rupalim,Talukdar,R.,Ms,Dr,,FULL,2010-11-24,2015-12-04,|UGauhati|,|UGauhati|,,rupalimtalukdar@gmail.com,India
+578,Ping,Cao,,Mr,Prof,,ASSO,2013-09-06,,|USTC|,,,cping@ustc.edu.cn,China
+579,Hongfang,Chen,,Ms,Prof,,FULL,2005-12-17,2015-12-14,|USTC|,|USTC|,,,China
+580,Zhiguo,Ding,,Mr,B.Sci,Phd,FULL,2017-10-24,2019-11-11,|USTC|,|USTC|,,dzhiguo@mail.ustc.edu.cn,China
+581,Xin,Dong,,Mr,,,FULL,2005-12-17,2009-03-18,|USTC|,|USTC|,,dongx@ustc.edu.cn,China
+582,Huanhuan,Fan,,Ms,,Phd,FULL,2014-03-26,2015-12-14,|USTC|,|USTC|PI-UHd|,,fanhh@mail.ustc.edu.cn,China
+583,Dongdong,Hu,,Mr,Dr,,ASSO,2015-12-14,,|USTC|,|PI-UHd|,,hurongr@mail.ustc.edu.cn,China
+584,Xiru,Huang,,Mr,Dr,,FULL,2017-02-24,2017-12-21,|USTC|,|USTC|,,xiru@ustc.edu.cn,China
+585,Di,Jiang,,Mr,,Phd,FULL,2015-12-14,2017-02-24,|USTC|,|USTC|,,jiangdi@mail.ustc.edu.cn,China
+586,Chao,Li,,Mr,,Phd,FULL,2017-02-24,2021-09-27,|USTC|,|USTC|,,lichao37@mail.ustc.edu.cn,China
+588,Wen,Li,,Mr,B.Sci,Ma,FULL,2023-08-03,,|USTC|,,,liwen@mail.ustc.edu.cn,China
+589,Xin,Li,,Mr,Prof,,ASSO,2015-12-14,2023-08-03,|USTC|,|USTC|,,li124ste@ustc.edu.cn,China
+590,Haiping,Peng,,Mr,Prof,,FULL,2012-02-13,2013-09-06,|USTC|,|USTC|,,penghp@ustc.edu.cn,China
+591,Ming,Shao,,Mr,Prof,,ASSO,2005-12-17,,|USTC|,,,swing@ustc.edu.cn,China
+592,Guofeng,Song,,Mr,,Phd,FULL,2015-12-14,2017-02-24,|USTC|,|USTC|,,sgf@mail.ustc.edu.cn,China
+593,Yuan,Su,,Mr,,Ma,FULL,2019-03-12,2021-09-27,|USTC|,|USTC|,,suyuann@mail.ustc.edu.cn,China
+594,Yongjie,Sun,,Mr,Prof,,FULL,2009-03-18,,|USTC|,,|CB|,sunday@ustc.edu.cn,China
+595,Zhengyang,Sun,,Mr,M.Sci,Phd,FULL,2019-11-12,,|USTC|,,,zgkdszy@mail.ustc.edu.cn,China
+596,Zebo,Tang,,Mr,Prof,,ASSO,2009-03-18,,|USTC|,,,zbtang@ustc.edu.cn,China
+597,Kaiyang,Wang,,Mr,,Phd,FULL,2020-09-09,,|USTC|,,,czswky@mail.ustc.edu.cn,China
+598,Tianxing,Wang,,Mr,Dr,,FULL,2019-11-12,2023-12-01,|USTC|,|USTC|,,tx951121@mail.ustc.edu.cn,China
+599,Xiaolian,Wang,,Mr,Prof,,FULL,2005-12-17,2012-02-13,|USTC|,|USTC|,,wangxl@ustc.edu.cn,China
+600,Xinjian,Wang,,Mr,Dr,,FULL,2019-03-12,2023-08-03,|USTC|,|USTC|,,sawxj@mail.ustc.edu.cn,China
+601,Jian,Wu,,Mr,Dr,,FULL,2005-12-17,2009-03-18,|USTC|,|USTC|,,wujian@ustc.edu.cn,China
+602,Min,Xu,,Mr,,,FULL,2005-12-17,2009-03-18,|USTC|,|USTC|,,xukmin@ustc.edu.cn,China
+603,Junfeng,Yang,,Mr,Prof,,FULL,2014-12-23,,|USTC|,|GSI|,,yangjf@ustc.edu.cn,China
+604,Rongxing,Yang,,Mr,,Phd,FULL,2015-12-14,2019-11-11,|USTC|,|USTC|,,yrx1989@mail.ustc.edu.cn,China
+605,Ming,Yao,,Mr,B.Sci,Ma,FULL,2023-07-31,,|USTC|,,,mmzz@mail.ustc.edu.cn,China
+606,Jianhui,Yuan,,Mr,,Ma,FULL,2017-02-24,2021-09-27,|USTC|,|USTC|,,yjhustc@mail.ustc.edu.cn,China
+607,Yifei,Zhang,,Mr,Prof,,FULL,2012-02-13,2017-12-21,|USTC|,|USTC|,,ephy@ustc.edu.cn,China
+609,Lei,Zhao,,Mr,Prof,,FULL,2014-12-23,2017-12-21,|USTC|,|USTC|,,zlei@ustc.edu.cn,China
+610,Jiajun,Zheng,,Mr,,Phd,FULL,2015-12-14,2017-02-24,|USTC|,|USTC|,,zjj11@mail.ustc.edu.cn,China
+611,Jian,Zhou,,Mr,Dr,,FULL,2017-02-24,2023-08-03,|USTC|,|USTC|,,zj1994@mail.ustc.edu.cn,China
+612,Deyan,Atanasov,D.,Mr,,,FULL,2004-02-13,2007-02-05,|KIP|,|KIP|,,dp@kip.uni-heidelberg.de,Germany
+613,Gloria,Torralba,G.,Ms,,,FULL,2004-02-13,2007-02-05,|KIP|,|KIP|,,torralba@kip.uni-heidelberg.de,Germany
+614,Gerd,Tröger,G.,Mr,,,FULL,2004-02-13,2009-03-02,|KIP|,|KIP|,,troeger@kip.uni-heidelberg.de,Germany
+615,Adeel,Akram,A.,Mr,M.Sci,,FULL,2016-01-01,2017-01-31,|PI-UHd|,|PI-UHd|,,akram@physi.uni-heidelberg.de,Germany
+616,Erjin,Bao,E.,Mr,M.Sci,Phd,FULL,2015-12-13,2016-12-31,|PI-UHd|,|PI-UHd|,,bao@physi.uni-heidelberg.de,Germany
+617,Mohamed Lotfi,Benabderrahmane,M.L.,Mr,,,FULL,2004-02-13,2009-03-03,|PI-UHd|,|PI-UHd|,,lotfi@physi.uni-heidelberg.de,Germany
+618,Everard,Cordier,E.,Mr,,,FULL,2004-02-13,2008-02-20,|PI-UHd|,|PI-UHd|,,cordier@pi0.physi.uni-heidelberg.de,Germany
+619,Dirk,Gottschalk,D.,Mr,,,FULL,2007-02-06,2021-03-03,|PI-UHd|,|PI-UHd|,,gottschalk@physi.uni-heidelberg.de,Germany
+620,Junyi,Han,,Mr,,Phd,FULL,2025-01-15,,|PI-UHd|,|CCNU|,,j.han@gsi.de,Germany
+621,Norbert,Herrmann,N.,Mr,Prof,,FULL,2004-02-13,,|PI-UHd|,|GSI|,|CB|,N.Herrmann@physi.uni-heidelberg.de,Germany
+623,Yixuan,Jin,,Ms,,Phd,FULL,2025-01-15,,|PI-UHd|,|CCNU|,,yi.jin@gsi.de,Germany
+624,Tae Im,Kang,,Mr,Dr,,FULL,2006-01-09,2014-11-27,|PI-UHd|,|PI-UHd|UKorea|,,kang@physi.uni-heidelberg.de,Germany
+625,Ruben,Kolb,R.,Mr,B.Sci,,FULL,2020-03-03,2021-09-24,|PI-UHd|,|PI-UHd|,,R.Kolb@stud.uni-heidelberg.de,Germany
+626,Lisa-Katrin,Kümmerer,L.-K.,Ms,B.Sci,,ASSO,2022-10-18,2023-09-20,|PI-UHd|,|PI-UHd|,,lisa-katrin.kuemmerer@stud.uni-heidelberg.de,Germany
+627,Yue Hang,Leung,,Mr,Dr,,FULL,2022-07-07,,|PI-UHd|,,,y.h.leung@gsi.de,Germany
+628,Markus,Merschmeyer,M.,Mr,,,FULL,2005-09-20,2007-05-09,|PI-UHd|,|PI-UHd|,,merschm@pi0.physi.uni-heidelberg.de,Germany
+629,Daniel Aaron,Müller,D.A.,Mr,B.Sci,,FULL,2021-09-24,2023-11-29,|PI-UHd|,|PI-UHd|,,mueller@physi.uni-heidelberg.de,Germany
+630,Esteban,Rubio,E.,Mr,Eng,,FULL,2019-07-24,,|PI-UHd|,,,rubio@physi.uni-heidelberg.de,Germany
+631,Dennis,Sauter,D.,Mr,M.Sci,,ASSO,2018-03-08,2019-02-25,|PI-UHd|,|PI-UHd|,,dsauter@physi.uni-heidelberg.de,Germany
+632,Daniel,Sigmund,D.,Mr,,,ASSO,2022-05-09,2024-09-25,|PI-UHd|,|PI-UHd|,,sigmund@physi.uni-heidelberg.de,Germany
+633,Christian,Simon,C.,Mr,Dr,,FULL,2012-02-10,2021-09-24,|PI-UHd|,|PI-UHd|,,csimon@physi.uni-heidelberg.de,Germany
+634,Yannick,Söhngen,Y.,Mr,M.Sci,Phd,FULL,2020-06-01,,|PI-UHd|,,,soehngen@physi.uni-heidelberg.de,Germany
+635,Philipp,Weidenkaff,P.,Mr,M.Sci,Phd,FULL,2015-05-11,,|PI-UHd|,|THU|,,weidenkaff@physi.uni-heidelberg.de,Germany
+636,Bernd,Windelband,B.,Mr,Dr,,ASSO,2022-05-09,,|PI-UHd|,,,bernd@physi.uni-heidelberg.de,Germany
+637,Tim,Armbruster,T.,Mr,Dr,,FULL,2007-03-12,2013-06-30,|ZITI-UHd|,|ZITI-UHd|,,tim.armbruster@ziti.uni-heidelberg.de,Germany
+639,Ulrich,Brüning,U.,Mr,Prof,,FULL,2004-01-11,2015-12-01,|ZITI-UHd|,|ZITI-UHd|,,ulrich.bruening@ziti.uni-heidelberg.de,Germany
+640,Peter,Fischer,P.,Mr,Prof,,FULL,2004-01-09,,|ZITI-UHd|,,|CB|,peter.fischer@ziti.uni-heidelberg.de,Germany
+641,Holger,Fröning,H.,Mr,,,FULL,2006-01-09,2012-01-26,|ZITI-UHd|,|ZITI-UHd|,,holger.froening@ziti.uni-heidelberg.de,Germany
+642,Wenxue,Gao,,Mr,Dr,,FULL,2006-01-09,2012-01-26,|ZITI-UHd|,|ZITI-UHd|,,,Germany
+643,Joachim,Gläß,J.,Mr,Dr,,FULL,2004-01-11,2007-03-02,|ZITI-UHd|,|ZITI-UHd|,,,Germany
+644,Patrick,Haspel,P.,Mr,,,FULL,2004-02-13,2006-01-09,|ZITI-UHd|,|ZITI-UHd|,,haspel@uni-mannheim.de,Germany
+645,Christian,Kreidl,C.,Mr,Dr,,FULL,2006-01-09,2015-12-01,|ZITI-UHd|,|ZITI-UHd|,,christian.kreidl@ziti.uni-heidelberg.de,Germany
+646,Michael,Krieger,M.,Mr,Dipl,Phd,FULL,2011-10-07,2018-07-01,|ZITI-UHd|,|ZITI-UHd|,,michael.krieger@ziti.uni-heidelberg.de,Germany
+647,Andreas,Kugel,A.,Mr,Dr,,FULL,2006-01-09,2012-01-26,|ZITI-UHd|,|ZITI-UHd|,,andreas.kugel@ziti.uni-heidelberg.de,Germany
+648,Frank,Lemke,F.,Mr,Dr,,FULL,2007-03-12,2015-12-01,|ZITI-UHd|,|ZITI-UHd|,,frank.lemke@ziti.uni-heidelberg.de,Germany
+649,Reinhard,Männer,R.,Mr,Prof,,FULL,2004-01-11,2012-01-26,|ZITI-UHd|,|ZITI-UHd|,,reinhard.maenner@ziti.uni-heidelberg.de,Germany
+650,Mondrian,Nüssle,M.,Mr,Dr,,FULL,2004-04-22,2013-08-13,|ZITI-UHd|,|ZITI-UHd|,,mondrian.nuessle@ziti.uni-heidelberg.de,Germany
+651,Ivan,Peric,I.,Mr,Dr,,FULL,2008-02-21,2014-11-27,|ZITI-UHd|,|ZITI-UHd|,,ivan.peric@ziti.uni-heidelberg.de,Germany
+652,Philipp,Schäfer,P.,Mr,B.Sci,,ASSO,2010-12-21,2015-12-01,|ZITI-UHd|,|ZITI-UHd|,,,Germany
+653,Sven,Schatral,S.,Mr,,Phd,FULL,2012-04-23,2015-12-31,|ZITI-UHd|,|ZITI-UHd|,,sven.schatral@ziti.uni-heidelberg.de,Germany
+654,David,Slogsnat,D.,Mr,,,FULL,2004-02-13,2008-02-21,|ZITI-UHd|,|ZITI-UHd|,,slogsnat@uni-mannheim.de,Germany
+655,Christian,Steinle,C.,Mr,Dr,,FULL,2004-01-11,2012-01-26,|ZITI-UHd|,|ZITI-UHd|,,christian.steinle@ziti.uni-heidelberg.de,Germany
+656,Denis,Wohlfeld,D.,Mr,Dr,,FULL,2004-02-13,2014-11-27,|ZITI-UHd|,|ZITI-UHd|,,denis.wohlfeld@ziti.uni-heidelberg.de,Germany
+657,Andreas,Wurz,A.,Mr,,,FULL,2004-01-11,2012-01-26,|ZITI-UHd|,|ZITI-UHd|,,andreas.wurz@ziti.uni-heidelberg.de,Germany
+658,Rento,Yamada,R.,Mr,B.Sci,Ma,FULL,2023-10-05,,|UHiroshima|,,,yamada@quark.hiroshima-u.ac.jp,Japan
+659,Yorito,Yamaguchi,Y.,Mr,A.Prof,,FULL,2023-09-27,,|UHiroshima|,,|CB|,yorito@hiroshima-u.ac.jp,Japan
+660,Sumit Kumar,Kundu,S.K.,Mr,Dr,,FULL,2018-08-31,2023-11-21,|IIT-I|,|IIT-I|,,coolkundu@gmail.com,India
+661,Sudhir,Rode,S.,Mr,,Phd,FULL,2017-04-18,2017-09-14,|IIT-I|,|IIT-I|,,sudhirrode11@gmail.com,India
+662,Ankhi,Roy,A.,Ms,Prof,,FULL,2016-10-21,,|IIT-I|,,,ankhi@iiti.ac.in,India
+663,Raghunath,Sahoo,R.,Mr,Prof,,FULL,2014-04-10,,|IIT-I|,,|CB|,raghunath@iiti.ac.in,India
+664,Sumanta,Samal,S.,Mr,A.Prof,,FULL,2023-12-06,,|IIT-I|,,,sumanta@iiti.ac.in,India
+665,Sushanta,Tripathy,S.,Mr,,Phd,FULL,2015-12-12,2016-07-26,|IIT-I|,|IIT-I|,,phd1501151001@iiti.ac.in,India
+666,Rashmi,Raniwala,R.,Ms,Dr,,FULL,2007-10-01,2017-04-25,|URajasthan|,|URajasthan|,,rashmi.raniwala@cern.ch,India
+667,Sudhir,Raniwala,S.,Mr,Dr,,FULL,2007-10-01,2017-04-25,|URajasthan|,|URajasthan|,,sudhir.raniwala@cern.ch,India
+668,Anju,Bhasin,A.,Ms,Prof,,FULL,2007-10-01,,|UJammu|,,|CB|,Anju.Bhasin@cern.ch,India
+670,Sanjay,Mahajan,S.,Mr,Eng,,FULL,2010-03-22,,|UJammu|,,,sanjay.mahajan@cern.ch,India
+671,Baba,Potukuchi,B.V.K.S.,Mr,Dr,,FULL,2007-10-01,2016-10-21,|UJammu|,|UJammu|,,baba.potukuchi@cern.ch,India
+672,Sanjeev Singh,Sambyal,S.S.,Mr,Dr,,FULL,2007-10-01,,|UJammu|,,,sanjeevsambyal@yahoo.com,India
+673,Mukesh Kumar,Sharma,M.K.,Mr,M.Phil,,FULL,2010-03-22,2014-11-20,|UJammu|,|UJammu|,,mukesh.hep03@gmail.com,India
+674,David,Muthers,D.,Mr,Dr,,FULL,2004-02-13,2007-09-26,|TUKaiserslautern|,|TUKaiserslautern|,,,Germany
+675,Reinhard,Tielert,R.,Mr,Prof,,FULL,2004-02-13,2007-06-09,|TUKaiserslautern|,|TUKaiserslautern|,,,Germany
+676,Sitt,Tontisirin,S.,Mr,Dr,,FULL,2004-02-13,2007-09-26,|TUKaiserslautern|,|TUKaiserslautern|,,,Germany
+677,Steffen,Bähr,S.,Mr,Dipl,,FULL,2014-09-11,2021-11-01,|KIT|,|KIT|,,steffen.baehr@kit.edu,Germany
+678,Matthias,Balzer,M.,Mr,Dipl,,FULL,2014-09-11,,|KIT|,,,matthias.balzer@kit.edu,Germany
+679,Jürgen,Becker,J.,Mr,Prof,,FULL,2014-09-11,,|KIT|,,|CB|,juergen.becker@kit.edu,Germany
+680,Thomas,Blank,T.,Mr,Dr,,FULL,2014-09-11,,|KIT|,,,thomas.blank@kit.edu,Germany
+681,Michele,Caselle,M.,Mr,Dr,,FULL,2018-04-25,,|KIT|,|GSI|,,michele.caselle@kit.edu,Germany
+682,Michael,Dreschmann,M.,Mr,Dr,,FULL,2014-09-11,2015-12-14,|KIT|,|KIT|,,Michael.dreschmann@kit.edu,Germany
+683,Shalina Percy Delicia,Figuli,S.P.D.,Ms,M.Tech,,FULL,2015-12-14,2019-03-18,|KIT|,|KIT|,,shalina.ford@kit.edu,Germany
+684,Henrik,Herzenstiel,H.,Mr,,,STAFF,2022-04-15,,|KIT|,,,henrik.herzenstiel@kit.edu,Germany
+685,Peter,Hoffmann,P.,Mr,,,ASSO,2020-12-15,,|KIT|,,,peter.hoffmann@kit.edu,Germany
+686,Benjamin,Leyrer,B.,Mr,,,ASSO,2020-12-15,,|KIT|,,,benjamin.leyrer@kit.edu,Germany
+687,Lukas,Meder,L.,Mr,Dr,,FULL,2014-09-11,2017-06-30,|KIT|,|KIT|,,Lukas.meder@kit.edu,Germany
+688,Joachim,Meyer,J.,Mr,Dr,,FULL,2014-09-11,2015-03-01,|KIT|,|KIT|,,joachim.meyer@kit.edu,Germany
+689,Bernhard,Osswald,B.,Mr,,,ASSO,2020-12-15,,|KIT|,,,bernhard.osswald@kit.edu,Germany
+690,Patrick,Pfistner,P.,Mr,Dr,,FULL,2018-04-26,2021-09-15,|KIT|,|KIT|,,patrick.pfistner@kit.edu,Germany
+691,Oliver,Sander,O.,Mr,Dr,,FULL,2014-09-11,2019-03-18,|KIT|,|KIT|,,oliver.sander@kit.edu,Germany
+693,Frank,Simon,F.,Mr,Prof,,FULL,2023-10-23,,|KIT|,,,frank.simon@kit.edu,Germany
+694,Ekaterina,Trifonova,E.,Ms,,Phd,FULL,2020-03-19,,|KIT|,,,ekaterina.trifonova@kit.edu,Germany
+695,Kai Lukas,Unger,K.L.,Mr,M.Sci,,FULL,2019-03-18,,|KIT|,,,kai.unger@kit.edu,Germany
+696,Marc,Weber,M.,Mr,Prof,,FULL,2014-09-11,2023-02-23,|KIT|,|KIT|,,marc.weber@kit.edu,Germany
+697,Pradeep,Banerjee,P.,Mr,,Phd,FULL,2010-03-15,2014-12-09,|IIT-KGP|,|IIT-KGP|,,pradeep.banerjee@gmail.com,India
+698,Tarun Kanti,Bhattacharyya,T.K.,Mr,Prof,,FULL,2010-03-15,2019-03-26,|IIT-KGP|,|IIT-KGP|,,tkb@ece.iitkgp.ernet.in,India
+700,Sourish,Haldar,S.,Mr,,Phd,FULL,2012-05-25,2014-12-09,|IIT-KGP|,|IIT-KGP|,,sourish.haldar@iitkgp.ac.in,India
+701,Antaryami,Panigrahi,A.,Mr,,Phd,FULL,2012-05-25,2012-09-16,|IIT-KGP|,|IIT-KGP|,,,India
+702,Satunu,Sarangi,S.,Mr,,Phd,FULL,2014-12-09,2019-03-26,|IIT-KGP|,|IIT-KGP|,,santunu.sarangi@ece.iitkgp.ernet.in,India
+703,Ajay Kumar,Singh,A.K.,Mr,Prof,,FULL,2006-09-21,,|IIT-KGP|,,|CB|,singh@phy.iitkgp.ac.in,India
+704,Indranil,Som,I.,Mr,,Phd,FULL,2014-04-13,2019-03-26,|IIT-KGP|,|IIT-KGP|,,indranilsom.iitkgp@gmail.com,India
+705,Ralph,Erdmann,R.,Mr,M.Sci,Phd,FULL,2012-09-16,2012-12-31,|FHKoeln|,|FHKoeln|,,ralph.erdmann@gmx.de,Germany
+706,Georg,Hartung,G.,Mr,Prof,,FULL,2012-09-16,2014-12-11,|FHKoeln|,|FHKoeln|,,Georg.hartung@fh-koeln.de,Germany
+707,Rama Prasad,Adak,R.P.,Mr,Dr,,FULL,2013-04-03,2019-03-07,|Bose|,|Bose|,,rpadak@jcbose.ac.in,India
+708,Saikat,Biswas,S.,Mr,A.Prof,,FULL,2011-01-17,,|Bose|,|VECC|GSI|,,s.biswas@gsi.de,India
+709,Sayak,Chatterjee,S.,Mr,Dr,,ASSO,2019-02-13,2023-09-15,|Bose|,|Bose|,,sayakchatterjee896@gmail.com,India
+710,Rudrapriya,Das,R.,Ms,M.Sci,Phd,FULL,2022-03-25,,|Bose|,,,rudrapriya@jcbose.ac.in,India
+711,Supriya,Das,S.,Mr,A.Prof,,FULL,2006-01-04,,|Bose|,|GSI|,|CB|MB|PB|,supriya@jcbose.ac.in,India
+712,Sanjay K.,Ghosh,S.K.,Mr,Prof,,FULL,2012-04-03,,|Bose|,,,sanjay@jcbose.ac.in,India
+713,Somen,Gope,S.,Mr,Dr,,FULL,2017-10-15,,|Bose|,|UGauhati|,,somengope30@jcbose.ac.in,India
+714,Subir,Mandal,S.,Mr,M.Sci,Phd,FULL,2023-04-25,,|Bose|,,,subir50@jcbose.ac.in,India
+715,Sanjoy,Mukherjee,S.,Mr,Eng,,FULL,2016-05-30,2021-09-13,|Bose|,|Bose|,,sanjoym@jcbose.ac.in,India
+717,Sibaji,Raha,S.,Mr,Prof,,FULL,2012-04-03,,|Bose|,,,sibajiraha@jcbose.ac.in,India
+718,Rajarshi,Ray,R.,Mr,Prof,,FULL,2012-04-03,,|Bose|,,,rajarshi@jcbose.ac.in,India
+719,Arindam,Sen,A.,Mr,Dr,,FULL,2019-02-20,2024-01-16,|Bose|,|Bose|,,arindam@jcbose.ac.in,India
+720,Anjali,Sharma,A.,Ms,Dr,,FULL,2023-09-13,,|Bose|,,,asharma@jcbose.ac.in,India
+721,Sukalyan,Chattopadhyay,S.,Mr,Prof,,FULL,2006-09-21,2012-03-29,|Saha|,|Saha|,,sukalyan.chattopadhyay@saha.ac.in,India
+722,Dipankar,Das,D.,Mr,,,FULL,2006-09-21,2012-03-29,|Saha|,|Saha|,,,India
+723,Indranil,Das,I.,Mr,,,FULL,2006-09-21,2012-03-29,|Saha|,|Saha|,,,India
+724,Abhee K.,Dutt-Mazumdar,A.K.,Mr,Dr,,FULL,2006-09-21,2012-03-29,|Saha|,|Saha|,,,India
+725,Lipy,Pal,L.,Ms,,,FULL,2006-09-21,2012-03-29,|Saha|,|Saha|,,,India
+726,Sanjoy,Pal,S.,Mr,,,FULL,2006-09-21,2012-03-29,|Saha|,|Saha|,,,India
+727,Pradip,Roy,P.,Mr,Prof,,FULL,2006-09-21,2012-03-29,|Saha|,|Saha|,,,India
+728,Tinku,Sinha,T.,Ms,Dr,,FULL,2006-09-21,2012-03-29,|Saha|,|Saha|,,,India
+729,Sudipta,Bandyopadhyay,S.,Mr,Dr,,FULL,2007-10-01,2016-10-24,|UCalcutta|,|UCalcutta|,,sbaphy@caluniv.ac.in,India
+730,Abhijit,Bhattacharyya,A.,Mr,Prof,,FULL,2007-10-01,,|UCalcutta|,,|CB|,abphy@caluniv.ac.in,India
+731,Amlan,Chakrabarti,A.,Mr,Prof,,FULL,2007-10-01,,|UCalcutta|,,,achakra12@yahoo.com,India
+732,Sanatan,Chattopadhyay,S.,Mr,Dr,,FULL,2007-10-01,2016-10-24,|UCalcutta|,|UCalcutta|,,scelc@caluniv.ac.in,India
+733,Rajesh,Ganai,R.,Mr,Dr,,FULL,2020-02-13,2023-11-11,|UCalcutta|,|UCalcutta|,,,India
+734,Gautam,Gangopadhyay,G.,Mr,Prof,,FULL,2007-09-26,,|UCalcutta|,,,ggphy@caluniv.ac.in,India
+735,Suman,Sau,S.,Mr,Dr,,FULL,2014-07-11,2019-03-06,|UCalcutta|,|UCalcutta|,,sumansau@yahoo.co.in,India
+736,Gitesh,Sikder,G.,Mr,Eng,,ASSO,2019-01-28,2021-09-13,|UCalcutta|,|UCalcutta|,,gitesh.sikder@gmail.com,India
+737,Apar,Agarwal,A.,Mr,,Phd,FULL,2019-08-28,,|VECC|,,,a.agarwal@vecc.gov.in,India
+738,Zubayer,Ahammed,Z.,Mr,Dr,,FULL,2006-01-21,,|VECC|,,,za@vecc.gov.in,India
+739,Md. Adil,Aman,M.A.,Mr,M.Sci,,ASSO,2022-11-23,2023-11-10,|VECC|,|VECC|,,mdadil@students.iisertirupati.ac.in,India
+740,Sanjay,Bajirao,S.,Mr,Eng,,ASSO,2019-10-16,,|VECC|,,,sanjay_9@vecc.gov.in,India
+741,Arup,Bandyopadhyay,A.,Mr,Dr,,FULL,2024-02-20,,|VECC|,,|PL|,arup@vecc.gov.in,India
+742,Partha Pratim,Bhaduri,P.P.,Mr,Dr,,FULL,2007-02-07,,|VECC|,|GSI|,|PB|,partha.bhaduri@vecc.gov.in,India
+743,Souvik,Chattopadhyay,S.,Mr,M.Sci,Phd,FULL,2022-07-13,,|VECC|,,,souvik.c@vecc.gov.in,India
+744,Anirban,De,A.,Mr,Dr,,ASSO,2019-10-16,2021-09-13,|VECC|,|VECC|,,ade@vecc.gov.in,India
+745,Madhusudan,Dey,M.,Mr,,,FULL,2009-03-16,2015-12-02,|VECC|,|VECC|,,msdey@vecc.gov.in,India
+747,Mihir Ranjan,DuttaMajumdar,M.R.,Mr,,,FULL,2006-01-21,2012-02-10,|VECC|,|VECC|,,mrdm@veccal.ernet.in,India
+748,Murthy S.,Ganti,M.S.,Mr,,,FULL,2006-01-21,2013-05-22,|VECC|,|VECC|,,Murthy.Ganti@cern.ch,India
+749,Chandrasekhar,Ghosh,C.,Mr,M.Sci,Phd,FULL,2017-02-09,,|VECC|,,,c.ghosh@vecc.gov.in,India
+750,Premomoy,Ghosh,P.,Mr,,,FULL,2006-01-21,2012-02-10,|VECC|,|VECC|,,,India
+751,Tamal,Ghosh,T.,Mr,M.Tech,,ASSO,2017-02-09,,|VECC|,,,tamal@vecc.gov.in,India
+752,Vikas,Jain,V.,Mr,,,FULL,2014-03-28,2017-02-09,|VECC|,|VECC|,,vikasjain@vecc.gov.in,India
+753,Shuaib Ahmad,Khan,S.A.,Mr,,,ASSO,2010-07-28,,|VECC|,,,shuaibkhan123@gmail.com,India
+754,Bidhan,Mandal,B.,Mr,Eng,,ASSO,2019-10-16,2021-09-13,|VECC|,|VECC|,,bidhan@vecc.gov.in,India
+755,Swagata,Mandal,S.,Mr,Dr,,FULL,2014-02-07,2017-12-21,|VECC|,|VECC|,,swagata.mandal@vecc.gov.in,India
+756,Mitali,Mondal,M.,Ms,Dr,,FULL,2017-02-09,2023-11-10,|VECC|,|VECC|,,mitalimondal.phy@gmail.com,India
+757,Chinmoy,Nandi,C.,Mr,,,ASSO,2015-04-13,,|VECC|,,,nandic@vecc.gov.in,India
+758,Ekata,Nandy,E.,Ms,Dr,,FULL,2014-09-18,,|VECC|,,,ekata@vecc.gov.in,India
+759,Tapan,Nayak,T.,Mr,Dr,,FULL,2006-01-21,2018-10-10,|VECC|,|VECC|,,,India
+760,Vinod Singh,Negi,V.S.,Mr,,,ASSO,2016-02-02,,|VECC|,,,vnegi@vecc.gov.in,India
+761,Susanta,Pal,S.,Mr,Dr,,FULL,2006-01-21,2017-12-21,|VECC|,|VECC|,,sushant@vecc.gov.in,India
+762,Amitava,Roy,A.,Mr,,,FULL,2007-02-07,2015-12-02,|VECC|,|VECC|,,amitav@vecc.gov.in,India
+763,Jogender,Saini,J.,Mr,M.Tech,Phd,FULL,2006-01-21,,|VECC|,,,jsaini@vecc.gov.in,India
+764,Pawan Kumar,Sharma,P.K.,Mr,M.Sci,Phd,FULL,2023-03-04,,|VECC|,,,pk.sharma@vecc.gov.in,India
+765,Rama Narayana,Singaraju,R.N.,Mr,,,FULL,2006-01-21,2015-12-02,|VECC|,|VECC|,,rnarayan@vecc.gov.in,India
+766,Vikas,Singhal,V.,Mr,Dr,,FULL,2006-01-21,,|VECC|,,,vikas@vecc.gov.in,India
+767,Sajjan Kumar,Thakur,S.K.,Mr,Dr,,ASSO,2019-10-16,2021-09-13,|VECC|,|VECC|,,thakur@vecc.gov.in,India
+768,Pritwish,Trivedy,P.,Mr,,Phd,FULL,2008-02-20,2013-08-02,|VECC|,|VECC|,,ptribedy@vecc.gov.in,India
+769,Yogendra Pathak,Viyogi,Y.P.,Mr,Prof,,FULL,2006-01-21,2015-12-02,|VECC|,|VECC|,,viyogi@gmail.com,India
+770,Mateusz,Baszczyk,M.,Mr,Dr,,FULL,2012-10-15,2021-09-13,|AGH|,|AGH|,,baszczyk@agh.edu.pl,Poland
+771,Piotr,Dorosz,P.,Mr,Dr,,FULL,2016-10-04,2021-09-13,|AGH|,|AGH|,,pdorosz@agh.edu.pl,Poland
+772,Janusz,Gajda,J.,Mr,Prof,,FULL,2007-10-01,2017-12-01,|AGH|,|AGH|,,jgajda@agh.edu.pl,Poland
+773,Paweł,Gryboś,P.,Mr,Prof,,FULL,2007-10-01,2018-10-03,|AGH|,|AGH|,,pgrybos@agh.edu.pl,Poland
+775,Rafał,Kłeczek,R.,Mr,Dr,,FULL,2012-01-05,,|AGH|,,,rafeczek@agh.edu.pl,Poland
+777,Aleksandra,Krzyżanowska,A.,Ms,M.Sci,Phd,FULL,2013-01-09,2018-10-03,|AGH|,|AGH|,,drozd@agh.edu.pl,Poland
+778,Wojciech,Kucewicz,W.,Mr,Prof,,FULL,2012-10-11,2023-11-14,|AGH|,|AGH|,,kucewicz@agh.edu.pl,Poland
+779,Piotr,Maj,P.,Mr,Dr.habil,,FULL,2007-10-01,2018-10-03,|AGH|,|AGH|,,piotr.maj@agh.edu.pl,Poland
+780,Łukasz,Mik,L.,Mr,Dr,,FULL,2015-12-04,2019-02-27,|AGH|,|AGH|,,l_mik@pwsztar.edu.pl,Poland
+781,Piotr,Otfinowski,P.,Mr,Dr,,FULL,2012-01-05,,|AGH|,,,potfin@agh.edu.pl,Poland
+782,Jacek,Rauza,J.,Mr,Dr,,FULL,2013-01-09,2016-09-26,|AGH|,|AGH|,,rauza@agh.edu.pl,Poland
+783,Tadeusz,Satława,T.,Mr,M.Sci,Phd,FULL,2014-11-25,2015-12-04,|AGH|,|AGH|,,tadeusz.satlawa@agh.edu.pl,Poland
+784,Patryk,Semeniuk,P.,Mr,,Phd,FULL,2024-07-31,,|AGH|,|GSI|UJagiellonian|,,p.semeniuk@gsi.de,Poland
+785,Robert,Szczygieł,R.,Mr,Dr.habil,,FULL,2007-05-04,,|AGH|,,|CB|,robert.szczygiel@agh.edu.pl,Poland
+786,Mirosław,Żoładź,M.,Mr,Dr,,FULL,2009-02-25,2018-10-03,|AGH|,|AGH|,,zoladz@agh.edu.pl,Poland
+787,Weronika,Zubrzycka,W.,Ms,Dr,,FULL,2016-12-06,,|AGH|,,,zubrzycka@agh.edu.pl,Poland
+788,Marek,Adamczyk,M.,Mr,Eng,,FULL,2013-01-08,2017-12-08,|UJagiellonian|,|UJagiellonian|,,marek.adamczyk@uj.edu.pl,Poland
+789,Tadeusz,Barczyk,T.,Mr,M.Sci,,FULL,2012-11-19,2016-03-22,|UJagiellonian|,|UJagiellonian|,,tadeusz.barczyk@uj.edu.pl,Poland
+791,Ludomir,Dutka,L.,Mr,Eng,,FULL,2013-01-08,2017-04-26,|UJagiellonian|,|UJagiellonian|,,ludomir.dutka@uj.edu.pl,Poland
+792,Damian,Gil,D.,Mr,Dr,,FULL,2021-09-27,,|UJagiellonian|,,,damian.gil@uj.edu.pl,Poland
+793,Jinesh,Kallunkathariyil,J.,Mr,Dr,,FULL,2016-03-23,2017-04-26,|UJagiellonian|,|UJagiellonian|,,jinesh.kallunkathariyil@uj.edu.pl,Poland
+794,Rafał,Lalik,R.,Mr,A.Prof,,FULL,2024-02-22,,|UJagiellonian|,,,rafal.lalik@uj.edu.pl,Poland
+795,Paweł,Lasko,P.,Mr,,,FULL,2022-02-16,,|UJagiellonian|,,,pawel.lasko@uj.edu.pl,Poland
+796,Konrad,Łojek,K.,Mr,Eng,,FULL,2017-04-26,2022-02-01,|UJagiellonian|,|UJagiellonian|,,konrad.lojek@uj.edu.pl,Poland
+797,Zbigniew,Majka,Z.,Mr,Prof,,FULL,2002-11-15,2024-05-21,|UJagiellonian|,|UJagiellonian|,,zbigniew.majka@uj.edu.pl,Poland
+798,Rafał,Najman,R.,Mr,M.Sci,,FULL,2012-11-19,2016-03-22,|UJagiellonian|,|UJagiellonian|,,rafal.najman@uj.edu.pl,Poland
+799,Roman,Płaneta,R.,Mr,Prof,,FULL,2012-11-19,,|UJagiellonian|,,,roman.planeta@uj.edu.pl,Poland
+800,Piotr,Salabura,P.,Mr,Prof,,FULL,2024-09-02,,|UJagiellonian|,,|SP-dep|,piotr.salabura@uj.edu.pl,Poland
+801,Bartosz,Soból,B.,Mr,,Phd,FULL,2024-05-10,,|UJagiellonian|,,,bartosz.sobol@doctoral.uj.edu.pl,Poland
+802,Zbigniew,Sosin,Z.,Mr,Dr.habil,,FULL,2013-01-08,2016-03-22,|UJagiellonian|,|UJagiellonian|,,ufsosin@cyf-kr.edu.pl,Poland
+803,Paweł,Staszel,P.,Mr,Dr.habil,,FULL,2003-08-25,,|UJagiellonian|,,|CB|,ufstasze@if.uj.edu.pl,Poland
+804,Paweł,Szostak,P.,Mr,,,FULL,2004-02-13,2005-12-29,|UJagiellonian|,|UJagiellonian|,,szostak@zefir.if.uj.edu.pl,Poland
+805,Lechosław,Trębacz,L.,Mr,,,FULL,2023-10-24,,|UJagiellonian|,,,l.trebacz@gsi.de,Poland
+806,Andrzej,Wieloch,A.,Mr,Dr.habil,,FULL,2013-01-08,,|UJagiellonian|,,,andrzej.wieloch@uj.edu.pl,Poland
+807,Marina,Borysova,M.,Ms,Dr,,FULL,2008-11-04,2014-11-25,|KINR|,|KINR|,,borysova@kinr.kiev.ua,Ukraine
+808,Andrii,Chaus,A.,Mr,Dr,,FULL,2014-11-25,2019-03-31,|KINR|,|KINR|,,achaus@kinr.kiev.ua,Ukraine
+809,Serhii,Chernyshenko,S.,Mr,M.Sci,Phd,FULL,2022-08-10,,|KINR|,,,chsb2010@gmail.com,Ukraine
+810,Vasyl,Dobishuk,V.,Mr,M.Sci,Phd,FULL,2021-09-06,,|KINR|,,,vasyl.dobishuk@gmail.com,Ukraine
+811,Olexandr,Kot,O.,Mr,M.Sci,Phd,FULL,2017-12-06,2019-10-31,|KINR|,|KINR|,,olekot@kinr.kiev.ua,Ukraine
+812,Oleksii,Kovalchuk,O.,Mr,Eng,,FULL,2008-11-04,,|KINR|,,,lexxkov@kinr.kiev.ua,Ukraine
+813,Oleksandr,Kshyvanskyi,O.,Mr,M.Sci,Phd,FULL,2021-09-06,,|KINR|,,,kshyvanskyi.oleksandr@gmail.com,Ukraine
+814,Volodymyr,Kyva,V.,Mr,Eng,,FULL,2012-02-10,,|KINR|,,,vkyva@kinr.kiev.ua,Ukraine
+815,Victor,Militsija,V.,Mr,,,FULL,2007-10-24,2023-11-12,|KINR|,|KINR|,,militsiya@kinr.kiev.ua,Ukraine
+816,Ievgeniia,Momot,I.,Ms,Dr,,FULL,2014-10-27,2020-09-10,|KINR|,|KINR|GSI|IKF-UFra|,,momot@kinr.kiev.ua,Ukraine
+817,Mykhailo,Pugach,M.,Mr,M.Sci,Phd,FULL,2014-03-21,,|KINR|,|FIAS|,,m.pugach@gsi.de,Ukraine
+818,Valery,Pugatch,V.,Mr,Prof,,FULL,2007-05-07,,|KINR|,,|CB|RB|,Valery.Pugatch@cern.ch,Ukraine
+820,Dmytro,Storozhyk,D.,Mr,Eng,,FULL,2008-11-04,2023-11-12,|KINR|,|KINR|,,dstorozhyk@kinr.kiev.ua,Ukraine
+821,Oleg,Bezshyyko,O.,Mr,A.Prof,,FULL,2004-08-31,,|TSNU-Kyiv|,,,obezsh@gmail.com,Ukraine
+822,Larisa,Golinka-Bezshyyko,L.,Ms,Dr,,FULL,2014-04-03,,|TSNU-Kyiv|,,,lyalkagb@gmail.com,Ukraine
+823,Igor,Kadenko,I.,Mr,Prof,,FULL,2004-02-23,,|TSNU-Kyiv|,,|CB|,imkadenko@knu.ua,Ukraine
+824,Olha,Lavoryk,O.,Ms,M.Sci,,FULL,2021-08-13,2023-11-23,|TSNU-Kyiv|,|TSNU-Kyiv|,,,Ukraine
+825,Yury,Onishchuk,Yu.,Mr,A.Prof,,FULL,2006-01-30,2019-02-27,|TSNU-Kyiv|,|TSNU-Kyiv|,,yuno@univ.kiev.ua,Ukraine
+826,Vladimir,Plujko,V.,Mr,Prof,,FULL,2004-08-31,,|TSNU-Kyiv|,,,plujko@univ.kiev.ua,Ukraine
+827,Valeriy,Shevchenko,V.,Mr,Prof,,FULL,2004-08-31,2012-01-05,|TSNU-Kyiv|,|TSNU-Kyiv|,,shevfis@univ.kiev.ua,Ukraine
+828,Andrii,Volochniuk,A.,Mr,M.Sci,Phd,FULL,2014-12-07,2019-02-27,|TSNU-Kyiv|,|TSNU-Kyiv|,,volochnyuk.av@gmail.com,Ukraine
+829,Xionghong,He,,Mr,Dr,,FULL,2018-05-07,,|IMP|,|PI-UHd|,,hexh@impcas.ac.cn,China
+830,Qiang,Hu,,Mr,Dr,,FULL,2019-10-01,2023-11-13,|IMP|,|IMP|,,qianghu@impcas.ac.cn,China
+831,Hao,Qiu,,Mr,Prof,,FULL,2019-10-01,,|IMP|,,,qiuh@impcas.ac.cn,China
+832,Xun,Sun,,Mr,Dr,,FULL,2023-11-13,,|IMP|,,,xusun@impcas.ac.cn,China
+833,Nu,Xu,,Mr,Prof,,FULL,2012-02-14,,|IMP|,|CCNU|NISER|GSI|,|PB|RB|,nxu@lbl.gov,China
+834,Ya-Peng,Zhang,,Mr,Dr,,FULL,2009-03-05,,|IMP|,|PI-UHd|,|CB|MB|,y.p.zhang@impcas.ac.cn,China
+835,Yan,Huang,,Ms,Dr,,FULL,2022-05-23,2024-10-04,|UMainz|,|UMainz|,,,Germany
+836,Matthias,Schott,M.,Mr,Prof,,FULL,2021-09-29,2024-05-01,|UMainz|,|UMainz|,,schottm@uni-mainz.de,Germany
+837,Bernd,Kohlmeyer,B.,Mr,Prof,,FULL,2004-02-13,2005-12-17,|UMarburg|,|UMarburg|,,,Germany
+838,Carsten,Schindler,C.,Mr,,,FULL,2004-02-13,2005-12-17,|UMarburg|,|UMarburg|,,,Germany
+839,Olga,Andreeva,O.,Mr,,Phd,FULL,2013-08-05,2017-02-15,|INR|,|INR|,,busygina@inr.ru,Russia
+840,Dmitry,Finogeev,D.,Mr,M.Sci,,FULL,2013-08-05,2023-04-04,|INR|,|INR|,,dmitry-finogeev@yandex.ru,Russia
+841,Marina,Golubeva,M.,Ms,,,FULL,2004-02-23,2023-04-04,|INR|,|INR|,,marina@inr.ru,Russia
+842,Fedor,Guber,F.,Mr,Dr,,FULL,2004-02-23,2023-04-04,|INR|,|INR|,,guber@inr.ru,Russia
+843,Alexander,Ivashkin,A.,Mr,Dr,,FULL,2004-02-23,2023-04-04,|INR|,|INR|,,ivashkin@inr.ru,Russia
+844,Alexander,Izvestnyy,A.,Mr,M.Sci,,FULL,2019-03-08,2023-04-04,|INR|,|INR|,,aizvestn@inr.ru,Russia
+845,Oleg,Karavichev,O.,Mr,,,FULL,2004-02-23,2015-12-05,|INR|,|INR|,,karavich@inr.ru,Russia
+846,Tatiana,Karavicheva,T.,Mr,Dr,,FULL,2004-02-23,2015-12-05,|INR|,|INR|,,tatiana@inr.ru,Russia
+847,Evgeny,Karpechev,E.,Mr,,,FULL,2004-02-23,2015-12-05,|INR|,|INR|,,karpeche@inr.ru,Russia
+849,Alexey,Kurepin,A.,Mr,Prof,,FULL,2004-02-23,2019-03-07,|INR|,|INR|,,kurepin@inr.ru,Russia
+850,Nikolay,Kurepin,N.,Mr,,,FULL,2015-12-05,2019-03-07,|INR|,|INR|,,nkurepin@cern.ch,Russia
+851,Alla,Maevskaya,A.,Ms,,,FULL,2004-02-23,2019-11-01,|INR|,|INR|,,alla@inr.ru,Russia
+852,Alexander,Makhnev,A.,Mr,M.Sci,Phd,FULL,2021-02-12,2023-04-04,|INR|,|INR|,,makhnev.a@phystech.edu,Russia
+854,Sergey,Morozov,S.,Mr,,,FULL,2014-12-08,2023-04-04,|INR|,|INR|,,morozovs@inr.ru,Russia
+855,Oleg,Petukhov,O.,Mr,,,FULL,2012-02-06,2023-04-04,|INR|,|INR|,,opetukhov@inr.ru,Russia
+856,Igor,Pshenichnov,I.,Mr,Dr,,FULL,2004-02-23,2015-12-05,|INR|,|INR|,,pshenich@inr.ru,Russia
+857,Andrey,Reshetin,A.,Mr,Dr,,FULL,2004-02-23,2021-09-24,|INR|,|INR|,,reshetin@inr.ru,Russia
+858,Alexander,Sadovsky,A.,Mr,Dr,,FULL,2007-02-08,2015-12-05,|INR|,|INR|,,sadovsky@inr.ru,Russia
+859,Arseniy,Shabanov,A.,Mr,M.Sci,,FULL,2014-12-08,2023-04-04,|INR|,|INR|,,arseniy.shabanov@phystech.edu,Russia
+860,Vladimir,Tiflov,V.,Mr,,,FULL,2004-02-23,2013-08-05,|INR|,|INR|,,vtiflov@inr.ru,Russia
+862,Evgueni,Usenko,E.,Mr,,,FULL,2010-03-24,2019-11-01,|INR|,|INR|,,Eugueni.Oussenko@cern.ch,Russia
+863,Alexander,Akindinov,A.,Mr,Dr,,FULL,2004-02-13,2023-04-04,|ITEP|,|ITEP|,,Alexander.Akindinov@cern.ch,Russia
+864,Igor,Alekseev,I.,Mr,Dr,,FULL,2015-12-14,2023-04-04,|ITEP|,|ITEP|,,Igor.Alekseev@itep.ru,Russia
+865,Alexandre,Arefiev,A.,Mr,Dr,,FULL,2004-02-13,2012-05-29,|ITEP|,|ITEP|,,arefiev@itep.ru,Russia
+866,Andrey,Chernogorov,A.,Mr,M.Sci,,FULL,2009-03-03,2016-10-11,|ITEP|,|ITEP|,,a.chernogorov@rambler.ru,Russia
+867,Elizaveta,Dorenskaya,E.,Ms,M.Sci,,FULL,2019-03-14,2023-04-04,|ITEP|,|ITEP|,,Dorenskaya@itep.ru,Russia
+868,Dmitry,Golubkov,D.,Mr,Dr,,FULL,2009-03-03,2023-04-04,|ITEP|,|ITEP|,,dmitry.yu.golubkov@cern.ch,Russia
+869,Andrey,Golutvin,A.,Mr,Prof,,FULL,2002-11-15,2012-05-29,|ITEP|,|ITEP|,,Andrey.Goloutvin@cern.ch,Russia
+870,Farid,Khasanov,F.,Mr,Dr,,FULL,2008-06-26,2023-04-04,|ITEP|,|ITEP|,,khasanov@itep.ru,Russia
+871,Sergey,Kiselev,S.,Mr,Dr,,FULL,2004-02-13,2023-04-04,|ITEP|,|ITEP|,,Sergey.Kiselev@cern.ch,Russia
+872,Anastasia,Kolosova,A.,Ms,M.Sci,,FULL,2013-10-09,2015-12-14,|ITEP|,|ITEP|,,Anastasia.Kolosova@fair-center.eu,Russia
+873,Ivan,Korolko,I.,Mr,M.Sci,,FULL,2004-02-13,2023-04-04,|ITEP|,|ITEP|,,Ivan.Korolko@cern.ch,Russia
+874,Nikolay,Lyublev,N.,Mr,M.Sci,,FULL,2019-03-14,2023-04-04,|ITEP|,|ITEP|,,mikolaich@mail.ru,Russia
+875,Dmitry,Malkevich,D.,Mr,M.Sci,,FULL,2013-10-09,2023-04-04,|ITEP|,|ITEP|,,dmalkevi@mail.cern.ch,Russia
+876,Konstantin,Mikhailov,K.,Mr,Dr,,FULL,2004-02-13,2023-04-04,|ITEP|,|ITEP|,,kmikhail@itep.ru,Russia
+877,Alexander,Nedosekin,A.,Mr,Dr,,FULL,2013-10-09,2016-01-11,|ITEP|,|ITEP|,,alexandre.nedossekine@cern.ch,Russia
+878,Vasiliy,Plotnikov,V.,Mr,M.Sci,,FULL,2013-10-09,2023-04-04,|ITEP|,|ITEP|,,vassili.plotnikov@gmail.com,Russia
+879,Pavel,Polozov,P.,Mr,Dr,,FULL,2004-02-13,2013-10-09,|ITEP|,|ITEP|,,Pavel.Polozov@cern.ch,Russia
+880,Mikhail,Prokudin,M.,Mr,Dr,,FULL,2004-02-13,2023-04-04,|ITEP|,|ITEP|,,Mikhail.Prokudin@cern.ch,Russia
+881,Alexander,Semennikov,A.,Mr,M.Sci,Phd,FULL,2009-03-03,2023-04-04,|ITEP|,|ITEP|,,alexsemennikov@mail.ru,Russia
+882,Georgy,Sharkov,G.,Mr,,,FULL,2006-01-16,2012-05-29,|ITEP|,|ITEP|,,gcharkov@cern.ch,Russia
+883,Sergey,Shirinkin,S.,Mr,M.Sci,,FULL,2019-03-14,2023-04-04,|ITEP|,|ITEP|,,sergey.shirinkin@cern.ch,Russia
+884,Alexey,Stavinskiy,A.,Mr,Dr,,FULL,2004-02-13,2013-10-09,|ITEP|,|ITEP|,,stavinsk@itep.ru,Russia
+885,Rishat,Sultanov,R.,Mr,Dr,,FULL,2013-10-09,2023-04-04,|ITEP|,|ITEP|,,rishat.sultanov@cern.ch,Russia
+886,Dmitry,Svirida,D.,Mr,,,FULL,2015-12-14,2023-04-04,|ITEP|,|ITEP|,,Dmitry.Svirida@itep.ru,Russia
+887,Yuri,Zaitsev,Yu.,Mr,Prof,,FULL,2007-09-25,2023-04-04,|ITEP|,|ITEP|,,zaitsev@itep.ru,Russia
+888,Irina,Zivko,I.,Ms,Dr,,FULL,2008-04-30,2023-04-04,|ITEP|,|ITEP|,,irisha@mail.desy.de,Russia
+889,Aleksandra,Andomina,A.,Ms,,Ma,FULL,2021-11-01,2023-04-04,|MEPhI|,|MEPhI|,,,Russia
+890,Eduard,Atkin,E.,Mr,A.Prof,,FULL,2004-01-13,2023-04-04,|MEPhI|,|MEPhI|,,evatkin@mephi.ru,Russia
+891,Yuri,Bocharov,Yu.,Mr,Dr,,FULL,2005-03-11,2017-01-30,|MEPhI|,|MEPhI|,,yibocharov@mephi.ru,Russia
+893,Vladimir,Butuzov,V.,Mr,Dr,,FULL,2014-11-21,2017-01-30,|MEPhI|,|MEPhI|,,VAButuzov@mephi.ru,Russia
+894,Aleksandr,Demanov,A.,Mr,,Ma,FULL,2020-02-27,2023-04-04,|MEPhI|,|MEPhI|,,demanov1997@gmail.com,Russia
+895,Oleg,Golosov,O.,Mr,,Phd,FULL,2018-08-17,2023-04-04,|MEPhI|,|MEPhI|,,oleg.golosov@gmail.com,Russia
+896,Pavel,Ivanov,P.,Mr,Dr,,FULL,2014-11-21,2021-02-01,|MEPhI|,|MEPhI|,,PYIvanov@mephi.ru,Russia
+897,Nikolay,Kargin,N.,Mr,Prof,,FULL,2017-01-30,2023-04-04,|MEPhI|,|MEPhI|,,nikargin@mephi.ru,Russia
+898,Evgeny,Kashirin,E.,Mr,,Phd,FULL,2018-03-16,2023-04-04,|MEPhI|,|MEPhI|,,,Russia
+899,Aleksandr,Kluev,A.,Mr,Dr,,FULL,2008-02-05,2012-01-31,|MEPhI|,|MEPhI|,,,Russia
+900,Eugeny,Malankin,E.,Mr,Dr,,FULL,2014-03-16,2019-03-14,|MEPhI|,|MEPhI|,,ezmalankin@mephi.ru,Russia
+901,Olga,Malyatina,O.,Ms,Dr,,FULL,2009-03-05,2021-02-01,|MEPhI|,|MEPhI|,,ovmalyatina@mephi.ru,Russia
+902,Dmitry,Normanov,D.,Mr,Dr,,FULL,2014-03-16,2021-02-01,|MEPhI|,|MEPhI|,,ddnormanov@mephi.ru,Russia
+903,Dmitry,Osipov,D.,Mr,Dr,,FULL,2014-03-16,2014-11-21,|MEPhI|,|MEPhI|,,dlosipov@mephi.ru,Russia
+904,Petr,Parfenov,P.,Mr,,Phd,FULL,2020-02-27,2023-04-04,|MEPhI|,|MEPhI|,,terrylapard@gmail.com,Russia
+905,Anatoly,Petrovskiy,A.,Mr,Dr,,FULL,2008-02-18,2017-01-30,|MEPhI|,|MEPhI|,,anpetrovskij@mephi.ru,Russia
+906,Ilyas,Sagdiyev,I.,Mr,,Phd,FULL,2017-01-30,2017-12-01,|MEPhI|,|MEPhI|,,igsagdiyev@mephi.ru,Russia
+907,Ilya,Segal,I.,Mr,,Ma,FULL,2019-09-11,2023-04-04,|MEPhI|,|MEPhI|,,ilya.segal.97@gmail.com,Russia
+908,Artur,Serazetdinov,A.R.,Mr,,Phd,FULL,2021-02-08,2023-04-04,|MEPhI|,|MEPhI|,,arserazetdinov@mephi.ru,Russia
+909,Vitaly,Shumikhin,V.,Mr,Dr,,FULL,2010-04-06,2021-02-01,|MEPhI|,|MEPhI|,,vvshumikhin@mephi.ru,Russia
+910,Oleg,Shumkin,O.,Mr,,Phd,FULL,2017-01-30,2017-12-01,|MEPhI|,|MEPhI|,,ovshumkin@mephi.ru,Russia
+911,Andrew,Simakov,A.,Mr,Dr,,FULL,2005-03-11,2017-01-30,|MEPhI|,|MEPhI|,,simakov@mephi.ru,Russia
+912,Michael,Strikhanov,M.,Mr,Prof,,FULL,2008-02-18,2021-02-01,|MEPhI|,|MEPhI|,,mnstrikhanov@mephi.ru,Russia
+913,Arkadiy,Taranenko,A.,Mr,A.Prof,,FULL,2017-01-30,2023-04-04,|MEPhI|,|MEPhI|,,AVTaranenko@mephi.ru,Russia
+914,Valeriy,Troshin,V.,Mr,,Ma,FULL,2021-11-01,2023-04-04,|MEPhI|,|MEPhI|,,,Russia
+915,Sergey,Vinogradov,S.,Mr,,Phd,FULL,2017-01-30,2017-12-01,|MEPhI|,|MEPhI|,,smvinogradov@mephi.ru,Russia
+916,Yuri,Volkov,Yu.,Mr,Prof,,FULL,2005-03-11,2014-03-16,|MEPhI|,|MEPhI|,,yu.volkov@eldep.mephi.ru,Russia
+917,Dmitry,Blau,D.,Mr,Dr,,FULL,2010-03-24,2023-04-04,|NRC-KI|,|NRC-KI|MEPhI|,,blaud@mail.ru,Russia
+918,Andrey,Kazantsev,A.,Mr,,,FULL,2004-02-23,2023-04-04,|NRC-KI|,|NRC-KI|,,stkav@mail.ru,Russia
+920,Iouri,Sibiryak,I.,Mr,Dr,,FULL,2015-12-13,2023-04-04,|NRC-KI|,|NRC-KI|,,Iouri.Sibiriak@cern.ch,Russia
+921,Igor,Yushmanov,I.,Mr,,,FULL,2004-02-23,2023-04-04,|NRC-KI|,|NRC-KI|,,,Russia
+922,Natalia,Baranova,N.,Ms,,,FULL,2004-02-23,2023-04-04,|SINP-MSU|,|SINP-MSU|,,baranova@silab.sinp.msu.ru,Russia
+923,Dmitry,Karmanov,D.,Mr,Dr,,FULL,2004-02-23,2023-04-04,|SINP-MSU|,|SINP-MSU|,,karmanov@silab.sinp.msu.ru,Russia
+924,Mikhail,Korolev,M.,Mr,,Phd,FULL,2004-02-23,2023-04-04,|SINP-MSU|,|SINP-MSU|,,korolev@silab.sinp.msu.ru,Russia
+925,Ilia,Kudryashov,I.,Mr,M.Sci,Phd,FULL,2009-03-25,2023-04-04,|SINP-MSU|,|SINP-MSU|ITEP|,,kudryash@dec1.sinp.msu.ru,Russia
+926,Mikhail,Merkin,M.,Mr,Dr.habil,,FULL,2004-02-23,2023-04-04,|SINP-MSU|,|SINP-MSU|,,merkinm@silab.sinp.msu.ru,Russia
+927,Vsevolod,Popov,V.,Mr,,,FULL,2005-03-11,2014-11-22,|SINP-MSU|,|SINP-MSU|MEPhI|,,popov@vertex.sinp.msu.ru,Russia
+928,Vladimir,Volkov,V.,Mr,,,ASSO,2012-10-11,2019-11-05,|SINP-MSU|,|SINP-MSU|,,volkov@mail.desy.de,Russia
+929,Alexander,Voronin,A.,Mr,Dr,,FULL,2004-02-23,2023-04-04,|SINP-MSU|,|SINP-MSU|,,voronin@silab.sinp.msu.ru,Russia
+930,Anton,Andronic,A.,Mr,Prof,,FULL,2004-02-13,,|UMuenster|,|GSI|,|CB|CEB|PC|,andronic@uni-muenster.de,Germany
+932,Bastian,Bathen,B.,Mr,Dr,,FULL,2017-01-05,2017-03-31,|UMuenster|,|UMuenster|,,bastian.bathen@uni-muenster.de,Germany
+933,Johannes,Beckhoff,J.,Mr,M.Sci,,FULL,2016-12-14,2019-01-28,|UMuenster|,|UMuenster|,,J.Beckhoff@beckhoff.com,Germany
+934,Roland,Berendes,R.,Mr,,,FULL,2009-03-18,,|UMuenster|,,,roland.berendes@uni-muenster.de,Germany
+935,Cyrano,Bergmann,C.,Mr,Dr,,ASSO,2008-06-10,,|UMuenster|,,,cyrano.bergmann@uni-muenster.de,Germany
+936,Daniel,Bonaventura,D.,Mr,,,FULL,2019-03-04,,|UMuenster|,,,d.bonaventura@uni-muenster.de,Germany
+937,Damian,Bucher,D.,Mr,,,FULL,2004-02-13,2006-01-09,|UMuenster|,|UMuenster|,,bucher@ikp.uni-muenster.de,Germany
+938,Luisa Johanna,Faber,L.J.,Ms,B.Sci,Ma,FULL,2021-02-05,,|UMuenster|,,,l_fabe01@uni-muenster.de,Germany
+939,Marvin,Fehrenbacher,M.,Mr,,Ba,ASSO,2015-06-09,2015-12-11,|UMuenster|,|UMuenster|,,m_fehr03@uni-muenster.de,Germany
+940,Felix,Fidorra,F.,Mr,M.Sci,Phd,FULL,2015-06-09,,|UMuenster|,,,f_fido01@uni-muenster.de,Germany
+941,Ruben,Förster,R.,Mr,B.Sci,,ASSO,2023-03-15,2023-11-10,|UMuenster|,|UMuenster|,,rfoerste@uni-muenster.de,Germany
+942,Norbert,Heine,N.,Mr,,,FULL,2009-03-18,,|UMuenster|,,,heine@uni-muenster.de,Germany
+943,Philipp,Kähler,P.,Mr,M.Sci,Phd,FULL,2015-04-10,,|UMuenster|,,|PTC|,p.kaehler@uni-muenster.de,Germany
+945,Melanie,Klein-Bösing,M.,Ms,Dr,,FULL,2004-02-13,2010-08-27,|UMuenster|,|UMuenster|,,,Germany
+946,Martin,Kohn,M.,Mr,,Phd,ASSO,2014-07-24,2024-10-04,|UMuenster|,|UMuenster|,,martinkohn@uni-muenster.de,Germany
+947,Johannes,Lämmel,J.,Mr,B.Sci,,ASSO,2023-10-13,2024-05-13,|UMuenster|,|UMuenster|,,jlaemmel@uni-muenster.de,Germany
+948,Adrian,Meyer-Ahrens,A.,Mr,M.Sci,Phd,FULL,2016-12-14,,|UMuenster|,,,a_meye37@uni-muenster.de,Germany
+949,Denise,Moreira de Godoy Willems,D.,Ms,A.Prof,,FULL,2024-07-15,,|UMuenster|,,,moreirad@uni-muenster.de,Germany
+950,Hannes,Morgenweck,H.,Mr,M.Sci,,FULL,2019-01-28,2023-05-10,|UMuenster|,|UMuenster|,,h_morg03@uni-muenster.de,Germany
+951,Daniel,Mühlheim,D.,Mr,Dr,,FULL,2020-08-28,2020-10-31,|UMuenster|,|UMuenster|,,d.muehlheim@uni-muenster.de,Germany
+952,Philipp,Munkes,P.,Mr,M.Sci,Phd,FULL,2016-12-14,,|UMuenster|,,,p.munkes@uni-muenster.de,Germany
+953,Kristin,Nissen,K.,Mr,B.Sci,,ASSO,2021-02-05,2023-04-05,|UMuenster|,|UMuenster|,,k_niss01@uni-muenster.de,Germany
+954,Hannes,Olbring,H.,Mr,B.Sci,,ASSO,2023-03-15,2023-11-10,|UMuenster|,|UMuenster|,,holbring@uni-muenster.de,Germany
+955,Henning,Pauels,H.,Mr,,Ba,ASSO,2024-02-20,,|UMuenster|,,,henning.pauels@uni-muenster.de,Germany
+956,Axel,Puntke,A.,Mr,M.Sci,Phd,FULL,2019-12-11,,|UMuenster|,,,axel.puntke@uni-muenster.de,Germany
+957,Klaus,Reygers,K.,Mr,,,FULL,2004-02-13,2009-03-17,|UMuenster|,|UMuenster|,,reygers@ikp.uni-muenster.de,Germany
+958,Henrik,Schiller,H.,Mr,M.Sci,,FULL,2021-10-18,2023-03-15,|UMuenster|,|UMuenster|,,h_schi20@uni-muenster.de,Germany
+959,Patrick,Schneider,P.M.,Mr,M.Sci,,FULL,2016-03-30,2023-05-10,|UMuenster|,|UMuenster|,,patrick.schneider@uni-muenster.de,Germany
+960,Malick,Shatob,M.,Mr,,Ba,ASSO,2024-06-28,,|UMuenster|,,,malick.shatob@uni-muenster.de,Germany
+961,Lasse,Triebel,L.,Mr,,Ba,ASSO,2025-01-29,,|UMuenster|,,,lasse.triebel@uni-muenster.de,Germany
+962,Wolfgang,Verhoeven,W.,Mr,,,FULL,2011-12-12,2015-12-11,|UMuenster|,|UMuenster|,,verhoev@uni-muenster.de,Germany
+963,Lukas,Wahmes,L.,Mr,Eng,,FULL,2019-02-12,,|UMuenster|,,,lukas.wahmes@uni-muenster.de,Germany
+964,Ruben,Weber,R.,Mr,M.Sci,,FULL,2018-01-25,2023-02-21,|UMuenster|,|UMuenster|,,ruben.weber@uni-muenster.de,Germany
+965,Johannes P.,Wessels,J.P.,Mr,Prof,,FULL,2004-02-13,,|UMuenster|,,,j.wessels@uni-muenster.de,Germany
+966,Alexander,Wilk,A.,Mr,,,FULL,2004-02-13,2012-05-22,|UMuenster|,|UMuenster|,,wilka@uni-muenster.de,Germany
+967,Sadhana,Dash,S.,Ms,Prof,,FULL,2016-04-26,,|IIT-B|,,|CB|,sadhana@phy.iitb.ac.in,India
+968,Ankita,Goswami,A.,Ms,Dr,,FULL,2019-08-02,2021-09-13,|IIT-B|,|IIT-B|,,ankitagoswami@iitb.ac.in,India
+969,Basanta Kumar,Nandi,B.K.,Mr,Prof,,FULL,2016-04-26,,|IIT-B|,,,basanta@phy.iitb.ac.in,India
+970,Priyanka,Sett,P.,Ms,Dr,,FULL,2016-04-26,2018-10-10,|IIT-B|,|IIT-B|,,sett.priya@phy.iitb.ac.in,India
+971,Ante,Bilandzic,A.,Mr,Dr,,FULL,2019-04-04,,|TUM|,,|CB|,ante.bilandzic@tum.de,Germany
+972,Jehad,Mousa,J.,Mr,,,FULL,2004-02-13,2009-03-11,|UCyprus|,|UCyprus|,,,Cyprus
+973,Haralabos,Tsertos,H.,Mr,,,FULL,2004-02-13,2009-03-11,|UCyprus|,|UCyprus|,,tsertos@ucy.ac.cy,Cyprus
+974,Nicola,D'Ascenzo,N.,Mr,Dr,,FULL,2009-03-18,2015-09-17,|UObninsk|,|UObninsk|,,ndasc@mail.desy.de,Russia
+975,Alexey,Galkin,A.,Mr,,Phd,FULL,2006-11-07,2014-12-04,|UObninsk|,|UObninsk|,,galkin@tigre.ru,Russia
+976,Valery,Galkin,V.,Mr,,,FULL,2004-02-27,2014-02-08,|UObninsk|,|UObninsk|,,galkin@iate.obninsk.ru,Russia
+977,Dmitri,Ossetski,D.,Mr,,,FULL,2004-02-27,2014-12-04,|UObninsk|,|UObninsk|,,ossetski@gmail.com,Russia
+979,Petr,Chaloupka,P.,Mr,Dr,,FULL,2020-10-15,,|CTU|,,|CB|PL|SP-dep|,petr.chaloupka@fjfi.cvut.cz,Czech Republic
+980,Petr,Chudoba,P.,Mr,Dr,,ASSO,2019-02-27,,|CTU|,|NPI-CAS|,,p.chudoba@gsi.de,Czech Republic
+981,Radim,Dvořák,R.,Mr,Eng,Phd,FULL,2021-09-27,,|CTU|,,,dvorar10@fjfi.cvut.cz,Czech Republic
+982,Kristýna,Haismanová,K.,Ms,,Ba,FULL,2021-10-20,2023-11-22,|CTU|,|CTU|,,haismkri@fjfi.cvut.cz,Czech Republic
+983,Helena,Hesounová,H.,Ms,Eng,Phd,FULL,2024-10-02,,|CTU|,,,hesouhel@fjfi.cvut.cz,Czech Republic
+984,Ondřej,Hofman,O.,Mr,B.Sci,Ma,FULL,2021-10-18,,|CTU|,,,hofmaond@fjfi.cvut.cz,Czech Republic
+985,Martin,Janda,M.,Mr,Eng,,ASSO,2018-09-26,,|CTU|,,,Martin.Janda@cern.ch,Czech Republic
+986,Otari,Javakhishvili,O.,Mr,Dr,,ASSO,2024-02-26,,|CTU|,,,otari.javakhishvili@cvut.cz,Czech Republic
+987,Vojtěch,Petráček,V.,Mr,Dr.habil,,FULL,2003-08-25,,|CTU|,,,vojtech.petracek@cern.ch,Czech Republic
+988,Vladimir,Pospisil,V.,Mr,,,FULL,2004-04-27,2015-12-02,|CTU|,|CTU|,,gdermog@seznam.cz,Czech Republic
+989,Libor,Škoda,L.,Mr,Eng,,FULL,2004-04-27,2021-09-27,|CTU|,|CTU|,,Libor.Skoda@fjfi.cvut.cz,Czech Republic
+990,Martin,Smetana,M.,Mr,Eng,,ASSO,2022-10-20,,|CTU|,,,martin.smetana@fs.cvut.cz,Czech Republic
+991,Vladimir,Ammosov,V.,Mr,Dr,,FULL,2004-02-13,2010-01-11,|IHEP|,|IHEP|,,,Russia
+992,Alexander,Artamonov,A.,Mr,,,FULL,2007-03-23,2012-05-29,|IHEP|,|IHEP|,,artamonov@ihep.ru,Russia
+993,Sergey,Golovnya,S.,Mr,,,FULL,2009-03-16,2023-04-04,|IHEP|,|IHEP|,,Sergey.Golovnya@ihep.ru,Russia
+994,Sergey,Gorokhov,S.,Mr,,,FULL,2013-10-02,2023-04-04,|IHEP|,|IHEP|,,Sergey.Gorokhov@ihep.ru,Russia
+995,Yuri,Kharlov,Yu.,Mr,Dr,,FULL,2004-02-13,2012-05-29,|IHEP|,|IHEP|,,Yuri.Kharlov@ihep.ru,Russia
+996,Andrey,Kiryakov,A.,Mr,,,FULL,2013-10-02,2023-04-04,|IHEP|,|IHEP|,,Andrey.Kiryakov@ihep.ru,Russia
+997,Dmitri,Konstantinov,D.,Mr,,,FULL,2006-03-07,2012-05-29,|IHEP|,|IHEP|,,Dmitri.Konstantinov@ihep.ru,Russia
+998,Ivan,Lobanov,I.,Mr,,,FULL,2009-03-16,2023-04-04,|IHEP|,|IHEP|,,Ivan.Lobanov@ihep.ru,Russia
+999,Elena,Lobanova,E.,Ms,,,FULL,2009-03-16,2023-04-04,|IHEP|,|IHEP|,,Elena.Lobanova@ihep.ru,Russia
+1000,Vladimir,Rykalin,V.,Mr,Prof,,FULL,2004-02-13,2014-12-05,|IHEP|,|IHEP|,,Vladimir.Rykalin@ihep.ru,Russia
+1001,Serguei,Sadovsky,S.,Mr,Dr,,FULL,2004-02-13,2014-12-05,|IHEP|,|IHEP|,,Serguei.Sadovsky@ihep.ru,Russia
+1002,Artem,Semak,A.,Mr,,,FULL,2004-02-13,2012-05-29,|IHEP|,|IHEP|,,Artem.Semak@ihep.ru,Russia
+1003,Yuri,Sviridov,Yu.,Mr,,,FULL,2004-02-13,2012-05-29,|IHEP|,|IHEP|,,Yuri.Sviridov@ihep.ru,Russia
+1004,Yuri,Tsyupa,Yu.,Mr,,,FULL,2009-03-16,2023-04-04,|IHEP|,|IHEP|,,Yuri.Tsyupa@ihep.ru,Russia
+1006,Alexander,Vorobiev,A.,Mr,Dr,,FULL,2009-03-16,2023-04-04,|IHEP|,|IHEP|,,Alexander.Vorobiev@ihep.ru,Russia
+1007,Ritu,Aggarwal,R.,Ms,Dr,,FULL,2021-09-24,,|UPune|,,,ritu.aggarwal1@gmail.com,India
+1009,Jongsik,Eum,,Mr,B.Sci,Ma,FULL,2013-10-10,2014-07-01,|PNU|,|PNU|,,jongsik.eum@gmail.com,Korea
+1010,Junghan,Kim,,Mr,,,FULL,2004-02-13,2012-05-22,|PNU|,|PNU|,,bluekjh@pusan.ac.kr,Korea
+1011,Kunsu,Oh,,Mr,,Phd,FULL,2010-03-22,2017-12-10,|PNU|,|PNU|,,kunsuoh@gmail.com,Korea
+1012,Jihye,Song,,Ms,,Phd,FULL,2010-03-22,2016-04-27,|PNU|,|PNU|,,,Korea
+1013,Sanguk,Won,,Mr,B.Sci,Ma,FULL,2013-10-10,2017-12-10,|PNU|,|PNU|,,memorize7@gmail.com,Korea
+1014,Jun-Gyu,Yi,,Mr,M.Sci,Phd,FULL,2007-02-12,2013-12-01,|PNU|,|PNU|,,Jungyu.Yi@cern.ch,Korea
+1015,In-Kwon,Yoo,,Mr,Prof,,FULL,2003-01-21,,|PNU|,,|CB|RB|,yoo@pusan.ac.kr,Korea
+1016,Dagmar,Adamova,D.,Ms,,,FULL,2004-02-13,2012-02-10,|NPI-CAS|,|NPI-CAS|,,dagmar.adamova@cern.ch,Czech Republic
+1017,Alexey,Iukhin,A.,Mr,,Dipl,ASSO,2015-09-10,2017-12-20,|NPI-CAS|,|NPI-CAS|,,alex.yukhin@gmail.com,Czech Republic
+1018,Jan,Kollarczyk,J.,Mr,Eng,Phd,FULL,2021-09-27,,|NPI-CAS|,|CTU|,,J.Kollarczyk@gsi.de,Czech Republic
+1019,Andrej,Kugler,A.,Mr,Dr,,FULL,2004-02-23,,|NPI-CAS|,,|CB|RB|,kugler@ujf.cas.cz,Czech Republic
+1021,Vasily,Mikhaylov,V.,Mr,Dr,,FULL,2013-10-02,2021-09-20,|NPI-CAS|,|NPI-CAS|,,,Czech Republic
+1022,Antonín,Opíchal,A.,Mr,,Phd,FULL,2023-05-11,,|NPI-CAS|,,,opichal@ujf.cas.cz,Czech Republic
+1023,Arun,Prakash,A.,Mr,Dr,,FULL,2008-02-01,2017-02-12,|NPI-CAS|,|NPI-CAS|BHU|,,a.praksh@gmail.com,Czech Republic
+1024,Alexander,Prozorov,A.,Mr,Dr,,FULL,2020-07-28,2023-11-10,|NPI-CAS|,|NPI-CAS|,,prozorov@ujf.cas.cz,Czech Republic
+1025,Ondřej,Svoboda,O.,Mr,Dr,,ASSO,2012-02-10,,|NPI-CAS|,,,svoboda@ujf.cas.cz,Czech Republic
+1026,Pavel,Tlustý,P.,Mr,Dr,,ASSO,2004-05-05,,|NPI-CAS|,,,tlusty@ujf.cas.cz,Czech Republic
+1027,Daniel,Belver,D.,Mr,,,FULL,2004-02-13,2005-12-17,|USC|,|USC|,,daniel@fpddux.usc.es,Spain
+1028,Juan,Garzon,J.,Mr,Dr,,FULL,2004-02-13,2005-12-17,|USC|,|USC|,,hans@fpddux.usc.es,Spain
+1029,Faustino,Gomez,F.,Mr,,,FULL,2004-02-13,2005-12-17,|USC|,|USC|,,faustino@fpsunae2.usc.es,Spain
+1030,Maria Angeles,Lopez,M.A.,Ms,,,FULL,2004-02-13,2005-12-17,|USC|,|USC|,,lopez@fpaxp1.usc.es,Spain
+1031,Byungsik,Hong,,Mr,Prof,,FULL,2004-02-13,2012-03-29,|UKorea|,|UKorea|,,bhong@korea.ac.kr,Korea
+1032,Min Sang,Ryu,,Mr,,,FULL,2004-02-13,2012-03-29,|UKorea|,|UKorea|,,,Korea
+1033,Kwang-Souk,Sim,,Mr,,,FULL,2004-02-13,2012-03-29,|UKorea|,|UKorea|,,,Korea
+1034,Somnath,Ghosh,S.,Mr,M.Sci,Phd,FULL,2016-04-26,,|NBU|,,,somphysics1@nbu.ac.in,India
+1035,Provash,Mali,P.,Mr,A.Prof,,FULL,2016-04-26,,|NBU|,,,provashmali@gmail.com,India
+1036,Amitabha,Mukhopadhyay,A.,Mr,Prof,,FULL,2016-04-26,,|NBU|,,|CB|,amphys@nbu.ac.in,India
+1037,Soumya,Sarkar,S.,Mr,A.Prof,,FULL,2016-04-26,,|NBU|,,,soumyasarkar31@gmail.com,India
+1038,Maja,Anđelić,M.,Ms,,Phd,FULL,2007-03-14,2016-09-19,|USplit|,|USplit|,,,Croatia
+1039,Ivana,Carević,I.,Ms,,Phd,FULL,2007-03-14,2016-09-19,|USplit|,|USplit|,,ivana@pmfst.hr,Croatia
+1040,Mile,Dželalija,M.,Mr,Prof,,FULL,2004-02-13,2019-04-04,|USplit|,|USplit|RBI|,,mile@pmfst.hr,Croatia
+1041,Firdous,Ahmad,F.,Mr,,,FULL,2011-04-28,2019-03-12,|UKashmir|,|UKashmir|,,29firdous11@gmail.com,India
+1042,Suraya,Bashir,S.,Mr,Dr,,FULL,2011-04-28,2019-12-26,|UKashmir|,|UKashmir|,,surayabashir18@gmail.com,India
+1043,Shabir Ahmad,Bhat,S.A.,Mr,Dr,,FULL,2010-04-06,,|UKashmir|,,,shabphysics@gmail.com,India
+1044,Towseef Ahmad,Bhat,T.A.,Mr,,,FULL,2019-03-12,,|UKashmir|,,,bhattawseef82@gmail.com,India
+1045,Waseem Ahmad,Bhat,W.A.,Mr,,,FULL,2019-03-12,,|UKashmir|,,,waseembhat723@gmail.com,India
+1047,Arshad Ahmad,Masoodi,A.A.,Mr,,,FULL,2019-03-12,2023-11-03,|UKashmir|,|UKashmir|,,arshedmasoodi@gmail.com,India
+1048,M. Farooq,Mir,M.F.,Mr,Dr,,FULL,2007-10-01,,|UKashmir|,,|CB|,farooq_mir@kashmiruniversity.ac.in,India
+1049,Waseem,Raja,W.,Mr,,,FULL,2011-03-28,2019-03-12,|UKashmir|,|UKashmir|,,waseemjnv@gmail.com,India
+1050,Vladimir,Eremin,V.,Mr,Dr,,FULL,2011-05-12,2019-04-04,|Ioffe|,|Ioffe|,,Vladimir.Eremin@cern.ch,Russia
+1051,Elena,Verbitskaya,E.,Ms,Dr,,FULL,2012-02-28,2019-04-04,|Ioffe|,|Ioffe|,,Elena.Verbitskaya@cern.ch,Russia
+1052,Oleg,Batenkov,O.,Mr,Dr,,FULL,2012-02-10,2016-10-20,|KRI|,|KRI|,,,Russia
+1053,Mikhail,Chubarov,M.,Mr,,,FULL,2004-02-13,2012-02-10,|KRI|,|KRI|,,chubarov@atom.nw.ru,Russia
+1054,Serguei,Igolkin,S.,Mr,,,FULL,2006-01-16,2012-02-10,|KRI|,|KRI|,,Serguei.Igolkine@cern.ch,Russia
+1055,Vladimir,Jakovlev,V.,Mr,Dr,,FULL,2009-02-25,2023-04-04,|KRI|,|KRI|,,jakovlev@khlopin.ru,Russia
+1056,Valery,Kalinin,V.,Mr,,,FULL,2012-02-10,2023-04-04,|KRI|,|KRI|,,v_kalinin@khlopin.ru,Russia
+1057,Vladimir,Karasev,V.,Mr,,,FULL,2004-02-13,2012-02-10,|KRI|,|KRI|,,kar@atom.nw.ru,Russia
+1058,Leonid,Solin,L.,Mr,,,FULL,2009-02-25,2012-02-10,|KRI|,|KRI|,,solin@khlopin.ru,Russia
+1059,Andrey,Veshikov,A.,Mr,,,FULL,2012-02-10,2019-10-30,|KRI|,|KRI|,,veshikov@mail.ru,Russia
+1060,Alexander,Berdnikov,A.,Mr,Dr,,FULL,2006-01-08,2023-04-04,|SPbPU|,|SPbPU|,,alexber@phmf.spbstu.ru,Russia
+1061,Yaroslav,Berdnikov,Y.,Mr,Prof,,FULL,2004-02-23,2023-04-04,|SPbPU|,|SPbPU|,,berdnikov@spbstu.ru,Russia
+1062,Andrey,Tsvetkov,A.,Mr,,,FULL,2004-02-13,2006-01-08,|SPbPU|,|SPbPU|,,atsvetkov@phmf.spbstu.ru,Russia
+1063,Gregory,Bertolone,G.,Mr,M.Sci,,FULL,2017-04-22,,|IPHC|,,,gregory.bertolone@iphc.cnrs.fr,France
+1064,Auguste,Besson,A.,Mr,Dr,,FULL,2004-02-13,,|IPHC|,,,auguste.besson@iphc.cnrs.fr,France
+1065,Roma,Bugiel,R.,Ms,Dr,,FULL,2021-09-13,2024-03-19,|IPHC|,|IPHC|,,roma.bugiel@iphc.cnrs.fr,France
+1066,Szymon,Bugiel,S.,Mr,Dr,,FULL,2021-09-13,2024-03-19,|IPHC|,|IPHC|,,Szymon.bugiel@iphc.cnrs.fr,France
+1067,Gilles,Claus,G.,Mr,Eng,,FULL,2006-01-21,,|IPHC|,,,gilles.claus@iphc.cnrs.fr,France
+1068,Andréï,Dorokhov,A.,Mr,Dr,,FULL,2006-01-21,,|IPHC|,,,andrei.dorokhov@iphc.cnrs.fr,France
+1069,Guy,Dozière,G.,Mr,M.Sci,,FULL,2017-04-22,2021-09-13,|IPHC|,|IPHC|,,guy.doziere@iphc.cnrs.fr,France
+1070,Wojciech,Dulinski,W.,Mr,Dr,,FULL,2006-01-21,2014-06-30,|IPHC|,|IPHC|,,,France
+1071,Ziad,El Bitar,Z.,Mr,Dr,,FULL,2019-11-11,,|IPHC|,,,ziad.elbitar@iphc.cnrs.fr,France
+1072,Mathieu,Goffe,M.,Mr,M.Sci,,FULL,2012-02-13,,|IPHC|,,,mathieu.goffe@iphc.cnrs.fr,France
+1073,Sebastien,Heini,S.,Mr,,,FULL,2004-02-13,2008-02-18,|IPHC|,|IPHC|,,heini@lepsi.in2p3.fr,France
+1075,Christine,Hu-Guo,C.,Ms,Dr,,FULL,2017-04-22,,|IPHC|,,,christine.hu@iphc.cnrs.fr,France
+1076,Kimmo,Jaaskelainen,K.,Mr,,,FULL,2006-01-21,2017-04-22,|IPHC|,|IPHC|,,Kimmo.Jaaskelainen@iphc.cnrs.fr,France
+1077,Frédéric,Morel,F.,Mr,Dr,,FULL,2017-04-22,,|IPHC|,,,frederic.morel@iphc.cnrs.fr,France
+1078,Hung,Pham,,Mr,Dr,,FULL,2017-04-22,,|IPHC|,,,hung.pham@iphc.cnrs.fr,France
+1079,Fouad,Rami,F.,Mr,Dr,,FULL,2003-01-16,2018-01-19,|IPHC|,|IPHC|,,fouad.rami@iphc.cnrs.fr,France
+1080,Hayet,Souffi-Kebbati,H.,Ms,,,FULL,2004-02-13,2006-01-06,|IPHC|,|IPHC|,,souffi@lepsi.in2p3.fr,France
+1081,Isabelle,Valin,I.,Ms,Dr,,FULL,2006-01-21,,|IPHC|,,,isabelle.valin@iphc.cnrs.fr,France
+1082,Marc,Winter,M.,Mr,Dr,,FULL,2004-02-13,,|IPHC|,|UPS-IJCLab|,|CB|RB|,marc.winter@ijclab.in2p3.fr,France
+1083,Yüe,Zhao,,Mr,Dr,,FULL,2017-04-22,2021-09-13,|IPHC|,|IPHC|,,yue.zhao@iphc.cnrs.fr,France
+1084,Kazuya,Aoki,K.,Mr,A.Prof,,FULL,2019-03-04,,|KEK|,,,kazuya.aoki.phys@gmail.com,Japan
+1085,Tomoki,Murakami,T.,Mr,,Ma,FULL,2019-03-04,,|KEK|,,,kektomoki@gmail.com,Japan
+1086,Kyoichiro,Ozawa,K.,Mr,A.Prof,,FULL,2019-03-04,,|KEK|,,|CB|,ozawa@post.kek.jp,Japan
+1088,Moe,Isshiki,M.,Ms,M.Sci,Phd,FULL,2021-09-29,,|TCHoU|,,,s2130036@s.tsukuba.ac.jp,Japan
+1089,Takafumi,Niida,T.,Mr,A.Prof,,FULL,2021-09-29,,|TCHoU|,,,niida.takafumi.fw@u.tsukuba.ac.jp,Japan
+1091,Kosuke,Okubo,K.,Mr,M.Sci,Phd,FULL,2021-09-29,,|TCHoU|,,,s2130040@s.tsukuba.ac.jp,Japan
+1092,Takahito,Todoroki,T.,Mr,A.Prof,,FULL,2021-09-29,2024-09-12,|TCHoU|,|TCHoU|,,todoroki.takahito.ga@u.tsukuba.ac.jp,Japan
+1093,Kshitij,Agarwal,K.,Mr,Dr,,ASSO,2016-07-08,,|UTuebingen|,,,kshitij.agarwal@uni-tuebingen.de,Germany
+1094,Gaby,Behring,G.,Ms,,,STAFF,2016-03-31,2023-11-10,|UTuebingen|,|UTuebingen|,,gaby.behring@uni-tuebingen.de,Germany
+1095,Shantanu,Bhalerao,S.,Mr,M.Sci,,FULL,2022-08-16,2023-11-10,|UTuebingen|,|UTuebingen|,,,Germany
+1096,Lukáš,Chlad,L.,Mr,Dr,,FULL,2021-03-01,2023-11-10,|UTuebingen|,|UTuebingen|GSI|NPI-CAS|,,L.Chlad@gsi.de,Germany
+1097,Susovan,Das,S.,Mr,,Phd,ASSO,2015-10-28,,|UTuebingen|,,,susovan.das@student.uni-tuebingen.de,Germany
+1098,Gabi,Enßlin-Richter,G.,Ms,,,STAFF,2023-11-10,,|UTuebingen|,,,gabriele.Ensslin-Richter@uni-tuebingen.de,Germany
+1099,Eduard,Friske,E.,Mr,,Phd,FULL,2014-04-23,2019-11-08,|UTuebingen|,|UTuebingen|,,eduard.friske@uni-tuebingen.de,Germany
+1100,Benjamin,Heß,B.,Mr,Dr,,FULL,2012-02-09,2016-12-31,|UTuebingen|,|UTuebingen|,,Benjamin-Andreas.Hess@uni-tuebingen.de,Germany
+1101,Albert,Khachaturov,A.,Mr,,Dipl,ASSO,2011-11-14,2014-08-19,|UTuebingen|,|UTuebingen|,,aboshka911@gmail.com,Germany
+1102,Shahid,Khan,S.,Mr,Dr,,FULL,2019-12-09,2023-11-10,|UTuebingen|,|UTuebingen|,,shahid.khan@uni-tuebingen.de,Germany
+1103,Viktor,Klochkov,V.,Mr,Dr,,FULL,2015-10-04,2022-04-30,|UTuebingen|,|UTuebingen|FAIR|GSI|IKF-UFra|,,,Germany
+1104,Shaifali,Mehta,S.,Ms,Dr,,ASSO,2017-11-08,,|UTuebingen|,|GSI|,,s.mehta@gsi.de,Germany
+1105,Iaroslav,Panasenko,I.,Mr,Dr,,FULL,2008-11-04,2023-07-31,|UTuebingen|,|UTuebingen|KINR|,,iaroslav.panasenko@uni-tuebingen.de,Germany
+1106,Hans Rudolf,Schmidt,H.R.,Mr,Prof,,FULL,2009-11-05,,|UTuebingen|,|GSI|,|CB|CEC|,hans-rudolf.schmidt@uni-tuebingen.de,Germany
+1107,Martin,Völkl,M.,Mr,Dr,,FULL,2017-03-01,2020-05-13,|UTuebingen|,|UTuebingen|,,martin.voelkl@uni-tuebingen.de,Germany
+1108,Elena,Volkova,E.,Ms,M.Sci,Phd,FULL,2017-11-14,2024-09-24,|UTuebingen|,|UTuebingen|,,elena.volkova@uni-tuebingen.de,Germany
+1109,Jens,Wiechula,J.,Mr,Dr,,FULL,2011-04-14,2015-12-03,|UTuebingen|,|UTuebingen|,,Jens.Wiechula@Uni-Tuebingen.de,Germany
+1110,Avinash,Chauhan,A.,Mr,M.Sci,Phd,FULL,2014-11-21,2015-12-02,|BHU|,|BHU|,,avinash.shaaju@gmail.com,India
+1112,Ajay,Kumar,A.,Mr,Dr,,FULL,2021-09-11,,|BHU|,,,ajay.ehep@gmail.com,India
+1113,Satya Ranjan,Nayak,S.R.,Mr,,Phd,FULL,2022-01-20,,|BHU|,,,satyanayak@bhu.ac.in,India
+1114,Saraswati,Pandey,S.,Ms,Dr,,FULL,2019-03-12,2023-11-10,|BHU|,|BHU|,,saraswati.pandey92@gmail.com,India
+1115,Bhartendu Kumar,Singh,B.K.,Mr,Prof,,FULL,2006-10-12,,|BHU|,,|CB|,bksingh@bhu.ac.in,India
+1116,Chandra Prakash,Singh,C.P.,Mr,Prof,,FULL,2006-10-12,2023-11-10,|BHU|,|BHU|,,cpsingh@bhu.ac.in,India
+1117,Zuzanna,Baniak,Z.,Ms,B.Sci,,ASSO,2023-03-20,2024-03-12,|IF-WUT|,|IF-WUT|,,,Poland
+1118,Wiktor,Bogucki,W.,Mr,,Ba,ASSO,2024-03-12,,|IF-WUT|,,,wiktor.bogucki.stud@pw.edu.pl,Poland
+1119,Wioletta,Borzym,W.,Ms,M.Sci,,ASSO,2019-07-04,2022-03-31,|IF-WUT|,|IF-WUT|ISE-WUT|,,wiola.borzym@gmail.com,Poland
+1120,Julia,Ejsmont,J.,Ms,,Ba,ASSO,2023-03-20,,|IF-WUT|,,,julia.ejsmont.stud@pw.edu.pl,Poland
+1121,Tobiasz,Fic,T.,Mr,B.Sci,,ASSO,2022-10-24,2024-03-12,|IF-WUT|,|IF-WUT|,,,Poland
+1123,Małgorzata,Karabowicz,M.,Ms,B.Sci,,ASSO,2021-04-16,2023-11-20,|IF-WUT|,|IF-WUT|,,malgorzata.karabowicz.stud@pw.edu.pl,Poland
+1124,Mikołaj,Łączyński,M.,Mr,,Ba,ASSO,2019-07-04,2021-09-14,|IF-WUT|,|IF-WUT|ISE-WUT|,,nick.laczynski@gmail.com,Poland
+1125,Julian,Nowak,J.,Mr,M.Sci,,ASSO,2021-04-16,2023-11-20,|IF-WUT|,|IF-WUT|,,julian.nowak.stud@pw.edu.pl,Poland
+1126,Jan,Ostrowski,J.,Mr,B.Sci,,ASSO,2021-04-16,2023-04-03,|IF-WUT|,|IF-WUT|,,jan.ostrowski2.stud@pw.edu.pl,Poland
+1127,Jan,Pluta,J.,Mr,Prof,,FULL,2013-04-22,,|IF-WUT|,|ISE-WUT|,,jan.pluta@pw.edu.pl,Poland
+1128,Olga,Wałachowska,O.,Ms,,Ba,ASSO,2024-11-26,,|IF-WUT|,,,olga.walachowska.stud@pw.edu.pl,Poland
+1129,Daniel,Wielanek,D.,Mr,Dr,,FULL,2013-07-19,,|IF-WUT|,|ISE-WUT|,,d.wielanek@gsi.de,Poland
+1130,Hanna Paulina,Zbroszczyk,H.P.,Ms,Prof,,FULL,2019-01-16,,|IF-WUT|,|ISE-WUT|,|CB|CB-chair|PB|RB|,hanna.zbroszczyk@pw.edu.pl,Poland
+1131,Kacper,Zięba,K.,Mr,,Ba,ASSO,2024-11-26,,|IF-WUT|,,,kacper.zieba2.stud@pw.edu.pl,Poland
+1132,Adrian,Byszuk,A.,Mr,M.Sci,,ASSO,2013-07-19,2020-07-13,|ISE-WUT|,|ISE-WUT|,,A.Byszuk@elka.pw.edu.pl,Poland
+1133,Marek,Gumiński,M.,Mr,M.Sci,,ASSO,2014-11-28,,|ISE-WUT|,,,marek.guminski@pw.edu.pl,Poland
+1134,Grzegorz,Kasprowicz,G.,Mr,Dr,,FULL,2012-09-16,2019-10-31,|ISE-WUT|,|ISE-WUT|,,G.Kasprowicz@elka.pw.edu.pl,Poland
+1135,Michał,Kruszewski,M.,Mr,Dr,,FULL,2018-11-07,,|ISE-WUT|,,,michal.kruszewski@pw.edu.pl,Poland
+1136,Bogumił,Kubiak,B.,Mr,B.Sci,Ma,FULL,2025-02-18,,|ISE-WUT|,,,bogumil.kubiak.stud@pw.edu.pl,Poland
+1137,Piotr Bogdan,Miedzik,P.B.,Mr,B.Sci,,ASSO,2020-05-25,,|ISE-WUT|,,,piotr.miedzik@pw.edu.pl,Poland
+1138,Krzysztof,Poźniak,K.,Mr,Prof,,FULL,2012-09-16,,|ISE-WUT|,|UWarsaw|,,krzysztof.pozniak@pw.edu.pl,Poland
+1139,Ryszard,Romaniuk,R.,Mr,Prof,,FULL,2012-12-19,,|ISE-WUT|,,|CB|,ryszard.romaniuk@pw.edu.pl,Poland
+1140,Anna,Twarowska,A.,Ms,B.Sci,Ma,FULL,2025-02-18,,|ISE-WUT|,,,anna.twarowska.stud@pw.edu.pl,Poland
+1141,Marcin,Wojtkowski,M.,Mr,B.Sci,Ma,FULL,2022-11-09,,|ISE-WUT|,,,marcin.wojtkowski.stud@pw.edu.pl,Poland
+1142,Aleksander,Wyżykowski,A.,Mr,B.Sci,Ma,FULL,2025-02-18,,|ISE-WUT|,,,aleksander.wyzykowski.stud@pw.edu.pl,Poland
+1143,Wojciech,Zabołotny,W.,Mr,Dr.habil,,FULL,2012-09-16,,|ISE-WUT|,|UWarsaw|,,wojciech.zabolotny@pw.edu.pl,Poland
+1144,Agata,Ciborowska,A.,Ms,,Ba,ASSO,2023-11-10,,|UWarsaw|,,,a.bijak@student.uw.edu.pl,Poland
+1145,Marek,Kirejczyk,M.,Mr,Dr,,FULL,2004-01-06,2015-12-14,|UWarsaw|,|UWarsaw|,,marek.kirejczyk@fuw.edu.pl,Poland
+1146,Maria,Kondzielska,M.,Ms,,Ma,ASSO,2024-07-04,,|UWarsaw|,|GSI|,,m.kondzielsk@student.uw.edu.pl,Poland
+1147,Roman,Korsak,R.,Mr,,Ma,ASSO,2023-11-10,,|UWarsaw|,,,r.korsak2@student.uw.edu.pl,Poland
+1148,Michal,Kuc,M.,Mr,,Ma,FULL,2015-05-13,2017-12-12,|UWarsaw|,|UWarsaw|,,,Poland
+1150,Krzysztof,Piasecki,K.,Mr,Dr.habil,,FULL,2006-01-04,,|UWarsaw|,,|CB|PB|PC-dep|,krzysztof.piasecki@fuw.edu.pl,Poland
+1151,Jacek,Rożynek,J.,Mr,Dr,,FULL,2007-09-10,2016-10-10,|UWarsaw|,|UWarsaw|,,rozynek@fuw.edu.pl,Poland
+1152,Brunon,Sikora,B.,Mr,Dr,,ASSO,2004-02-13,,|UWarsaw|,,,Brunon.Sikora@fuw.edu.pl,Poland
+1153,Krystyna,Siwek-Wilczyńska,K.,Ms,Prof,,FULL,2004-02-13,2016-10-10,|UWarsaw|,|UWarsaw|,,siwek@fuw.edu.pl,Poland
+1154,Izabela,Skwira-Chalot,I.,Ms,Dr,,FULL,2013-01-03,2016-10-10,|UWarsaw|,|UWarsaw|,,izabela.skwira@fuw.edu.pl,Poland
+1155,Jerzy,Tarasiuk,J.,Mr,M.Sci,,FULL,2013-01-03,2016-10-10,|UWarsaw|,|UWarsaw|,,jt@fuw.edu.pl,Poland
+1156,Adam,Turowiecki,A.,Mr,Dr,,FULL,2013-01-03,2015-12-14,|UWarsaw|,|UWarsaw|,,atr@zfja-gate.fuw.edu.pl,Poland
+1157,Krzysztof,Wiśniewski,K.,Mr,Dr,,FULL,2003-08-25,2016-10-10,|UWarsaw|,|UWarsaw|,,kwisnia@physi.uni-heidelberg.de,Poland
+1158,Dominika,Wójcik,D.,Ms,,Phd,FULL,2018-10-03,2019-07-12,|UWarsaw|,|UWarsaw|,,Dominika.Wojcik@fuw.edu.pl,Poland
+1159,Xu,Cai,,Mr,Prof,,FULL,2005-03-16,2015-12-04,|CCNU|,|CCNU|,,xcai@mail.ccnu.edu.cn,China
+1160,Wendi,Deng,,Mr,,Phd,FULL,2015-12-04,2019-03-14,|CCNU|,|CCNU|,,dengdandan@mails.ccnu.edu.cn,China
+1161,Sheng,Dong,,Mr,Dr,,FULL,2015-12-04,2023-11-17,|CCNU|,|CCNU|PI-UHd|GSI|,,habrade@163.com,China
+1162,Shu,He,,Mr,M.Sci,Phd,FULL,2016-10-21,2021-09-22,|CCNU|,|CCNU|,,h@mails.ccnu.edu.cn,China
+1163,Guangming,Huang,,Mr,Prof,,FULL,2012-02-14,2021-02-01,|CCNU|,|CCNU|,,gmhuang@mail.ccnu.edu.cn,China
+1,Nazeer,Ahmad,N.,Mr,A.Prof,,FULL,2007-10-05,,|AMU|,,|CB|,nazeer_ahmad_na@rediffmail.com,India
+6,M. Mohsin,Khan,M.M.,Mr,Dr,,FULL,2007-10-05,,|AMU|,,,khan_mohsin_in@yahoo.co.uk,India
+33,Durga Prasad,Mahapatra,D.P.,Mr,Prof,,FULL,2006-10-04,2015-12-12,|IOPB|,|IOPB|,,dpm@iopb.res.in,India
+62,Daniel Ion,Dorobantu,D.I.,Mr,M.Sci,,ASSO,2023-02-02,2023-11-20,|IFIN-HH|,|IFIN-HH|,,daniel.dorobantu@nipne.ro,Romania
+79,Vlad Andrei,Bâsceanu,V.A.,Mr,,Phd,FULL,2023-10-18,,|UBucharest|,,,andreivlad13@yahoo.com,Romania
+104,Jozsef,Kecskemeti,J.,Mr,,,FULL,2004-02-13,2012-06-06,|WignerRCP|,|WignerRCP|,,oszi@rmki.kfki.hu,Hungary
+128,Seweryn,Kowalski,S.,Mr,Prof,,FULL,2004-01-06,,|USilesia|,,|CB|,seweryn.kowalski@us.edu.pl,Poland
+156,Tomáš,Balog,T.,Mr,Dr,,FULL,2010-07-02,2016-09-20,|GSI|,|GSI|UComenius|,,,Germany
+160,Bhavana,Bhavana,B.,Ms,,,EXT,2024-07-04,2024-10-25,|GSI|,|GSI|,,,Germany
+181,Ulrich,Frankenfeld,U.,Mr,Dr,,FULL,2011-07-22,,|GSI|,,,U.Frankenfeld@gsi.de,Germany
+212,Thorsten,Kollegger,T.,Mr,Dr,,ASSO,2015-10-09,,|GSI|,,,t.kollegger@gsi.de,Germany
+233,Osnan,Maragoto Rodríguez,O.,Mr,Dr,,FULL,2018-01-11,2024-03-16,|GSI|,|GSI|IKF-UFra|,,o.maragotorodriguez@gsi.de,Germany
+248,Dario Alberto,Ramírez Zaldivar,D.A.,Mr,,Phd,FULL,2021-05-03,,|GSI|,|IKF-UFra|,,d.ramirez@gsi.de,Germany
+291,Annette,Zimbelius,A.,Ms,,,STAFF,2012-09-16,,|GSI|,,,A.Zimbelius@gsi.de,Germany
+309,Burkhard,Kämpfer,B.,Mr,Prof,,FULL,2006-01-21,,|TUDresden|,|HZDR|,,B.Kaempfer@hzdr.de,Germany
+319,Olga,Derenovskaya,O.,Ms,Dr,,ASSO,2008-03-08,2023-04-04,|JINR-LIT|,|JINR-LIT|,,odenisova@jinr.ru,Russia
+347,Vjatcheslav,Golovatyuk,V.,Mr,Dr,,ASSO,2004-02-23,2019-02-27,|JINR-VBLHEP|,|JINR-VBLHEP|,,slava.golovatyuk@gmail.com,Russia
+377,Oleg,Rogachevsky,O.,Mr,,,FULL,2004-02-23,2012-01-20,|JINR-VBLHEP|,|JINR-VBLHEP|,,rogach@sunhe.jinr.ru,Russia
+386,Ivan,Tsakov,I.,Mr,Dr,,FULL,2012-02-06,2016-10-15,|JINR-VBLHEP|,|JINR-VBLHEP|,,ivan.tsakov@abv.bg,Russia
+395,Artemiy,Belousov,A.,Mr,,Phd,FULL,2016-07-25,,|FIAS|,,,ar.belousov@gsi.de,Germany
+396,Adrian,Bender,A.,Mr,,Ba,ASSO,2024-04-04,,|FIAS|,,,mail@adrian-bender.de,Germany
+447,Susanne,Gläßel,S.,Ms,M.Sci,Phd,FULL,2014-01-27,,|IKF-UFra|,,,glaessel@ikf.uni-frankfurt.de,Germany
+464,Manuel,Lorenz,M.,Mr,Dr,,FULL,2025-02-05,,|IKF-UFra|,|GSI|,,M.Lorenz@gsi.de,Germany
+466,Christina,Markert,C.,Ms,Prof,,EXT,2025-02-18,,|IKF-UFra|,|UAustin|,,cmarkert@physics.utexas.edu,Germany
+496,Christian,Trageser,C.,Mr,M.Sci,Phd,FULL,2009-12-15,2013-08-08,|IKF-UFra|,|IKF-UFra|,,,Germany
+516,Carlos Enrique,Muñoz Castillo,C.E.,Mr,B.Sci,Phd,FULL,2016-04-04,2016-10-20,|IRI-UFra|,|IRI-UFra|,,MunozCastillo@iri.uni-frankfurt.de,Germany
+541,Vladimir,Samsonov,V.,Mr,Prof,,FULL,2004-01-13,2020-11-15,|PNPI|,|PNPI|MEPhI|SPbPU|,,,Russia
+553,Christina Anna,Deveaux,C.A.,Ms,Dr,,FULL,2006-10-02,2018-09-01,|UGiessen|,|UGiessen|GSI|IPHC|,,Christina.A.Dritsa@exp2.physik.uni-giessen.de,Germany
+587,Cheng,Li,,Mr,Prof,,FULL,2005-12-17,2015-12-14,|USTC|,|USTC|,,licheng@ustc.edu.cn,China
+608,Ziping,Zhang,,Mr,Prof,,FULL,2005-12-17,2012-02-13,|USTC|,|USTC|,,zpz@ustc.edu.cn,China
+1165,Qiyan,Li,,Ms,,Phd,ASSO,2012-02-14,2023-05-11,|CCNU|,|CCNU|IKF-UFra|,,pigeon7736@gmail.com,China
+1166,Feng,Liu,,Mr,Prof,,FULL,2012-02-14,,|CCNU|,,,fliu@mail.ccnu.edu.cn,China
+1167,Hui,Liu,,Ms,,Phd,ASSO,2022-05-09,,|CCNU|,|PI-UHd|,,huihuiliu@mails.ccnu.edu.cn,China
+1169,Yaxian,Mao,,Ms,A.Prof,,FULL,2023-11-17,,|CCNU|,,,yaxian.mao@mail.ccnu.edu.cn,China
+1170,Ke,Mi,,Ms,,Phd,ASSO,2022-05-09,,|CCNU|,|PI-UHd|,,mike1996@mails.ccnu.edu.cn,China
+1171,Shusu,Shi,,Mr,Prof,,FULL,2015-12-04,,|CCNU|,,,shiss@mail.ccnu.edu.cn,China
+1172,Dong,Wang,,Mr,A.Prof,,FULL,2012-02-14,2021-02-01,|CCNU|,|CCNU|,,wangd@phy.ccnu.edu.cn,China
+1173,Yaping,Wang,,Mr,,,FULL,2009-03-02,2015-12-04,|CCNU|,|CCNU|,,wangyaping@mail.ccnu.edu.cn,China
+1174,Tao,Wu,,Mr,,,FULL,2005-03-16,2009-02-26,|CCNU|,|CCNU|,,wutao@iopp.ccnu.edu.cn,China
+1175,Changzhou,Xiang,,Mr,Dr,,FULL,2011-10-28,2017-02-24,|CCNU|,|CCNU|,,chxiang@physi.uni-heidelberg.de,China
+1176,Zhongbao,Yin,,Mr,Prof,,FULL,2005-03-16,,|CCNU|,,,zbyin@mail.ccnu.edu.cn,China
+1177,Xiaoming,Zhang,,Mr,Prof,,FULL,2019-03-30,,|CCNU|,,|CB-dep|,xiaoming.zhang@mail.ccnu.edu.cn,China
+1178,Yu,Zhang,,Mr,Dr,,FULL,2016-10-21,2023-11-17,|CCNU|,|CCNU|,,zhang_yu@mails.ccnu.edu.cn,China
+1179,Daicui,Zhou,,Mr,Prof,,FULL,2005-03-16,,|CCNU|,,,dczhou@mail.ccnu.edu.cn,China
+1180,Karl-Heinz,Becker,K.-H.,Mr,Dipl,,FULL,2008-11-28,2023-01-27,|UWuppertal|,|UWuppertal|,,becker@physik.uni-wuppertal.de,Germany
+1181,Gianluca,Boccarella,G.,Mr,,Ma,FULL,2023-02-06,,|UWuppertal|,,,1826909@uni-wuppertal.de,Germany
+1182,Abhishek Anil,Deshmukh,A.A.,Mr,M.Sci,Phd,FULL,2024-02-05,,|UWuppertal|,,,deshmukh@uni-wuppertal.de,Germany
+1183,Jörg,Förtsch,J.,Mr,Dr,,FULL,2014-01-27,,|UWuppertal|,,,j.foertsch@uni-wuppertal.de,Germany
+1184,Karl-Heinz,Kampert,K.-H.,Mr,Prof,,FULL,2008-11-28,,|UWuppertal|,,|CB|PL|RB|,kampert@uni-wuppertal.de,Germany
+1185,Sukyung,Kim,,Ms,M.Sci,Phd,FULL,2023-02-06,,|UWuppertal|,,,sukim@uni-wuppertal.de,Germany
+1186,Jan Martin,Kopfer,J.M.,Mr,Dr,,FULL,2010-02-05,2014-11-28,|UGiessen|,|UWuppertal|UGiessen|,,jan.kopfer@uni-wuppertal.de,Germany
+1187,Ievgenii,Kres,I.,Mr,Dr,,FULL,2015-09-10,2020-02-28,|UWuppertal|,|UWuppertal|,,ikres@uni-wuppertal.de,Germany
+1188,Simon,Neuhaus,S.,Mr,,Phd,FULL,2023-01-18,,|UWuppertal|,,,sneuhaus@uni-wuppertal.de,Germany
+1189,Vivek,Patel,V.,Mr,Dr,,ASSO,2016-03-23,2024-05-06,|UWuppertal|,|UWuppertal|,,vivekptl9@gmail.com,Germany
+1191,Jesús,Peña Rodríguez,J.,Mr,Dr,,FULL,2023-01-26,,|UWuppertal|,,,penarodriguez@uni-wuppertal.de,Germany
+1192,Dennis,Pfeifer,D.,Mr,Eng,,FULL,2014-11-27,,|UWuppertal|,,,pfeifer@uni-wuppertal.de,Germany
+1193,Jahan,Pouryamout,J.,Mr,Eng,,FULL,2009-10-14,2016-06-21,|UWuppertal|,|UWuppertal|,,,Germany
+1194,Tetiana,Povar,T.,Ms,M.Sci,Phd,FULL,2021-09-24,,|UWuppertal|,,,povar@uni-wuppertal.de,Germany
+1195,Sven,Querchfeld,S.,Mr,Dipl,Phd,FULL,2009-10-14,2019-11-04,|UWuppertal|,|UWuppertal|,,s.querchfeld@googlemail.com,Germany
+1196,Julian,Rautenberg,J.,Mr,Dr,,FULL,2008-11-28,2019-01-01,|UWuppertal|,|UWuppertal|,,julian.rautenberg@uni-wuppertal.de,Germany
+1197,Sascha,Reinecke,S.,Mr,Dr,,FULL,2011-12-09,2017-02-09,|UWuppertal|,|UWuppertal|,,uni@sascha-reinecke.com,Germany
+1198,Pavish,Subramani,P.,Mr,,Phd,FULL,2020-12-15,,|UWuppertal|,,|JR|,subramani@uni-wuppertal.de,Germany
+1199,Ruijia,Yang,,Ms,,Phd,FULL,2024-04-08,,|UWuppertal|,|IKP-FZJ|RUB|,,ryang@uni-wuppertal.de,Germany
+1200,Sheng-Qin,Feng,,Mr,Prof,,FULL,2015-04-23,,|CTGU|,,|CB|,fengsq@ctgu.edu.cn,China
+1201,Shuang,Li,,Mr,A.Prof,,FULL,2023-11-28,,|CTGU|,,,lish@ctgu.edu.cn,China
+1202,Jian-Hao,Ma,,Mr,M.Sci,,FULL,2019-03-07,2021-11-02,|CTGU|,|CTGU|,,451035900@qq.com,China
+1203,Xi-Wei,Wang,,Mr,,Ma,FULL,2015-05-05,2017-12-01,|CTGU|,|CTGU|,,1293775498@qq.com,China
+1204,Ke-Jun,Wu,,Mr,A.Prof,,FULL,2015-05-05,,|CTGU|,,,wukj@ctgu.edu.cn,China
+1205,Tao,Xiong,,Mr,M.Sci,,FULL,2021-11-02,2023-11-28,|CTGU|,|CTGU|,,1252431945@qq.com,China
+1206,Yan-Qing,Zhao,,Mr,M.Sci,Phd,FULL,2017-12-07,2019-03-07,|CTGU|,|CTGU|,,1217437609@qq.com,China
+1207,Sheng,Zheng,,Mr,Prof,,FULL,2015-05-05,,|CTGU|,,,zsh@ctgu.edu.cn,China
+1208,Jing,Zhou,,Mr,,Ma,FULL,2015-05-05,2017-12-01,|CTGU|,|CTGU|,,1005582919@qq.com,China
+1209,Zoran,Basrak,Z.,Mr,Dr,,FULL,2004-02-13,2013-11-07,|RBI|,|RBI|,,basrak@irb.hr,Croatia
+1210,Roman,Čaplar,R.,Mr,Prof,,FULL,2003-01-14,2013-11-07,|RBI|,|RBI|,,caplar@irb.hr,Croatia
+1211,Igor,Gašparić,I.,Mr,Dr,,FULL,2004-02-13,2013-11-07,|RBI|,|RBI|,,igaspar@irb.hr,Croatia
+622,Nils,Heyer,N.,Mr,,Ba,ASSO,2019-04-17,2019-11-08,|PI-UHd|,|PI-UHd|,,heyer-96@web.de,Germany
+638,Karl-Heinz,Brenner,K.-H.,Mr,Prof,,FULL,2004-01-11,2009-03-04,|ZITI-UHd|,|ZITI-UHd|,,brenner@ziti.uni-heidelberg.de,Germany
+669,Anik,Gupta,A.,Mr,Eng,,FULL,2007-10-01,,|UJammu|,,,anik.gupta@cern.ch,India
+692,Vladimir,Sidorenko,V.,Mr,M.Sci,Phd,FULL,2016-12-07,,|KIT|,|JINR-VBLHEP|,,vladimir.sidorenko@kit.edu,Germany
+699,Achintya,Haldar,A.,Mr,Prof,,FULL,2012-02-10,2014-12-09,|IIT-KGP|,|IIT-KGP|,,achintya@ece.iitkgp.ernet.in,India
+716,Sidharth Kumar,Prasad,S.K.,Mr,A.Prof,,FULL,2016-03-31,,|Bose|,,,sprasad@cern.ch,India
+746,Anand Kumar,Dubey,A.K.,Mr,Dr,,FULL,2007-02-07,,|VECC|,,|CB|PTC|,anand@vecc.gov.in,India
+774,Krzysztof,Kasiński,K.,Mr,Dr.habil,,FULL,2009-02-09,,|AGH|,,,kasinski@agh.edu.pl,Poland
+776,Piotr,Kmon,P.,Mr,Dr.habil,,FULL,2013-01-09,2018-10-03,|AGH|,|AGH|,,kmon@agh.edu.pl,Poland
+790,Janusz,Brzychczyk,J.,Mr,Dr.habil,,FULL,2004-02-13,,|UJagiellonian|,,,janusz.brzychczyk@uj.edu.pl,Poland
+819,Dmytro,Ramazanov,D.,Mr,M.Sci,Phd,FULL,2017-12-06,2019-10-31,|KINR|,|KINR|,,dramazanov@kinr.kiev.ua,Ukraine
+848,Nikolay,Karpushkin,N.,Mr,M.Sci,Phd,FULL,2018-09-27,2023-04-04,|INR|,|INR|,,karpushkin@inr.ru,Russia
+853,Victor,Marin,V.,Mr,,,FULL,2010-03-24,2013-08-05,|INR|,|INR|,,marin@inr.ru,Russia
+861,Nataliya,Topil'skaya,N.,Mr,Dr,,FULL,2004-02-23,2019-03-07,|INR|,|INR|,,topilska@inr.ru,Russia
+892,Boris,Bogdanovich,B.,Mr,Prof,,FULL,2005-03-11,2009-03-25,|MEPhI|,|MEPhI|,,bogdan@uni.mephi.ru,Russia
+919,Vladislav,Manko,V.,Mr,Prof,,FULL,2004-02-23,2023-04-04,|NRC-KI|,|NRC-KI|,,Vladislav.Manko@cern.ch,Russia
+931,Konstantin,Baans,K.,Mr,,Ba,ASSO,2024-10-25,,|UMuenster|,,,k.baans@uni-muenster.de,Germany
+944,Christian,Klein-Bösing,Ch.,Mr,Prof,,FULL,2006-01-09,,|UMuenster|,,|CB-dep|,christian.klein-boesing@uni-muenster.de,Germany
+978,Valeri,Saveliev,V.,Mr,Prof,,FULL,2004-02-27,2015-09-17,|UObninsk|,|UObninsk|,,,Russia
+1005,Mikhail,Ukhanov,M.,Mr,Dr,,FULL,2007-03-23,2012-05-29,|IHEP|,|IHEP|,,Mikhail.Ukhanov@ihep.ru,Russia
+1008,Kyung-Eon,Choi,,Mr,M.Sci,Phd,FULL,2004-02-13,2014-12-02,|PNU|,|PNU|,,kyungeon@gmail.com,Korea
+1020,Vassilyi,Kushpil,V.,Mr,Dr,,ASSO,2013-04-09,2023-11-10,|NPI-CAS|,|NPI-CAS|,,kushpil@ujf.cas.cz,Czech Republic
+1046,Sajad Ahmad,Lone,S.A.,Mr,M.Phil,Phd,FULL,2015-12-17,2017-12-21,|UKashmir|,|UKashmir|,,sajadahmadlone@gmail.com,India
+1074,Abdelkader,Himmi,A.,Mr,M.Sci,,FULL,2006-01-21,,|IPHC|,,,abdelkader.himmi@iphc.cnrs.fr,France
+1087,ShinIchi,Esumi,S.,Mr,Prof,,FULL,2021-09-29,,|TCHoU|,,|CB|,esumi.shinichi.gn@u.tsukuba.ac.jp,Japan
+1090,Toshihiro,Nonaka,T.,Mr,A.Prof,,FULL,2021-09-29,,|TCHoU|,,,nonaka.toshihiro.ge@u.tsukuba.ac.jp,Japan
+1122,Zuzanna,Gnutek,Z.,Ms,M.Sci,,ASSO,2019-07-04,2022-02-28,|IF-WUT|,|IF-WUT|ISE-WUT|,,zuziagnutek@gmail.com,Poland
+1149,Tomasz,Matulewicz,T.,Mr,Prof,,FULL,2004-02-13,,|UWarsaw|,,,Tomasz.Matulewicz@fuw.edu.pl,Poland
+1164,Yige,Huang,,Mr,,Phd,FULL,2024-03-19,,|CCNU|,|GSI|,,yghuang@mails.ccnu.edu.cn,China
+1168,Xiaofeng,Luo,,Mr,Prof,,FULL,2015-12-04,,|CCNU|,,|CB|,xfluo@mail.ccnu.edu.cn,China
+1190,Christian,Pauly,C.,Mr,Dr,,FULL,2010-04-21,,|UWuppertal|,,|CB-dep|PL-dep|,pauly@physik.uni-wuppertal.de,Germany
+243,Jonas,Neumann,J.,Mr,,,STAFF,2023-09-14,,|GSI|,,,j.neumann@gsi.de,Germany
+9997,Katia,Santos Marrero,,,,,,,,|GSI|,,,k.santosmarrero@gsi.de,Germany
+9998,Gnana Sindhu,Subramanya,,,,,,,,|UTuebingen|,,,g.s.subramanya@gsi.de,Germany
+9996,Nilay Kumar,Bhowmik,,,,,,,,|VECC|,,,,India
+9995,Savina Noelle,Thau,,,,,,,,|UGiessen|,,,,Germany
